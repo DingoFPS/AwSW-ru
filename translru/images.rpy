@@ -12,8 +12,8 @@ translate russiantl strings:
 
     # images.rpy:1139
     old "Reza"
-    new "Риза"
-
+    new "Реза"
+# Комментарий разработчика The first e in Reza is pronounced the same how it is in the first syllable of "bezel". Adine is pronounced as Ad-een
     # images.rpy:1140
     old "Maverick"
     new "Маверик"
@@ -28,7 +28,7 @@ translate russiantl strings:
 
     # images.rpy:1143
     old "Bryce"
-    new "Брайс"
+    new "Брюс"
 
     # images.rpy:1144
     old "Zhong"
@@ -65,7 +65,7 @@ translate russiantl strings:
     # images.rpy:1154
     old "Francois"
     new "Франкойс"
-
+# Француа?
     # images.rpy:1155
     old "Sybil"
     new "Сивилла"
@@ -80,7 +80,7 @@ translate russiantl strings:
 
     # images.rpy:1159
     old "Store Clerk"
-    new "Клерк Магазина"
+    new "Клерк Магазина" #TODO
 
     # images.rpy:1161
     old "Katsuharu"

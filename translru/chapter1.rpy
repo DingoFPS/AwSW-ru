@@ -11,6 +11,7 @@ translate russiantl nameentryx_058ab5bf:
 
     # s "User profile not found."
     s "Профиль не найден."
+    $ player_name = u"Имя"
 
 # game/chapter1.rpy:108
 translate russiantl colormenu1_e933acee:
@@ -674,7 +675,7 @@ translate russiantl holetravel_49a3a932:
 translate russiantl holetravel_d92940c8:
 
     # n "So many would depend on it, yet I did not even know where the only human contact I had currently was."
-    n "Столькое будет зависеть от меня, хотя я даже не знал какая связь с человечеством существовала у меня в настоящее время." # TODO
+    n "Столькое будет зависеть от меня, хотя я даже не знал какая связь с человечеством существовала у меня в настоящее время." # TODO имеется ввиду что ГГ не знал где Реза
 
 # game/chapter1.rpy:745
 translate russiantl holetravel_75a177a0:
@@ -738,7 +739,7 @@ translate russiantl seccont_76b2fe88:
 translate russiantl seccont_f6acc4a0:
 
     # n "I awoke from uneasy dreams looking at an unfamiliar ceiling. Just for a moment, I wondered where I was before the events of last night all came back to me."
-    n "Я проснулся от неприятных снов, глядя на непривычный потолок. На несколько секунд, я не мог понять, где я был, как только воспоминания событий прошлой ночи вернулись ко мне."
+    n "Я проснулся от неприятных снов, глядя на непривычный потолок. На несколько секунд, я не мог понять, где я был, как только воспоминания событий прошлой ночи вернулись ко мне." #TODO
 
 # game/chapter1.rpy:1148
 translate russiantl seccont_22affa1d:
@@ -799,7 +800,7 @@ translate russiantl _call_skipcheck_2_dd8ee6c6:
 
     # m "He seemed a lot smaller than Remy, and when he somewhat nervously extended his arm towards me, I noticed he apparently only walked on his hind legs, the two forelimbs instead having distinct arms, hands and fingers."
     m "Он выглядел намного меньше Реми. Когда он отчасти нервно протянул ко мне свою руку, я заметил две передние лапы вместо отчетливых рук, кистей и пальцев, а также и то, что он, очевидно, ходит только на задних лапах." #TODO БЛЯть
-
+# я заметил что он ходит только на задних лапах, а так же что у него, вместо отчетливых рук, кистей и пальцев были просто две передние лапы.? звучит(звучало как хуйня) как хуйня
 # game/chapter1.rpy:1264
 translate russiantl _call_skipcheck_2_369fcd63:
 
@@ -810,31 +811,31 @@ translate russiantl _call_skipcheck_2_369fcd63:
 translate russiantl _call_skipcheck_2_7a25dc5e:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Тоже приятно познакомиться, Себастиан. Итак, куда мы собираемся?" #TODO
 
 # game/chapter1.rpy:1268
 translate russiantl _call_skipcheck_2_7a25dc5e_1:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Тоже приятно познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Тоже приятно познакомиться, Себастиан. Итак, куда мы собираешься?"
 
 # game/chapter1.rpy:1274
 translate russiantl _call_skipcheck_2_540956bc:
 
     # m "When I took his hand into mine, preparing to kiss it, I could feel the individual bumps and scales on his rough skin."
-    m "Когда я взял его руку, готовясь поцеловать её, я почувствовал отдельные бугорки и неровности на его грубой коже."
+    m "Когда я взял его руку, готовясь поцеловать её, я почувствовал отдельные бугорки и чешуйки на его грубой коже." #TODO?
 
 # game/chapter1.rpy:1278
 translate russiantl _call_skipcheck_2_7a25dc5e_2:
 
     # c "Nice to meet you too, Sebastian. So, where are you taking me?"
-    c "Я тоже рад познакомиться, Себастиан. Так, куда ты собираешься вести меня?"
+    c "Я тоже рад познакомиться, Себастиан. Итак, куда мы собираемся?" #TODO?
 
 # game/chapter1.rpy:1284
 translate russiantl _call_skipcheck_2_89d32851:
 
     # Sb "Straight to business, eh? We're going to visit the plant where they are making your generators. They have some news for you, or so I've heard."
-    Sb "Сразу к делу? Мы собираемся посетить завод, где собирают ваши генераторы. У них есть какие-то новости для тебя. По крайней мере, я так слышал." # TODO
+    Sb "Сразу к делу? Мы собираемся посетить завод, где собирают ваши генераторы. Я слышал что у них есть какие-то новости для тебя." # TODO?
 
 # game/chapter1.rpy:1285
 translate russiantl _call_skipcheck_2_e6da4888:
@@ -846,7 +847,7 @@ translate russiantl _call_skipcheck_2_e6da4888:
 translate russiantl _call_skipcheck_2_5a47fdba:
 
     # c "Sounds great."
-    c "Звучит отлично."
+    c "Звучит отлично." #TODO
 
 # game/chapter1.rpy:1287
 translate russiantl _call_skipcheck_2_cc9b257f:
@@ -864,7 +865,7 @@ translate russiantl _call_skipcheck_2_76b2fe88:
 translate russiantl _call_skipcheck_2_a0f2016d:
 
     # n "While we walked, I was under the impression we were purposefully avoiding the busier parts of the town, instead straying towards the edges and small alleys as to not garner too much attention."
-    n "Пока мы шли, у меня создалось впечатление, что мы намеренно обходили более оживленные части города, вместо этого блуждая по краям города и небольшим аллеям, чтобы не привлекать слишком много внимания."
+    n "Пока мы шли, у меня создалось впечатление, что мы намеренно обходили более оживленные части города, вместо этого блуждая по краям города и небольшим аллеям, чтобы не привлекать слишком много внимания." #TODO
 
 # game/chapter1.rpy:1299
 translate russiantl _call_skipcheck_2_04ea8b49:
@@ -876,7 +877,7 @@ translate russiantl _call_skipcheck_2_04ea8b49:
 translate russiantl _call_skipcheck_2_a313ff65:
 
     # n "After just a couple of minutes, we arrived at our destination where we were met by Reza, as well as yet another dragon, a vicious looking beast that didn't stay too close to him."
-    n "Всего лишь через пару минут мы прибыли к нужному месту, где нас встретил Реза. И также другой дракон - злобное на вид чудовище - стоя не слишком близко к нему."
+    n "Всего лишь через пару минут мы прибыли к нужному месту, где нас встретил Реза. И также другой дракон - злобное на вид чудовище - стоя не слишком близко к нему." #TODO
 
 # game/chapter1.rpy:1319
 translate russiantl _call_skipcheck_2_ed3bc404:
@@ -972,8 +973,8 @@ translate russiantl _call_skipcheck_2_3070bc42:
 translate russiantl _call_skipcheck_2_d732b21c:
 
     # Mv "So you're saying you haven't noticed the stares and how they all treat you like you're the next messiah or something?"
-    Mv "Ты хочешь сказать, что не заметил все эти взгляды со стороны, и как хорошо к тебе относятся, как-будто ты следующий спасителем мира?" # TODO
-    # Ты хочешь сказать, что ты не заметил как одобрительно они на тебя пялятся, будто бы ты вестник новой эры?
+    Mv "Ты хочешь сказать, что не заметил как одобрительно они на тебя пялятся, будто бы ты вестник новой эры?" # TODO?
+
 # game/chapter1.rpy:1358
 translate russiantl _call_skipcheck_2_529aeda4:
 
@@ -990,8 +991,8 @@ translate russiantl _call_skipcheck_2_4f894d15:
 translate russiantl _call_skipcheck_2_bf0efca8:
 
     # m "A growl escaped the darker dragon's trembling lips as he bared his teeth at Reza."
-    m "Из дрожащей чёрной пасти дракона вырвалось рычание, только он оскалил зубы на Резу." # TODO
-
+    m "Из дрожащей чёрной пасти дракона вырвалось рычание, только он оскалил зубы на Резу." # TODO сильно поэтично?
+    # Дракон оскалил зубы на Резу, и из его дрожащей пасти вырвалось рычание.
 # game/chapter1.rpy:1373
 translate russiantl _call_skipcheck_2_9cffa3e3:
 
@@ -1026,7 +1027,7 @@ translate russiantl _call_skipcheck_2_aed26b36:
 translate russiantl _call_skipcheck_2_1e106597:
 
     # Sb "Wait a minute, I thought we were going to meet the guys from production. What are you doing here?"
-    Sb "Одну минуту, я думал, нас собирались встретить ребята из производства. Что ты делаешь здесь?"
+    Sb "Минуточку, я думал нас собирались встретить ребята из производства. Что ты делаешь здесь?"
 
 # game/chapter1.rpy:1405
 translate russiantl _call_skipcheck_2_8c860b7d:
@@ -1044,7 +1045,7 @@ translate russiantl _call_skipcheck_2_759b976c:
 translate russiantl _call_skipcheck_2_46975328:
 
     # Sb "Well, [player_name], this is Anna. She kinda manages this building, though actually she's more involved with the research wing rather than production and engineering."
-    Sb "Что ж, [player_name], это Анна. Она, вроде как, заведует этим зданием, хотя на самом деле она в большей части работает с исследовательским крылом, чем производственным и инженерным."
+    Sb "Что ж, [player_name], это Анна. Она, вроде как, заведует этим зданием, хотя на самом деле она в большей части работает с исследовательским крылом, чем производственным и инженерным." #TODO?
 
 # game/chapter1.rpy:1411
 translate russiantl _call_skipcheck_2_ec602286_1:
@@ -1056,7 +1057,7 @@ translate russiantl _call_skipcheck_2_ec602286_1:
 translate russiantl _call_skipcheck_2_e2ad732a:
 
     # An "My pleasure. I have something for you, by the way. It'll take them a while to make all the generators we promised, but we've got one for you here. Feel free to send it home and give it a test."
-    An "Весьма приятно. У меня есть кое-что для вас, кстати. Им понадобится некоторое время, чтобы собрать все обещанные генераторы, но здесь уже один подготовлен для вас. Вы вольны отправить его домой и провести тестирование."
+    An "Весьма приятно. У меня есть кое-что для вас, кстати. Им понадобится некоторое время, чтобы собрать все обещанные генераторы, но здесь уже один подготовлен для вас. Вы вольны отправить его домой и провести тестирование." #TODO?
 
 # game/chapter1.rpy:1420
 translate russiantl _call_skipcheck_2_494a6341:
@@ -1068,37 +1069,37 @@ translate russiantl _call_skipcheck_2_494a6341:
 translate russiantl _call_skipcheck_2_83471fa0:
 
     # c "Looks a little small, if you ask me."
-    c "Выглядит не очень большим, по моему мнению." # TODO
+    c "Выглядит не очень большим, по моему мнению." # TODO?
 
 # game/chapter1.rpy:1425
 translate russiantl _call_skipcheck_2_71aa7402:
 
     # An "Don't underestimate its power. Oh, and do be careful not to drop it."
-    An "Не недооценивай его мощь. О, и не уроните его по неосторожности."
+    An "Не недооценивай его мощь. О, и не уроните его по неосторожности." #TODO?
 
 # game/chapter1.rpy:1426
 translate russiantl _call_skipcheck_2_6e8828ce:
 
     # Rz "Sure. I'll be waiting outside while you do your thing, [player_name]."
-    Rz "Конечно, я буду ждать снаружи, пока ты делаешь свои дела, [player_name]."
+    Rz "Конечно. Я буду ждать снаружи, пока ты тут занимаешься своими делами, [player_name]." #TODO?
 
 # game/chapter1.rpy:1434
 translate russiantl _call_skipcheck_2_07f32a3b:
 
     # Sb "I suppose I'll wait for you outside as well."
-    Sb "Думаю, я тоже подожду тебя снаружи."
+    Sb "Думаю я тоже подожду тебя снаружи."
 
 # game/chapter1.rpy:1442
 translate russiantl _call_skipcheck_2_352f0511:
 
     # c "What thing?"
-    c "Какие дела?"
+    c "Какими делами?"
 
 # game/chapter1.rpy:1443
 translate russiantl _call_skipcheck_2_e7d08b3b:
 
     # An "Oh, have you brought the PDA?"
-    An "О, так ты захватил КПК?"
+    An "О, ты захватил КПК?"
 
 # game/chapter1.rpy:1444
 translate russiantl _call_skipcheck_2_22753051:
@@ -1110,7 +1111,7 @@ translate russiantl _call_skipcheck_2_22753051:
 translate russiantl _call_skipcheck_2_e93cdc3b:
 
     # An "Alright, now to give this thing a test run..."
-    An "Прекрасно, теперь проверим эту штуковину..." # TODO
+    An "Прекрасно, теперь проверим эту штуковину..." # TODO?
 
 # game/chapter1.rpy:1452
 translate russiantl _call_skipcheck_2_677e591a:
@@ -1123,7 +1124,7 @@ translate russiantl _call_skipcheck_2_63d2793a:
 
     # An "By the way, would you consider letting me run some tests on you as well? It would only take a drop of your blood."
     An "Кстати, ты был бы не против, если бы я и у тебя взяла несколько анализов? Мне нужна всего лишь капля твоей крови." # TODO
-
+    # Если бы я провела на тебе парочку тестов? Экспериментов?
 # game/chapter1.rpy:1455
 translate russiantl _call_skipcheck_2_115c34c4:
 
@@ -1164,20 +1165,20 @@ translate russiantl _call_skipcheck_2_35e7a623:
 translate russiantl _call_skipcheck_2_ff60882c:
 
     # m "She was quick to produce a small device from a drawer, which from a glance reminded me a lot of a test tube."
-    m "Она быстро достала небольшое устройство из ящика, которое на внешний вид во многом напоминало мне пробирку."
+    m "Она быстро достала небольшое устройство, внешним своим видом напоминающее пробирку, из ящика." #TODO
 
 # game/chapter1.rpy:1482
 translate russiantl _call_skipcheck_2_4cb93198:
 
     # An "Now, if you would give me your hand, please."
-    An "Теперь, если ты позволишь, подай мне свою руку, пожалуйста." # TODO
+    An "Теперь, дай мне свою руку, пожалуйста." # TODO
 
 # game/chapter1.rpy:1483
 translate russiantl _call_skipcheck_2_5bb6a80a:
 
     # m "As I reached out to her, she took my hand into hers before she pressed the device into the back of my hand. I winced as pain jolted through my hand. Something sharp drove itself through my skin and, shortly afterwards, a droplet of blood was sucked into the tube attached to the small needle."
-    m "Протянувшись к ней, она взяла меня за руку и прижала устройство прямо в тыльную сторону руки. Я вздрогнул от боли, прошедшей через моё тело. Что-то острое просочилось через мою кожу, и вскоре после этого капелька крови затянулась в трубку, соединённой с маленькой иглой." #TODO блять
-
+    m "Протянувшись к ней, она взяла меня за руку и прижала устройство прямо в тыльную сторону руки. Я вздрогнул от боли, прошедшей через моё тело. Что-то острое прокололо мою кожу, и вскоре после этого капелька крови затянулась в трубку, соединённую с маленькой иглой." #TODO блять
+#Я протянул ей руку, Она взяла меня за руку ухх бля
 # game/chapter1.rpy:1485
 translate russiantl _call_skipcheck_2_26e39b53:
 
@@ -1188,7 +1189,7 @@ translate russiantl _call_skipcheck_2_26e39b53:
 translate russiantl _call_skipcheck_2_7e89f10e:
 
     # c "You're... welcome?"
-    c "... Всегда пожалуйста?"
+    c "Всегда... пожалуйста?"
 
 # game/chapter1.rpy:1503
 translate russiantl _call_syscheck_4_90c87390:
@@ -1206,13 +1207,13 @@ translate russiantl _call_syscheck_4_32106a9e:
 translate russiantl _call_syscheck_4_62f75a4e:
 
     # s "You gave Anna your blood? Oh, well...{image=image/ui/status/havetestresults.png}"
-    s "Вы дали Анне свою кровь? Даже так...{image=image/ui/status/havetestresults.png}"
+    s "Вы дали Анне свою кровь? Даже так...{image=image/ui/status/havetestresults.png}" #TODO
 
 # game/chapter1.rpy:1515
 translate russiantl _call_syscheck_4_6ef34d2e:
 
     # An "Looks like your PDA is good, by the way, so we're just about done here."
-    An "Похоже с вашим КПК всё хорошо. Кстати, мы почти закончили с этим."
+    An "Похоже с вашим КПК всё хорошо. Кстати, мы почти закончили с этим." #TODO? она имеет ввиду что она закончила брать у ГГ кровь.
 
 # game/chapter1.rpy:1516
 translate russiantl _call_syscheck_4_efd29328:
@@ -1236,7 +1237,7 @@ translate russiantl _call_syscheck_4_46986bde:
 translate russiantl _call_syscheck_4_ee80c080:
 
     # c "Well, that was interesting."
-    c "Ну, было интересно."
+    c "Ну, это было интересно." #TODO?
 
 # game/chapter1.rpy:1529
 translate russiantl _call_syscheck_4_aa6687bb:
@@ -1260,7 +1261,7 @@ translate russiantl _call_syscheck_4_ee81a23f:
 translate russiantl _call_syscheck_4_6bc8260f:
 
     # Rz "Me neither. I mean, if we're going to give them our body, let's not do it for free, right?"
-    Rz "Я тоже. В смысле, если мы собираемся позволить изучить наше тело, то почему бы не получить с этого выгоду, ведь так?"
+    Rz "Я тоже. Ну, если мы собираемся позволить изучить наше тело, то почему бы не получить с этого выгоду, ведь так?"
 
 # game/chapter1.rpy:1536
 translate russiantl _call_syscheck_4_c48dc32f:
@@ -1290,7 +1291,7 @@ translate russiantl _call_syscheck_4_ed80bfe0:
 translate russiantl _call_syscheck_4_f6fea122:
 
     # Sb "That shouldn't be a problem. There's a café not far from here. What do you say, Mavers?"
-    Sb "Это не должно быть проблемой. Неподалёку отсюда есть кафе. Что скажешь, Маверс?"
+    Sb "Это не должно быть проблемой. Неподалёку отсюда есть кафе. Что скажешь, Маверс?" #TODO
 
 # game/chapter1.rpy:1551
 translate russiantl _call_syscheck_4_0facad65:
@@ -1338,19 +1339,19 @@ translate russiantl _call_skipcheck_3_0054b77b:
 translate russiantl _call_skipcheck_3_98a18a10:
 
     # m "Luckily for us, the café was mostly empty when we arrived, as it was still pretty early in the day. Reza was quick to lead me to a table for two, prompting the dragons to get one of their own at the other side of the restaurant."
-    m "К счастью для нас, к нашему прибытию было ещё раннее время и кафе оказалось почти пустым. Реза быстро отвёл меня к столу на двоих, что вынудило драконов занять места в другой части ресторана." #TODO
+    m "К счастью для нас, к нашему прибытию было ещё раннее время и кафе оказалось почти пустым. Реза быстро отвёл меня к столу на двоих, что вынудило драконов занять места в другой части ресторана." #TODO?
 
 # game/chapter1.rpy:1625
 translate russiantl _call_skipcheck_3_bac0030c:
 
     # Rz "Eugh, finally. I can't stand that guy being on my tail all the damn time."
-    Rz "Ух, наконец-то. Не мог терпеть, когда этот парень все время висит на моём хвосте всё это чёртово время." #TODO
+    Rz "Ух, наконец-то. Не мог терпеть, когда этот парень все время висит на моём хвосте." #всё это чёртово время." #TODO?
 
 # game/chapter1.rpy:1629
 translate russiantl _call_skipcheck_3_9bff7a4c:
 
     # Rz "I'm very much aware that is what they're saying."
-    Rz "Я очень сомневаюсь в том, что они говорят."
+    Rz "Я очень сомневаюсь в том, что они говорят." #TODO?
 
 # game/chapter1.rpy:1632
 translate russiantl _call_skipcheck_3_5fc1536a:
@@ -1374,7 +1375,7 @@ translate russiantl _call_skipcheck_3_600f3c23:
 translate russiantl _call_skipcheck_3_68833c8b:
 
     # "???" "Oh, it's the humans!"
-    "???" "Ой, это люди!"
+    "???" "Ой, это же люди!"
 
 # game/chapter1.rpy:1662
 translate russiantl _call_skipcheck_3_3bf4c97d_1:
@@ -1440,13 +1441,13 @@ translate russiantl _call_skipcheck_3_d29fed27:
 translate russiantl _call_skipcheck_3_cf34577b:
 
     # Rz "As I was saying, if you look at the big picture, don't you think there's just something... off about this whole place? Where is it, really?"
-    Rz "Как я говорил, если ты посмотришь на картину в целом, тебе не кажется, что здесь что-то... не так с этим всем местом? Действительно, где оно находится?"
+    Rz "Как я говорил, если ты посмотришь на картину в целом, тебе не кажется, что здесь что-то... не так с этим всем местом? Действительно, где же оно находится?"
 
 # game/chapter1.rpy:1704
 translate russiantl _call_skipcheck_3_15dfbdc0:
 
     # Rz "If this is supposed to be a completely separate place from Earth or even a different dimension, some things just don't add up. Don't you think so too?"
-    Rz "Если это предположительно совсем отдельное от Земли место или даже другое измерение, некоторые вещи просто не вписываются. Разве ты так не считаешь тоже?"
+    Rz "Если это предположительно совсем отдельное от Земли место или даже другое измерение, некоторые вещи просто не вписываются. Разве ты так не считаешь тоже?" #TODO?
 
 # game/chapter1.rpy:1716
 translate russiantl _call_skipcheck_3_b8b2e60e:
@@ -1458,13 +1459,13 @@ translate russiantl _call_skipcheck_3_b8b2e60e:
 translate russiantl _call_skipcheck_3_0fd8eb86:
 
     # Rz "I can't really say much more with you-know-who over there. He's probably listening to us right now."
-    Rz "Я и вправду не могу сказать большего с сам-знаешь-кем здесь. Возможно, он прямо сейчас подслушивает нас." #TODO
+    Rz "Я и вправду не могу сказать большего с сам-знаешь-кем здесь. Возможно, он прямо сейчас подслушивает нас." #TODO?
 
 # game/chapter1.rpy:1731
 translate russiantl _call_skipcheck_3_ad30f800:
 
     # m "When I let my gaze wander, I saw that Maverick was looking in my direction. Our eyes met briefly, his expression not showing any discernible emotion, while I wondered whether it had just been a coincidence or if he really was able to hear us from the distance."
-    m "Когда я обвёл взглядом кафе, я увидел, что Маверик смотрел в моём направлении. На небольшой момент наши глаза встретились, и его выражение не показывало никаких заметных эмоций. Я спрашивал себя: было ли это просто случайностью, или он действительно способен слышать нас с такого расстояния."
+    m "Когда я обвёл взглядом кафе, я увидел, что Маверик смотрел в моём направлении. На небольшой момент наши глаза встретились, и его выражение не показывало никаких заметных эмоций. Я задался вопросом: было ли это просто случайностью, или он действительно способен слышать нас с такого расстояния."
 
 # game/chapter1.rpy:1732
 translate russiantl _call_skipcheck_3_eb44c2be:
@@ -1494,7 +1495,7 @@ translate russiantl _call_skipcheck_3_0a540143:
 translate russiantl _call_skipcheck_3_b2abfd61:
 
     # Rz "God knows we need them."
-    Rz "Бог знает, что мы нуждаемся в них."
+    Rz "Бог знает, что мы нуждаемся в них." #TODO?
 
 # game/chapter1.rpy:1737
 translate russiantl _call_skipcheck_3_761a7bf3:
@@ -1536,7 +1537,7 @@ translate russiantl _call_skipcheck_3_2355e57c:
 translate russiantl _call_skipcheck_3_f73d296c:
 
     # m "To be honest, I was a little skeptical of the kind of coffee they might come up with in a place like this, but after a mouthful I had to admit it wasn't so bad. I've certainly had much worse before."
-    m "Честно говоря, я был настроен немного скептически по отношению к тому, какой кофе они могли бы приготовить в подобном месте. Но после небольшого глотка, должен признать, он не такой уж и плохой. В своей жизни я пробовал кофе гораздо хуже."
+    m "Честно говоря, я был настроен немного скептически по отношению к тому, какой кофе они могли бы приготовить в подобном месте. Но после небольшого глотка, должен признать, он не такой уж и плохой. В своей жизни я пробовал кофе гораздо хуже." #TODO?
 
 # game/chapter1.rpy:1777
 translate russiantl _call_skipcheck_3_cb9d0dd9:
@@ -1584,13 +1585,13 @@ translate russiantl _call_skipcheck_3_8d2721c9:
 translate russiantl _call_skipcheck_3_1ccb67dc:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. У меня не было ни единой идеи, какая угроза могла таиться за всем этим." # TODO
+    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. Я не имел ни малейшего понятия о том, какая угроза могла таиться за всем этим." # TODO
 
 # game/chapter1.rpy:1794
 translate russiantl _call_skipcheck_3_d54bfe60:
 
     # m "Eventually, I took a bite of my somewhat unusual breakfast. While I already thought the smell was quite peculiar, the taste had been even worse. I imagined it might be the kind of delicacy that had an acquired taste. One that I certainly hadn't acquired yet. I decided to get outside before it was too late."
-    m "В конце концов, я снова откусил свой несколько необычный завтрак. В то время как запах казался мне довольно специфическим, на вкус было даже хуже. Блюдо представлялось мне неким видом деликатеса на любителя. На любителя, которым я определённо не являлся. Я решил выйти наружу до того, как станет слишком поздно." #TODO
+    m "В конце концов, я снова откусил кусочкек от своего несколько необычного завтрака. В то время как запах казался мне довольно специфическим, на вкус было даже хуже. Блюдо представлялось мне неким видом деликатеса на любителя. На любителя, которым я определённо не являлся. Я решил выйти наружу до того, как станет слишком поздно." #TODO
 
 # game/chapter1.rpy:1799
 translate russiantl _call_skipcheck_3_0da74151:
@@ -1608,7 +1609,7 @@ translate russiantl _call_skipcheck_3_abca11aa:
 translate russiantl _call_skipcheck_3_1ccb67dc_1:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. У меня не было ни единой идеи, какая угроза могла таиться за всем этим." #TODO я даже не догадывался?
+    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. Я не имел ни малейшего понятия о том, какая угроза могла таиться за всем этим." #TODO? я даже не догадывался?
 
 # game/chapter1.rpy:1802
 translate russiantl _call_skipcheck_3_82a88f03:
@@ -1632,7 +1633,7 @@ translate russiantl _call_skipcheck_3_c71f2cb3:
 translate russiantl _call_skipcheck_3_1ccb67dc_2:
 
     # m "Not that this whole situation was already bizarre enough, there was also now the vague sense of danger conveyed by Reza's earlier words. I did not even have an idea what kind of threat might be lurking out there."
-    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. У меня не было ни единой идеи, какая угроза могла таиться за всем этим." #TUUUDOO TODO
+    m "Теперь не только вся эта ситуация являлась достаточно эксцентричной, но и создавалось чувство опасности, учитывая слова Резы. Я не имел ни малейшего понятия о том, какая угроза могла таиться за всем этим." #TUUUDOO TODO
 
 # game/chapter1.rpy:1808
 translate russiantl _call_skipcheck_3_82a88f03_1:
@@ -1656,7 +1657,7 @@ translate russiantl _call_skipcheck_3_aa712441:
 translate russiantl _call_skipcheck_3_1e2273f4:
 
     # Sb "How'd you like it?"
-    Sb "Тебе понравилось?"
+    Sb "Ну как на вкус?" #TODO тавтология
 
 # game/chapter1.rpy:1817
 translate russiantl _call_skipcheck_3_3271cb01:
@@ -1668,7 +1669,7 @@ translate russiantl _call_skipcheck_3_3271cb01:
 translate russiantl _call_skipcheck_3_2f18e3e6:
 
     # Sb "And you wouldn't be the only one to say that. You better wait outside just in case it decides to come up again."
-    Sb "И ты будешь не единственным, кто так скажет. Тебе лучше подождать снаружи."
+    Sb "И ты будешь не единственным, кто так скажет. Тебе лучше подождать снаружи, так, на всякий случай." #TODO утолстить?
 
 # game/chapter1.rpy:1834
 translate russiantl _call_syscheck_6_c55bcfa6:
@@ -1710,7 +1711,7 @@ translate russiantl _call_syscheck_6_e631bc97:
 translate russiantl _call_syscheck_6_b1ff8271:
 
     # n "I stepped outside, taking in the scenery of this strangely familiar world."
-    n "Я вышел на улицу, изучая взглядом пейзажи этого поразительно знакомого, странного мира."
+    n "Я вышел на улицу, изучая взглядом пейзажи этого поразительно знакомого, странного мира." #TODO
 
 # game/chapter1.rpy:1859
 translate russiantl _call_syscheck_6_74fd8cc1:
@@ -1722,7 +1723,7 @@ translate russiantl _call_syscheck_6_74fd8cc1:
 translate russiantl _call_syscheck_6_139655ac:
 
     # n "After all, we were talking about an unmapped place with a never-before-seen form of life."
-    n "В конце концов мы говорили о ранее неизвестном месте населенном доселе невиданной формой жизни." #TODO
+    n "В конце концов мы говорили о ранее неизвестном месте населенном доселе невиданной формой жизни." #TODO?
 
 # game/chapter1.rpy:1861
 translate russiantl _call_syscheck_6_d563a46a:
@@ -1734,7 +1735,7 @@ translate russiantl _call_syscheck_6_d563a46a:
 translate russiantl _call_syscheck_6_8a73ac9b:
 
     # n "Yet here I was, standing in the middle of a village evidently built by this race of intelligent, talking dragons with a society not unlike our own."
-    n "Но вот он я, стоящий посреди деревни построенной расой разумных, говорящих драконов, с обществом, мало чем отличающегося от нашего." #TODO
+    n "Но вот он я, стоящий посреди деревни построенной расой разумных, говорящих драконов, с обществом, мало чем отличающегося от нашего." #TODO?
 
 # game/chapter1.rpy:1863
 translate russiantl _call_syscheck_6_bd21a880:
@@ -1760,13 +1761,13 @@ translate russiantl _call_syscheck_6_394829b3:
 translate russiantl _call_syscheck_6_5566c4b8:
 
     # Sb "I gave her a generous tip on your behalf. I hope you don't mind."
-    Sb "Я оставил ей щедрые чаевые от Вашего лица. Надеюсь Вы не возражаете."
+    Sb "Я оставил ей щедрые чаевые от твоего лица. Надеюсь ты не против."
 
 # game/chapter1.rpy:1890
 translate russiantl _call_syscheck_6_1d4d5f4b:
 
     # Sb "Don't worry about it."
-    Sb "Не переживайте."
+    Sb "Не переживай." #TODO
 
 # game/chapter1.rpy:1893
 translate russiantl _call_syscheck_6_8b6c00cc:
@@ -1778,7 +1779,7 @@ translate russiantl _call_syscheck_6_8b6c00cc:
 translate russiantl _call_syscheck_6_e9146df2:
 
     # c "The whole thing where she lost it, because we were humans. How unprofessional. Besides, I don't believe in tipping."
-    c "Она вышла из себя потому что мы люди. Какой непрофессионализм. И к тому же, я не даю чаевых." ## TODO:
+    c "Она вышла из себя потому что мы люди. Какой непрофессионализм. И к тому же, я не даю чаевых." ## TODO?
 
 # game/chapter1.rpy:1895
 translate russiantl _call_syscheck_6_09595634:
@@ -1790,7 +1791,7 @@ translate russiantl _call_syscheck_6_09595634:
 translate russiantl _call_syscheck_6_61dd893b:
 
     # Sb "In any case, now that you've given us the PDA and Reza has the generator, you're free for today. So, if you want to go anywhere in particular, let me know, or I could show you around town."
-    Sb "В любом случае, так как Вы отдали нам КПК и Реза забрал генератор, на сегодня Вы свободны. Дайте мне знать если вам куда-то захочеться пойти, или я могу устроить Вам экскурсию по городу." #TODO
+    Sb "В любом случае, так как вы отдали нам КПК и Реза забрал генератор, на сегодня ты свободен. Дай мне знать если тебе куда-то захочеться пойти, или я могу устроить тебе экскурсию по городу." #TODO
 
 # game/chapter1.rpy:1902
 translate russiantl _call_syscheck_6_288fbfbf:
@@ -1802,13 +1803,13 @@ translate russiantl _call_syscheck_6_288fbfbf:
 translate russiantl _call_syscheck_6_f8b826aa:
 
     # c "I think I'll stay home for today. I still have to get used to everything, you know?"
-    c "Думаю сегодня я останусь дома. Мне еще нужно ко всему привыкнуть, понимаете?"
+    c "Думаю сегодня я останусь дома. Мне еще нужно ко всему привыкнуть, понимаешь?"
 
 # game/chapter1.rpy:1904
 translate russiantl _call_syscheck_6_6c1a0363:
 
     # Sb "I'll just accompany you back, then."
-    Sb "Тогда я сопровожу Вас домой."
+    Sb "Тогда я просто сопровожу тебя домой."
 
 # game/chapter1.rpy:1915
 translate russiantl _call_syscheck_6_0a0c2790:
@@ -1826,7 +1827,7 @@ translate russiantl _call_syscheck_6_936e0f77:
 translate russiantl _call_syscheck_6_2dd88010:
 
     # Sb "Well, if you need anything, I'll be outside until my shift ends. Otherwise, I'll see you tomorrow."
-    Sb "Если вам что-нибудь будет нужно, я буду снаружи до конца моей смены. В противном случае, увидимся завтра." #TODO
+    Sb "Если тебе что-нибудь будет нужно, я буду снаружи до конца моей смены. В противном случае, увидимся завтра." #TODO
 
 # game/chapter1.rpy:1918
 translate russiantl _call_syscheck_6_f37e170c:
@@ -1850,7 +1851,7 @@ translate russiantl _call_syscheck_6_76b2fe88:
 translate russiantl _call_syscheck_6_221afd4f:
 
     # n "I hadn't really looked at the apartment much, so I spent the rest of the day investigating it and relaxing. I considered checking out some of the phone numbers Remy had left me, but I thought it was better to keep a low profile for now."
-    n ""
+    n "Мне не выдалось особого случая " #TODO
 
 # game/chapter1.rpy:1936
 translate russiantl _call_syscheck_6_bb967794:
@@ -1868,7 +1869,7 @@ translate russiantl _call_syscheck_6_f529b0b1:
 translate russiantl _call_syscheck_6_afd5bd6d:
 
     # n "After all, it was possible that some of the comestibles might be fine for them to eat, but still be poisonous to us."
-    n "Как-никак, некоторые из них могли оказатся пригодны для еды им, но ядовитыми для нас." #TODO
+    n "Как-никак, некоторые из них могли оказатся пригодны для еды им, но ядовитыми для нас." #TODO?
 
 # game/chapter1.rpy:1939
 translate russiantl _call_syscheck_6_05824446:
@@ -1938,7 +1939,7 @@ translate russiantl _call_syscheck_6_89aefe22:
 translate russiantl _call_syscheck_6_e01a6f22:
 
     # m "Looking over the clipboard the small dragon was holding up to me, I saw that the sender of the letter in question was Reza."
-    m ""
+    m "Посмотрев на блокнот, который маленький дракон держал передо мной, я увидел, что отправителем данного письма был Реза." #TODO?
 
 # game/chapter1.rpy:2007
 translate russiantl _call_syscheck_6_39fda16a:
@@ -2034,7 +2035,7 @@ translate russiantl _call_syscheck_6_b27aa55e:
 translate russiantl _call_syscheck_6_5c0efd1f:
 
     # Sb normal b "Do you want me to remove him, [player_name]?"
-    Sb normal b "Хотите чтобы я его вывел, [player_name]?"
+    Sb normal b "Хочешь чтобы я его вывел, [player_name]?" #TODO
 
 # game/chapter1.rpy:2047
 translate russiantl _call_syscheck_6_f7b4cd7f:
@@ -2804,55 +2805,55 @@ translate russiantl _call_syscheck_9_5ffd7263:
 translate russiantl _call_syscheck_9_4e61119b:
 
     # c "(It's an unlabeled container with some sort of white liquid inside. Well, here goes nothing.)"
-    c ""
+    c "Это неподписанный контейнер с какой-то белой жидкостью. Ну, была не была."
 
 # game/chapter1.rpy:2642
 translate russiantl _call_syscheck_9_fe477319:
 
     # c "(It's salty.)"
-    c ""
+    c "(На вкус она соляноватая.)" #TODO
 
 # game/chapter1.rpy:2662
 translate russiantl _call_syscheck_10_225eef0f:
 
     # s "You drank a mystery liquid!"
-    s ""
+    s "Вы выпили неизвестную жидкость!"
 
 # game/chapter1.rpy:2666
 translate russiantl _call_syscheck_10_ead2e792:
 
     # s "You drank a mystery liquid. Good for you."
-    s ""
+    s "Ты выпил неизвестную жидкость. Молодец."
 
 # game/chapter1.rpy:2670
 translate russiantl _call_syscheck_10_6d8b299c:
 
     # s "You drank a mystery liquid. I'm proud of you."
-    s ""
+    s "Ты выпил неизвестную жидкость. Я тобой горжусь."
 
 # game/chapter1.rpy:2680
 translate russiantl _call_syscheck_10_ee60a578:
 
     # c "(Just some fruits and veggies here.)"
-    c ""
+    c "(Тут лежит немного фруктов и овощей.)"
 
 # game/chapter1.rpy:2707
 translate russiantl _call_syscheck_11_09be8c4f:
 
     # s "You learned a lot about fruits!"
-    s ""
+    s "Вы узнали много интересного о фруктах!"
 
 # game/chapter1.rpy:2711
 translate russiantl _call_syscheck_11_763e13c5:
 
     # s "You learned a lot about fruits. Kinda."
-    s ""
+    s "Ты узнал много интересного о фруктах. Наверное."
 
 # game/chapter1.rpy:2715
 translate russiantl _call_syscheck_11_488ed202:
 
     # s "You learned a lot about fruits. Could've added a few more puns, though."
-    s ""
+    s "Ты узнал много интересного о фруктах. Хотя еще парочка каламбуров не помешала бы."
 
 # game/chapter1.rpy:2722
 translate russiantl _call_syscheck_11_7b6290e9:
@@ -2870,7 +2871,7 @@ translate russiantl _call_syscheck_11_de498926:
 translate russiantl _call_syscheck_11_eb4d1edc:
 
     # c "(I'd be going on a date.)"
-    c "(Финик-та ля комедия.)" #TO DO БЛЯТЬ
+    c "(Финик-та ля комедия.)" #TODO БЛЯТЬ
 
 # game/chapter1.rpy:2729
 translate russiantl _call_syscheck_11_542ac51d:
@@ -2924,7 +2925,7 @@ translate russiantl _call_syscheck_11_9ca3ba4e:
 translate russiantl _call_syscheck_11_4c8f346f:
 
     # c "(There are two of them. What a nice pear.)"
-    c ""
+    c "(Тут их две. Какие хорошие груши.)" #TODO
 
 # game/chapter1.rpy:2753
 translate russiantl _call_syscheck_11_9c2c9e41:
@@ -2954,13 +2955,13 @@ translate russiantl _call_syscheck_11_a1bbec6a:
 translate russiantl _call_syscheck_11_8edd6174:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch."
-    m "\"Встретимся у портала, в 10 часов вечера\" — гласило послание.До встречи с Резой еще оставалось немного времени, не смотря на то, что я потратил много его впустую, и я решил приготовить себе поесть."
+    m "\"Встретимся у портала, в 10 часов вечера\" — гласило послание. До встречи с Резой еще оставалось немного времени, не смотря на то, что я потратил много его впустую, и я решил приготовить себе поесть."
 
 # game/chapter1.rpy:2769
 translate russiantl _call_syscheck_11_627767c7:
 
     # m "\"Meet me at the portal, tonight, 10pm\" was all the message said. I wasted a good amount of time, but I still had some left before I'd have to go out to meet Reza, so I decided to make some lunch. I could've made some scrambled eggs if I hadn't broken them all earlier."
-    m "\"Встретимся у портала, в 10 часов вечера\" — гласило послание.До встречи с Резой еще оставалось немного времени, не смотря на то, что я потратил много его впустую, и я решил приготовить себе поесть. Я мог бы сделать омлет, если бы конечно не разбил все яйца, когда искал подсказку." #TODO
+    m "\"Встретимся у портала, в 10 часов вечера\" — гласило послание. До встречи с Резой еще оставалось немного времени, не смотря на то, что я потратил много его впустую, и я решил приготовить себе поесть. Я мог бы сделать омлет, если бы конечно не разбил все яйца, когда искал подсказку." #TODO
 
 # game/chapter1.rpy:2771
 translate russiantl _call_syscheck_11_6d1e2555:
@@ -2972,7 +2973,7 @@ translate russiantl _call_syscheck_11_6d1e2555:
 translate russiantl _call_syscheck_11_d7a61edb:
 
     # m "Unsurprisingly, it came to a happy end, with the evil organization stopped in its tracks, at least for now. I thought the ending was deliberately left open for ambiguity, but when I turned the page and saw the advertisement for the next entry in this apparently long-running series of books, I realized all of this had just been a ploy to set up the inevitable sequel."
-    m "Как и ожидалось, наступил счастливый конец, планам злой организации не суждено было сбыться, и весь мир смог снова спокойно вздохнуть, по крайней мере сейчас. Я думал что концовка была преднамеренно оставлена неопределенной, но когда я перевернул страницу и увидел рекламу следующей части в этой серии книг, я понял что вся эта книга — одна большая подготовка к неизбежному сиквелу."
+    m "Как и ожидалось, наступил счастливый конец, планам злой организации не суждено было сбыться, и весь мир смог снова вздохнуть спокойно, по крайней мере сейчас. Я думал что концовка была преднамеренно оставлена неопределенной, но когда я перевернул страницу и увидел рекламу следующей части в этой серии книг, я понял что вся эта книга — одна большая подготовка к неизбежному сиквелу."
 
 # game/chapter1.rpy:2787
 translate russiantl continuation_cfb5aca4:
@@ -3086,7 +3087,7 @@ translate russiantl continuation_7d4645bd:
 translate russiantl continuation_cc4c03c2:
 
     # Rz "You do? Well, then you know what we've got to do, right?"
-    Rz "Правда? Ну, тогда ты знаешь что нам делать, ведь так?"
+    Rz "Правда? Ну, тогда ты знаешь что нам нужно делать, ведь так?"
 
 # game/chapter1.rpy:2844
 translate russiantl continuation_9f85b645:
@@ -3116,7 +3117,7 @@ translate russiantl continuation_f763377c_1:
 translate russiantl continuation_fd1f97a7:
 
     # m "While he was speaking, my gaze wandered and fixed on some movement nearby. It was hard to make out anything, but I imagined it might just have been wind blowing through the nearby shrubbery. Except for the fact that there was no wind."
-    m "Пока он говорил, мой взгляд блуждал и остановился на каком-то движении поблизости. Трудно было что-то разглядеть, но я предположил, что это просто ветер в кустах. Но ветра " #TODO
+    m "Пока он говорил, мой взгляд блуждал и остановился на каком-то движении поблизости. Трудно было что-то разглядеть, и я предположил, что это просто ветер в кустах. Но ветра не было." #TODO
 
 # game/chapter1.rpy:2855
 translate russiantl continuation_d8a637e9:
@@ -3242,7 +3243,7 @@ translate russiantl continuation_f5a82162:
 translate russiantl continuation_7eb852c7:
 
     # "???" "Hey, kid. You alright?"
-    "???" "Эй, парень, ты в порядке?
+    "???" "Эй, парень, ты в порядке?"
 
 # game/chapter1.rpy:2956
 translate russiantl continuation_a8f3d766:
@@ -3326,7 +3327,7 @@ translate russiantl continuation_da9f7420:
 translate russiantl continuation_356de34c:
 
     # m "I knew it was no use worrying about it for now, so I settled for starting another book."
-    m "Я знал что мои переживания ничего бы не изменили, и я начал читать еще одну книгу."
+    m "Я знал что мои переживания все равно ничего бы не изменили, и я начал читать еще одну книгу."
 
 # game/chapter1.rpy:3018
 translate russiantl continuation_45b58ace:
@@ -3410,13 +3411,13 @@ translate russiantl continuation_4c1fa005:
 translate russiantl continuation_75ddc3b5:
 
     # Br "There's that, too."
-    Br "И " #TODO maybe pass?
+    Br "А, ну и это тоже." #TODO maybe pass?
 
 # game/chapter1.rpy:3054
 translate russiantl continuation_61783f37:
 
     # c "I have no idea why Reza would have done anything like that. I had the impression that they weren't very fond of each other, but this... How is he, by the way?"
-    c "Не имею ни малейшего понятия почему Реза выстрелил в него. Я понимаю конечно что они друг друга недолюбливали, но до такой степени... Кстати, как он?"
+    c "Не имею ни малейшего понятия почему Реза выстрелил в него. Я понимаю конечно что они друг друга недолюбливали, но чтобы до такой степени... Кстати, как он?"
 
 # game/chapter1.rpy:3056
 translate russiantl continuation_a0b6f7f7:
@@ -3459,7 +3460,7 @@ translate russiantl continuation_36b1d91b:
 translate russiantl continuation_b1d6e9a7:
 
     # c "You even already have our PDAs and we don't have much to show for it yet. If we had any nefarious plans, this wouldn't have been a very good idea."
-    c ""
+    c "У вас даже уже есть наши КПК" #TODO
 
 # game/chapter1.rpy:3069
 translate russiantl continuation_331ab8bc:
@@ -3729,7 +3730,7 @@ translate russiantl investigation_d0ff8c97:
 translate russiantl investigation_f03b7e71:
 
     # m "Two wings, two legs, just like the waitress in the café. About as big as a human, length-wise, if not slightly taller. The wingspan would certainly look impressive at that size."
-    m "Два крыла, две ноги, прямо как у той официантки из кафе. По росту она даже была почти похожа на человека, разве что чуть-чуть выше. Но размах её крыльев должно быть впечетлял. " #TODO
+    m "Два крыла, две ноги, прямо как у той официантки из кафе. По росту он даже был почти похож на человека, разве что чуть-чуть выше. Но размах его крыльев должно быть впечетлял. " #TODO
 
 # game/chapter1.rpy:3266
 translate russiantl investigation_de66d767:
@@ -3747,7 +3748,7 @@ translate russiantl investigation_f64f9501:
 translate russiantl quest1_b280f335:
 
     # c "The angles look a bit strange, like they were done from an unusual position. Is it possible that they were inflicted by a person who was much larger or smaller than him?"
-    c "Углы, под которыми были нанесены удары выглядят странно. Возможно что они были нанесены кем-то намного больше или намного меньше её." #TODO
+    c "Углы, под которыми были нанесены удары выглядят странно. Возможно что они были нанесены кем-то намного больше или намного меньше его." #TODO
 
 # game/chapter1.rpy:3302
 translate russiantl quest1_15db375d:
@@ -3831,7 +3832,7 @@ translate russiantl quest2_5df50500:
 translate russiantl quest2_7d1411e6:
 
     # Br "That's right. Only those of us who walk on two legs have the proper dexterity to wield a knife effectively. Most other dragons would probably just bite instead."
-    Br "Это да. Только те из нас, ходящие на двух ногах, могут эффективно управляться с ножом. Другие драконы скорее всего бы просто кусали."
+    Br "Это да. Только те из нас, ходящие на двух ногах, могут эффективно управляться с ножом. Другие драконы скорее всего бы просто кусали." #TODO
 
 # game/chapter1.rpy:3349
 translate russiantl quest2_293a28a6:
@@ -3909,7 +3910,7 @@ translate russiantl quest3_6458393e:
 translate russiantl quest3_54f8ce04:
 
     # Br "Clearly? You mean a flyer with barely usable hands stabbed himself with a knife multiple times until he died from blood loss? That just doesn't seem plausible."
-    Br ""
+    Br "Очевидно? То есть ты хочешь сказать что летун, который едва может держать в руках нож, пырял себя до тех пор пока не умер от потери крови? Это очень не правдоподобно." #TODO украинское самоубийство
 
 # game/chapter1.rpy:3394
 translate russiantl quest3_7b49274c:
@@ -3927,121 +3928,121 @@ translate russiantl quest3_56520b1b:
 translate russiantl quest3_2d5dd7bc:
 
     # Br "I thought we ruled that one out already."
-    Br ""
+    Br "Я думал что мы уже отмели эту версию."
 
 # game/chapter1.rpy:3400
 translate russiantl quest3_9b65074b:
 
     # Br "Alright, I get it. You think it was a suicide, but I think we should explore other options."
-    Br ""
+    Br "Да понял я, понял. Ты думаешь что это было самоубийство, но давай изучим другие варианты событий."
 
 # game/chapter1.rpy:3407
 translate russiantl quest3_ba9c14f7:
 
     # Br "By the way, which wound do you think was the lethal one?"
-    Br ""
+    Br "Кстати, как думаешь, какие раны стали для него смертельными?" #TODO
 
 # game/chapter1.rpy:3414
 translate russiantl quest4_40a3ed0e:
 
     # c "The gashes on his chest look rather large. I think it was them."
-    c ""
+    c "Порезы на её груди выглядят впечетляюще. Я думаю что это они."
 
 # game/chapter1.rpy:3415
 translate russiantl quest4_bf51c108:
 
     # Br "Actually, no. These kinds of wounds come from a slashing motion, meaning the wound may end up looking big, but the damage is comparatively superficial."
-    Br ""
+    Br "На самом деле нет. эти виды ран происходят от резкого движения, а это значит, что рана может выглядеть большой, но повреждение сравнительно поверхностное." # TODO
 
 # game/chapter1.rpy:3416
 translate russiantl quest4_2d79e7a0:
 
     # Br "Of course they may contribute to blood loss, but they aren't lethal so quickly."
-    Br ""
+    Br "Конечно они внесли свою лепту в потерю крови, но сами по себе они не сильно смертельные." #TODO
 
 # game/chapter1.rpy:3422
 translate russiantl quest4_39b1abf3:
 
     # c "He's got quite a few there, so I think it must be them."
-    c ""
+    c "У неё много ран на крыльях, я думаю что это они."
 
 # game/chapter1.rpy:3423
 translate russiantl quest4_f500d250:
 
     # Br "No, there's not really much blood loss from those. These are actually defensive wounds, usually inflicted when someone tries to defend themselves from these kinds of attacks."
-    Br ""
+    Br "Нет, от этих ран она потеряла совсем немного крови. Такие раны обычно получаются когда жертва пытается защитить себя от такого нападения." #TODO
 
 # game/chapter1.rpy:3429
 translate russiantl quest4_264bf143:
 
     # c "I think it was the one on his neck."
-    c ""
+    c "Я думаю что смертельной была рана на её шее."
 
 # game/chapter1.rpy:3430
 translate russiantl quest4_00bcf583:
 
     # Br "That's right. If all the blood from it wasn't a giveaway, this is a stab wound. Characterized by a rather small footprint, you can tell it's also the deepest one."
-    Br ""
+    Br "Правильно." #TODO
 
 # game/chapter1.rpy:3431
 translate russiantl quest4_b628c4fd:
 
     # Br "And from the location, it's pretty obvious this must have done tremendous damage."
-    Br ""
+    Br "И, учитывая её место, довольно очевидно что она причинила огромный урон." #TODO
 
 # game/chapter1.rpy:3435
 translate russiantl quest4_f2232d68:
 
     # Br "What else do you see?"
-    Br ""
+    Br "Что еще ты видишь?"
 
 # game/chapter1.rpy:3443
 translate russiantl quest4_05ddcc31:
 
     # c "Well, there's a lot of blood."
-    c ""
+    c "Ну, крови очень много."
 
 # game/chapter1.rpy:3452
 translate russiantl quest5_122763b9:
 
     # c "There's so much blood. Could he have been hemophiliac?"
-    c ""
+    c "Тут так много крови. Мог ли он страдать гемофилией?"
 
 # game/chapter1.rpy:3453
 translate russiantl quest5_dd470157:
 
     # Br "It is a lot of blood, I'll give you that, but I don't think this has anything to do with hemophilia."
-    Br ""
+    Br "Да, крови тут конечно много, но я не думаю что это как-то связано с гемофилией."
 
 # game/chapter1.rpy:3459
 translate russiantl quest5_bf9677c8:
 
     # Br "Had what?"
-    Br ""
+    Br "У него был что?"
 
 # game/chapter1.rpy:3460
 translate russiantl quest5_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/chapter1.rpy:3465
 translate russiantl quest5_2e8a7b46:
 
     # c "He died here, else there would have been a trail we could follow. The splatters also suggest this is where they fought."
-    c ""
+    c "Он умер тут, иначе остался бы кровавый след. Брызги крови так-же указываю что они сражались именно здесь."
 
 # game/chapter1.rpy:3469
 translate russiantl quest5_0ee50d1c:
 
     # Br "You sure?"
-    Br ""
+    Br "Уверен?"
 
 # game/chapter1.rpy:3472
 translate russiantl quest5_f913b41f:
 
     # Br "No, it's blood alright."
-    Br ""
+    Br "Нет, это самая настоящая кровь."
 
 # game/chapter1.rpy:3478
 translate russiantl quest5_ac0be0ab:
@@ -4071,7 +4072,7 @@ translate russiantl quest5_7cb5fa29:
 translate russiantl quest5_2d5dd7bc:
 
     # Br "I thought we ruled that one out already."
-    Br ""
+    Br "Я думал что мы уже отмели эту версию."
 
 # game/chapter1.rpy:3494
 translate russiantl quest5_9b65074b:
@@ -4083,67 +4084,67 @@ translate russiantl quest5_9b65074b:
 translate russiantl quest5_ff15c714:
 
     # Br "Just stop it already."
-    Br ""
+    Br "Ну хватит уже."
 
 # game/chapter1.rpy:3504
 translate russiantl quest5_7c20a52f:
 
     # Br "That's true."
-    Br ""
+    Br "Это верно."
 
 # game/chapter1.rpy:3505
 translate russiantl quest5_7d2a0f75:
 
     # Br "Unfortunately, it doesn't help with determining who the perpetrator is."
-    Br ""
+    Br "Но, к сожалению, это не поможет нам установить кто совершил это приступление."
 
 # game/chapter1.rpy:3506
 translate russiantl quest5_1a76e383:
 
     # c "Objection!" with hpunch #obvious reference to Ace Attorney
-    c "" with hpunch
+    c "Протестую!" with hpunch
 
 # game/chapter1.rpy:3508
 translate russiantl quest5_3f970c7c:
 
     # Br "Excuse me?"
-    Br ""
+    Br "Что?"
 
 # game/chapter1.rpy:3509
 translate russiantl quest5_18dd0115:
 
     # c "Sorry, I just always wanted to say that."
-    c ""
+    c "Извини, всегда хотел это сказать."
 
 # game/chapter1.rpy:3510
 translate russiantl quest5_08965b6a:
 
     # Br "Go on, please."
-    Br ""
+    Br "Продолжай."
 
 # game/chapter1.rpy:3518
 translate russiantl quest5_0c30ecb2:
 
     # c "What about the blood on his muzzle?"
-    c ""
+    c "А что насчет крови на его морде?" #TODO
 
 # game/chapter1.rpy:3519
 translate russiantl quest5_fd91ea9e:
 
     # Br "You tell me."
-    Br ""
+    Br "А как ты думаешь?"
 
 # game/chapter1.rpy:3530
 translate russiantl quest6_6da252ec:
 
     # Br "Don't be silly."
-    Br ""
+    Br "Не говори групостей."
 
 # game/chapter1.rpy:3536
 translate russiantl quest6_116a375c:
 
     # c "It might be the perpetrator's blood."
-    c ""
+    c "Возможно, это кровь его убийцы."
 
 # game/chapter1.rpy:3540
 translate russiantl quest6_bfce32ae:
@@ -4155,49 +4156,49 @@ translate russiantl quest6_bfce32ae:
 translate russiantl quest6_6dd6c5dc:
 
     # Br "Possible, but unlikely."
-    Br ""
+    Br "Маловероятно, но возможно."
 
 # game/chapter1.rpy:3552
 translate russiantl quest6_ad271f6e:
 
     # Br "That is actually a very real possibility. We probably would be seeing more blood if that were the case, though."
-    Br ""
+    Br "Это вполне возможно, но тогда бы тут мыло намного больше крови." #TODO
 
 # game/chapter1.rpy:3557
 translate russiantl quest6_e9ff846e:
 
     # Br "Yes, that is true. I expect forensics already took a sample of it, so it might actually help us determine who the perpetrator is."
-    Br ""
+    Br "Да, все верно. Думаю что криминалисты уже взяли её образец, и это может помочь нам определить кто является преступником."
 
 # game/chapter1.rpy:3558
 translate russiantl quest6_b4f8e17e:
 
     # Br "Hm. I think that's about everything."
-    Br ""
+    Br "Ну, думаю тут все." #TODO
 
 # game/chapter1.rpy:3580
 translate russiantl quest6_09b5f048:
 
     # Br "You know what, kid? I'm impressed. Maybe we should have you around more often."
-    Br ""
+    Br "Знаешь что, парень? Я впечатлен. Может нам следует чаще тебя" #TODO
 
 # game/chapter1.rpy:3601
 translate russiantl _call_syscheck_13_0ee48772:
 
     # s "You did well on the first investigation!"
-    s ""
+    s "Вы хорошо справились с первым расследованием!"
 
 # game/chapter1.rpy:3605
 translate russiantl _call_syscheck_13_19e2bb77:
 
     # s "You did well on the first investigation. Well done."
-    s ""
+    s "Ты хорошо справился с первым расследованием! Отличная сработано."
 
 # game/chapter1.rpy:3609
 translate russiantl _call_syscheck_13_593bcccd:
 
     # s "You did well on the first investigation. Achoo- I mean, achievement unlocked."
-    s ""
+    s "Ты хорошо справился с первым расследованием! Апчхи- то есть, достижение получено." #TODO
 
 # game/chapter1.rpy:3613
 translate russiantl _call_syscheck_13_9cf7f4d5:
@@ -4209,61 +4210,61 @@ translate russiantl _call_syscheck_13_9cf7f4d5:
 translate russiantl _call_syscheck_13_47b8d288:
 
     # Br "Maybe this isn't your strong suit."
-    Br ""
+    Br "Да, расследования это точно не твоя сильная сторона" #TODO?
 
 # game/chapter1.rpy:3619
 translate russiantl _call_syscheck_13_5c730655:
 
     # c "Told you so."
-    c ""
+    c "Я же говорил."
 
 # game/chapter1.rpy:3621
 translate russiantl _call_syscheck_13_1cccbacd:
 
     # Br "Don't worry about it. We still need your help with other things."
-    Br ""
+    Br "Ладно, не бери в голову. Но нам бы не помешала помощь в других делах."
 
 # game/chapter1.rpy:3628
 translate russiantl _call_syscheck_13_b31a64f0:
 
     # Sb "Hey Chief, do you still need the witness here for anything?"
-    Sb ""
+    Sb "Эй шеф, тебе еще нужна наша свидетельница?" #TODO?
 
 # game/chapter1.rpy:3629
 translate russiantl _call_syscheck_13_a62ea80e:
 
     # m "Sebastian approached with the dragon who had discovered the body earlier. I recognized her as Adine, the waitress from the café. She seemed distraught, which given the situation, wasn't very surprising."
-    m ""
+    m "Себастиан подошел к нам вместе драконихой, которая обнаружила тело. Я узнал в ней Эдин, ту официантку из кафе. Она выглядила растерянной, что не было удивительно, учитывая все обстоятельста." #TODO
 
 # game/chapter1.rpy:3630
 translate russiantl _call_syscheck_13_da883f60:
 
     # Br "I don't think so. Take her to the department, get her statement written up and that should be it."
-    Br ""
+    Br "Нет, не думаю. Отведи её в участок, сними у неё показания, и на этом закончим." #TODO
 
 # game/chapter1.rpy:3631
 translate russiantl _call_syscheck_13_fd0a6543:
 
     # Sb "Sure thing."
-    Sb ""
+    Sb "Ладно."
 
 # game/chapter1.rpy:3636
 translate russiantl _call_syscheck_13_ff7c1ac6:
 
     # Sb "Alright, Miss, we're going to have to take you to the department."
-    Sb ""
+    Sb "Ладно, девушка, Вам придеться пройти с нами в участок." #TODO
 
 # game/chapter1.rpy:3637
 translate russiantl _call_syscheck_13_356b153d:
 
     # Ad "Of course."
-    Ad ""
+    Ad "Конечно."
 
 # game/chapter1.rpy:3638
 translate russiantl _call_syscheck_13_45c63088:
 
     # m "When she spotted me, however, her composure brightened visibly."
-    m ""
+    m "Но когда она заметила меня" #TODO
 
 # game/chapter1.rpy:3642
 translate russiantl _call_syscheck_13_706f1fa0:
@@ -4281,7 +4282,7 @@ translate russiantl _call_syscheck_13_56659e1f:
 translate russiantl _call_syscheck_13_d2c48d95:
 
     # Ad "Actually, I don't. You never told me it."
-    Ad "Вообще-то не знаю. Ты мне его не сказал. "
+    Ad "Вообще-то не знаю. Ты мне его не говорил."
 
 # game/chapter1.rpy:3657
 translate russiantl _call_syscheck_13_4cad1270:
@@ -4299,79 +4300,79 @@ translate russiantl _call_syscheck_13_4392e6f6:
 translate russiantl _call_syscheck_13_d8da8674:
 
     # Ad "What're you even doing here? Do you work for our police now?"
-    Ad ""
+    Ad "А что ты вообще тут делаешь? Ты что, работаешь на полицию?"
 
 # game/chapter1.rpy:3670
 translate russiantl _call_syscheck_13_28a2f7c3:
 
     # Ad "That doesn't sound very convincing."
-    Ad ""
+    Ad "Звучит неуверенно." #TODO
 
 # game/chapter1.rpy:3671
 translate russiantl _call_syscheck_13_2b289471:
 
     # c "I'm not quite convinced, either."
-    c ""
+    c "Да я и сам в этом не уверен." #TODO
 
 # game/chapter1.rpy:3676
 translate russiantl _call_syscheck_13_4e548148:
 
     # Ad "Maybe I should be calling you officer, then."
-    Ad ""
+    Ad "Может мне стоит называть тебя офицером?" #TODO
 
 # game/chapter1.rpy:3677
 translate russiantl _call_syscheck_13_ae3b45e4:
 
     # c "I don't think I'm quite there yet."
-    c ""
+    c "Не думаю что я настолько продвинулся по карьерной лестнице."
 
 # game/chapter1.rpy:3682
 translate russiantl _call_syscheck_13_fb0f5fb4:
 
     # Ad "Oh, you."
-    Ad ""
+    Ad "" #TODOOOOOO БЛЯТЬ
 
 # game/chapter1.rpy:3684
 translate russiantl _call_syscheck_13_b3ae45a6:
 
     # c "By the way, I didn't know you also did deliveries."
-    c ""
+    c "А я и не знал что ты занимаешься доставкой еды."
 
 # game/chapter1.rpy:3686
 translate russiantl _call_syscheck_13_8d9339b1:
 
     # Ad "I do a little bit of everything, really."
-    Ad ""
+    Ad "Я занимаюсь всем понемножку." #TODO
 
 # game/chapter1.rpy:3689
 translate russiantl _call_syscheck_13_d037c931:
 
     # c "That's nice. I liked my uh... fish yesterday."
-    c ""
+    c "Вчера мне понравилась моя э... рыба." #TODO
 
 # game/chapter1.rpy:3691
 translate russiantl _call_syscheck_13_31e4b909:
 
     # Ad "You don't have to hide it. I know it's quite an acquired taste."
-    Ad ""
+    Ad "Да ладно тебе, можешь не притворяться. Вкус на любителя, сама знаю." #TODO
 
 # game/chapter1.rpy:3693
 translate russiantl _call_syscheck_13_82b2ebf7:
 
     # Ad "To be fair, I wouldn't have recommended it to someone new like you, but you could always try something different."
-    Ad ""
+    Ad "Если честно, я бы не советовала пробовать её " #TODO
 
 # game/chapter1.rpy:3695
 translate russiantl _call_syscheck_13_306d0a40:
 
     # Ad "Here's our number if you don't want to come in and we'll deliver anything we have to you."
-    Ad ""
+    Ad "Вот наш номер, если тебе захочется " #TODO
 
 # game/chapter1.rpy:3698
 translate russiantl _call_syscheck_13_a6533cae:
 
     # c "That's nice. I liked my coffee yesterday."
-    c ""
+    c "Мне понравился вчерашний кофе." #TODO
 
 # game/chapter1.rpy:3699
 translate russiantl _call_syscheck_13_d9da18f9:
@@ -4383,7 +4384,7 @@ translate russiantl _call_syscheck_13_d9da18f9:
 translate russiantl _call_syscheck_13_7ee27cc1:
 
     # c "That's nice. I loved my scrambled eggs yesterday."
-    c ""
+    c "Мне понравился вчерашний омлет."
 
 # game/chapter1.rpy:3703
 translate russiantl _call_syscheck_13_eef70e34:
@@ -4395,79 +4396,79 @@ translate russiantl _call_syscheck_13_eef70e34:
 translate russiantl _call_syscheck_13_dd20ffbf:
 
     # c "Thanks."
-    c ""
+    c "Благодарю."
 
 # game/chapter1.rpy:3711
 translate russiantl _call_syscheck_13_903f6637:
 
     # Sb "..."
-    Sb ""
+    Sb "..."
 
 # game/chapter1.rpy:3712
 translate russiantl _call_syscheck_13_ac0c64de:
 
     # Ad "Sorry, I guess we should get going. Bye!"
-    Ad ""
+    Ad "Извини, но нам уже пора. Пока!"
 
 # game/chapter1.rpy:3721
 translate russiantl _call_syscheck_13_59f4c3db:
 
     # c "What do we do now?"
-    c ""
+    c "И что нам делать теперь?"
 
 # game/chapter1.rpy:3725
 translate russiantl _call_syscheck_13_3a0907aa:
 
     # Br "I suppose we'll head off too, unless- oh no."
-    Br ""
+    Br "Наверное нам тоже нужно пойти в полицейский участо- о нет."
 
 # game/chapter1.rpy:3726
 translate russiantl _call_syscheck_13_0f173ebb:
 
     # c "What is it?"
-    c ""
+    c "Что такое?"
 
 # game/chapter1.rpy:3732
 translate russiantl _call_syscheck_13_00d1c811:
 
     # Mv "We've got a violent homicide and of course nobody from the department tells me. I have to find out from a neighbor who wanted to ask me about it. Good thing rumors travel fast, eh?"
-    Mv ""
+    Mv "У нас на руках убийство, и конечно же, мне даже никто об этом не сказал. Я бы и не узнал, если не сосед который у меня о нём спросил. Хорошо что слухи быстро расходятся, не так ли?"
 
 # game/chapter1.rpy:3736
 translate russiantl _call_syscheck_13_df144435:
 
     # Br "Of course nobody told you. You're on sick leave. Mandatory sick leave, I might add."
-    Br ""
+    Br "Конечно же тебе никто не сказал, ты же на больничном. " #TODO?
 
 # game/chapter1.rpy:3737
 translate russiantl _call_syscheck_13_a8193667:
 
     # Mv "I'm not here in any official capacity, you see. I am merely enjoying a curative walk in the fresh air and happened to come across you by accident."
-    Mv ""
+    Mv "Вообще я тут по своим делам. Я просто наслаждался прогулкой на свежем воздухе, и случайно наткнулся на вас."
 
 # game/chapter1.rpy:3738
 translate russiantl _call_syscheck_13_beb3f735:
 
     # Br "What do you want?"
-    Br ""
+    Br "Что тебе нужно?"
 
 # game/chapter1.rpy:3739
 translate russiantl _call_syscheck_13_6e94227f:
 
     # Mv "I don't want anything. I just find it interesting that no one tells me about this, but the prime suspect's buddy can mess with the investigation. I see how it is."
-    Mv ""
+    Mv "Да так, ничего. Просто вот какая занимательная штука, мне об этом даже никто не сказал, но дружок главного подозреваемого может шастать по месту преступления." #TODO
 
 # game/chapter1.rpy:3740
 translate russiantl _call_syscheck_13_770d320f:
 
     # Br "I know what you are thinking, but don't jump to conclusions here."
-    Br ""
+    Br "Я знаю что подумал, но давай не будем делать поспешных выводов."
 
 # game/chapter1.rpy:3741
 translate russiantl _call_syscheck_13_c1c6fd1f:
 
     # Mv "I don't need to jump to conclusions, I think the dead body we found says it all."
-    Mv ""
+    Mv "Я их и не делаю, я уже " #TODO ИЛЬЯ ГДЕ ЖЕ ТЫ Я НЕ ЗНАЮ КАК ЭТУ ХУЙНЮ ПЕРЕВОДИТЬ ААА
 
 # game/chapter1.rpy:3742
 translate russiantl _call_syscheck_13_e73d0e45:
@@ -4611,13 +4612,13 @@ translate russiantl sceneselect_703d4088:
 translate russiantl chapter1chars_64789417:
 
     # c "(What should I do?)" nointeract
-    c "" nointeract
+    c "(Чем бы мне заняться?)" nointeract
 
 # game/chapter1.rpy:4141
 translate russiantl chapter1chars_4c8433ce:
 
     # c "(More free time. What should I do?)" nointeract
-    c "" nointeract
+    c "(Больше свободного времени. Чем бы мне теперь заняться?)" nointeract
 
 # game/chapter1.rpy:4185
 translate russiantl chapter1chars_a98cb5b8:
@@ -4744,7 +4745,7 @@ translate russiantl strings:
 
     # chapter1.rpy:1328
     old "I bet he'd win in a fight with mine, though."
-    new "Ставлю на то, что он бы смог одолеть моего в битве."
+    new "Ставлю на то, что он бы смог одолеть моего в битве." #TODO
 
     # chapter1.rpy:1328
     old "He looks grumpy."
@@ -4776,7 +4777,7 @@ translate russiantl strings:
 
     # chapter1.rpy:1653
     old "Oh, it's a dragon!"
-    new "О, это дракон!"
+    new "Ой, это же дракон!"
 
     # chapter1.rpy:1677
     old "Just a coffee for me."
@@ -4796,7 +4797,7 @@ translate russiantl strings:
 
     # chapter1.rpy:1706
     old "Let me just grab my tinfoil hat real quick."
-    new "Постой, дай мне надеть шляпу из фольги." #TODO
+    new "Постой, дай ка мне надеть шапочку из фольги." #TODO?
 
     # chapter1.rpy:1721
     old "Yeah, he's a charming fellow."
@@ -4804,7 +4805,7 @@ translate russiantl strings:
 
     # chapter1.rpy:1721
     old "He doesn't seem so bad to me."
-    new "Он не выглядит таким уж и плохим."
+    new "Он не выглядит таким уж и плохим." #TODO
 
     # chapter1.rpy:1721
     old "What a creep."
@@ -4836,7 +4837,7 @@ translate russiantl strings:
 
     # chapter1.rpy:2135
     old "Look elsewhere for hints."
-    new ""
+    new "Поискать подсказки в другом месте."
 
     # chapter1.rpy:2144
     old "Plan Sebastian's Murder."
@@ -4876,7 +4877,7 @@ translate russiantl strings:
 
     # chapter1.rpy:2202
     old "Break into the manufacturing plant."
-    new ""
+    new "" #TODO
 
     # chapter1.rpy:2202
     old "[[I am unable to decode the message.]"
@@ -4924,7 +4925,7 @@ translate russiantl strings:
 
     # chapter1.rpy:2339
     old "The Ixomen Sphere and How to Use it"
-    new "Сфера Иксомен и её применения."
+    new "Сфера Иксомен и её применения." #TODO
 
     # chapter1.rpy:2480
     old "Look inside the cabinet."
@@ -5052,159 +5053,159 @@ translate russiantl strings:
 
     # chapter1.rpy:3296
     old "They were inflicted with a sharp implement."
-    new ""
+    new "Они были нанесены острым инструментом."
 
     # chapter1.rpy:3296
     old "The perpetrator was an unusually large or small person."
-    new ""
+    new "Преступник был необычайно велик или мал." #TODO
 
     # chapter1.rpy:3296
     old "He was already dead when he got these wounds."
-    new ""
+    new "Он был уже мертв, когда получил эти ранения."
 
     # chapter1.rpy:3296
     old "It was suicide."
-    new ""
+    new "Это было самоубийство."
 
     # chapter1.rpy:3327
     old "It actually doesn't."
-    new ""
+    new "Нет, не важно."
 
     # chapter1.rpy:3327
     old "Dragons don't use knives."
-    new ""
+    new "Драконы не используют ножей."
 
     # chapter1.rpy:3327
     old "It couldn't have been Reza."
-    new ""
+    new "Это не мог быть Реза."
 
     # chapter1.rpy:3327
     old "It could have only been someone with hands."
-    new ""
+    new "Это мог быть только кто-то у которого есть руки."
 
     # chapter1.rpy:3327
     old "It tells us that it was suicide."
-    new ""
+    new "Это указывает на то, что это было самоубийство."
 
     # chapter1.rpy:3367
     old "It makes him look cooler."
-    new ""
+    new "Так он кажется круче." #TODO
 
     # chapter1.rpy:3367
     old "He lost his gun."
-    new ""
+    new "Он потерял свой пистолет."
 
     # chapter1.rpy:3367
     old "He did not want to make any noise."
-    new ""
+    new "Он не хотел шуметь."
 
     # chapter1.rpy:3367
     old "He wouldn't, because it wasn't him."
-    new ""
+    new "У него не было причины, это не он." #TODO
 
     # chapter1.rpy:3367
     old "He wouldn't, because this was clearly a suicide."
-    new ""
+    new "У него не было причины, так как это самоубийство." #TODO
 
     # chapter1.rpy:3411
     old "The one on his chest."
-    new ""
+    new "Раны на груди."
 
     # chapter1.rpy:3411
     old "The ones on his wings."
-    new ""
+    new "Раны на крыльях."
 
     # chapter1.rpy:3411
     old "The one on his neck."
-    new ""
+    new "Раны на шее."
 
     # chapter1.rpy:3448
     old "The blood splatters suggest that:"
-    new ""
+    new "Брызги крови указываю на то, что:"
 
     # chapter1.rpy:3448
     old "He was hemophiliac."
-    new ""
+    new "Он страдал гемофилией."
 
     # chapter1.rpy:3448
     old "He had aids."
-    new ""
+    new "У него был СПИД."
 
     # chapter1.rpy:3448
     old "He died here."
-    new ""
+    new "Он умер тут."
 
     # chapter1.rpy:3448
     old "This isn't blood."
-    new ""
+    new "Это не кровь."
 
     # chapter1.rpy:3448
     old "He was dragged here after he died."
-    new ""
+    new "После того как он умер, его сюда притащили." #TODO?
 
     # chapter1.rpy:3448
     old "He committed suicide."
-    new ""
+    new "Он совершил самоубийство."
 
     # chapter1.rpy:3524
     old "The blood on his muzzle suggests that:"
-    new ""
+    new "Кровь на его морде указывает на то, что:"
 
     # chapter1.rpy:3524
     old "He is a vampire."
-    new ""
+    new "Он вампир."
 
     # chapter1.rpy:3524
     old "He fought back."
-    new ""
+    new "Он пытался отбиваться."
 
     # chapter1.rpy:3524
     old "He had a bloody steak earlier."
-    new ""
+    new "Ранее он съел стейк с кровью."
 
     # chapter1.rpy:3524
     old "He has gum disease."
-    new ""
+    new "У него было заболевание дёсен."
 
     # chapter1.rpy:3524
     old "He bit his tongue during the fight."
-    new ""
+    new "Он прикусил язык."
 
     # chapter1.rpy:3644
     old "Well, I'm {i}a{/i} human."
-    new ""
+    new "Угадала, я человек." #TODO
 
     # chapter1.rpy:3644
     old "I have a name, you know."
-    new ""
+    new "У меня же имя есть, знаешь?" #TODO
 
     # chapter1.rpy:3644
     old "Go away."
-    new ""
+    new "Уходи."
 
     # chapter1.rpy:3666
     old "Guess so."
-    new ""
+    new "Думаю что да."  #TODO PASS?
 
     # chapter1.rpy:3666
     old "Looks like it."
-    new ""
+    new "Получается что так."
 
     # chapter1.rpy:3666
     old "No, it's just a hobby."
-    new ""
+    new "Нет, это просто хобии."
 
     # chapter1.rpy:3768
     old "To be fair, I might be too if I was shot."
-    new ""
+    new "На его месте я бы сделал то же самое." #TODO
 
     # chapter1.rpy:3768
     old "Let's hope we find Reza before he does."
-    new ""
+    new "Давай надеяться на то, что мы найдем Резу раньше него."
 
     # chapter1.rpy:3768
     old "At least that means someone will find him, right?"
-    new ""
+    new "Ну, хотя бы кто-то его найдет." #TODO
 
     # chapter1.rpy:4093
     old "Meet with Remy."
@@ -5220,7 +5221,7 @@ translate russiantl strings:
 
     # chapter1.rpy:4093
     old "Meet with Bryce."
-    new "Встретиться с Брайсом."
+    new "Встретиться с Брюсом."
 
     # chapter1.rpy:4093
     old "Order some lunch."
@@ -5232,4 +5233,4 @@ translate russiantl strings:
 
     # chapter1.rpy:4141
     old "Get some well deserved rest."
-    new "Получить заслуженный отдых."
+    new "Получить заслуженный отдых." #TODO

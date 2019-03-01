@@ -22,7 +22,7 @@ translate russiantl adine1_245dbdc1:
 translate russiantl adine1_c084e644:
 
     # Ad "Oh, it's you."
-    Ad "Ой, это Ты."
+    Ad "Ой, это же ты."
 
 # game/adine1.rpy:63
 translate russiantl adine1_2ec83f33:

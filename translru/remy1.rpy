@@ -2352,7 +2352,7 @@ translate russiantl strings:
 
     # remy1.rpy:1563
     old "..."
-    new ""
+    new "..."
 
     # remy1.rpy:1573
     old "I got bored."
@@ -2401,4 +2401,3 @@ translate russiantl strings:
     # remy1.rpy:1705
     old "How about a kiss?"
     new ""
-

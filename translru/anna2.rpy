@@ -2057,8 +2057,8 @@ translate russiantl strings:
     new ""
 
     # anna2.rpy:653
-    old "Actually, I do."
-    new ""
+    #old "Actually, I do."
+    #new "" Конфликтует с певрной глайвой, перевести вопрос
 
     # anna2.rpy:692
     old "That's gross."
@@ -2163,4 +2163,3 @@ translate russiantl strings:
     # anna2.rpy:1187
     old "Talk about recycling."
     new ""
-

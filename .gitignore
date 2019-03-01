@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/russianrtmod/tl/*.rpy
+/russianrtmod/tl/translru/*.rpy

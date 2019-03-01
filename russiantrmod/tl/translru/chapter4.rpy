@@ -4946,7 +4946,7 @@ translate russiantl _call_skipcheck_21_46cf4477:
 
 # game/chapter4.rpy:4268
 translate russiantl _call_skipcheck_21_dd5cd2b9:
-
+    # FLEE YOU FOOLS
     # As "I may have arrived through the portal like you, but my story is very different."
     As ""
 
@@ -6601,4 +6601,3 @@ translate russiantl strings:
     # chapter4.rpy:5924
     old "Meet with Kevin."
     new ""
-

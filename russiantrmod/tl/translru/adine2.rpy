@@ -2044,7 +2044,7 @@ translate russiantl strings:
 
     # adine2.rpy:540
     old "Sure, why not."
-    new ""
+    new "Почему бы и нет."
 
     # adine2.rpy:571
     old "I prefer to take the reins."

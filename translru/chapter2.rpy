@@ -10,43 +10,43 @@ translate russiantl chapter2_76b2fe88:
 translate russiantl _call_skiptut_11_7c2b96fe:
 
     # s "My records indicate you have already experienced this section in a satisfactory manner. Would you like to skip to the scene selection?"
-    s ""
+    s "Мои записи зафиксировали, что вы уже прошли эту сцену удовлетворительным образом. Вы бы хотели пропустить её до конца?"
 
 # game/chapter2.rpy:228
 translate russiantl _call_skiptut_11_84d46f4f:
 
     # s "It looks like you've seen this before. Skip to the scene selection?"
-    s ""
+    s "Похоже, вы уже видели это раньше. Пропустить до выбора персонажей?"
 
 # game/chapter2.rpy:236
 translate russiantl _call_skiptut_11_f7abef30:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the scene selection."
-    s ""
+    s "Выходит, что вы уже это видели. Вы можете просмотреть эту сцену еще раз, или мы можем сэкономить немного времени и пропустить до выбора персонажей."
 
 # game/chapter2.rpy:250
 translate russiantl _call_skiptut_11_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter2.rpy:284
 translate russiantl _call_skipcheck_11_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/chapter2.rpy:289
 translate russiantl _call_skipcheck_11_80d4d75b:
 
     # n "Another day, another morning."
-    n ""
+    n "Ещё один день, ещё одно утро."
 
 # game/chapter2.rpy:290
 translate russiantl _call_skipcheck_11_e0495caa:
 
     # n "I awoke from dreams filled with fire and smoke. The sun shining through the window gave me a comforting feeling of familiarity, despite the portal in the distance reminding me of my purpose here."
-    n ""
+    n "Я проснулся от кошмаров, заполненных дымом и огнем. Лучи солнца, пробивающиеся через окно успокаивали меня, несмотря на то, что портал, находящийся вдали напоминал мне о том, зачем я сюда прибыл." #TODO
 
 # game/chapter2.rpy:291
 translate russiantl _call_skipcheck_11_8daf1491:
@@ -58,13 +58,13 @@ translate russiantl _call_skipcheck_11_8daf1491:
 translate russiantl _call_skipcheck_11_d527dbc7:
 
     # n "While I got ready for the day, my thoughts strayed to the people I knew back home. I couldn't help but wonder how they were doing."
-    n ""
+    n "Пока я готовился к предстоящему дню, мои мысли были "
 
 # game/chapter2.rpy:293
 translate russiantl _call_skipcheck_11_2c4ed385:
 
     # n "But I had greater things to worry about at the moment, like Reza, murders and generators. How much danger was I in, really?"
-    n ""
+    n "Но мне было о чём беспокоиться, например о Резе, генераторах и убийствах. Какого рода опасность мне грозила?"
 
 # game/chapter2.rpy:307
 translate russiantl _call_skipcheck_11_76b2fe88:
@@ -76,31 +76,31 @@ translate russiantl _call_skipcheck_11_76b2fe88:
 translate russiantl _call_skipcheck_11_1a499248:
 
     # Br "Hey, [player_name]."
-    Br ""
+    Br "Привет, [player_name]"
 
 # game/chapter2.rpy:315
 translate russiantl _call_skipcheck_11_452be1a7:
 
     # c "Bryce."
-    c ""
+    c "Брюс."
 
 # game/chapter2.rpy:317
 translate russiantl _call_skipcheck_11_69767191:
 
     # Br "We've got some work ahead of us, but before we get to that, I've got to ask you a question."
-    Br ""
+    Br "У нас впереди много работы, но перед этим мне хотелось бы задать тебе вопрос."
 
 # game/chapter2.rpy:319
 translate russiantl _call_skipcheck_11_287666fc:
 
     # c "Okay, go ahead."
-    c ""
+    c "Я весь внимание."
 
 # game/chapter2.rpy:321
 translate russiantl _call_skipcheck_11_58e3d9b1:
 
     # Br "Why'd you just leave when we were in the bar?"
-    Br ""
+    Br "Почему ты вчера ушел из бара?"
 
 # game/chapter2.rpy:323
 translate russiantl _call_skipcheck_11_a9a10fb3:
@@ -112,199 +112,199 @@ translate russiantl _call_skipcheck_11_a9a10fb3:
 translate russiantl _call_skipcheck_11_de08b67a:
 
     # Br "Is that so? That's my bad, sorry. I just wanted to have a nice evening and relax with a few beers. You know, that's kinda what bars are all about."
-    Br ""
+    Br "А, вот как оно есть? Виноват, извини. Мне просто хотелось хорошо провести вечер и расслабиться. " #TODO
 
 # game/chapter2.rpy:331
 translate russiantl _call_skipcheck_11_7b28e1dc:
 
     # Br "Anyway, how about I invite you to make up for the whole thing?"
-    Br ""
+    Br "Ладно, давай я приглашу тебя к себе " #TODO
 
 # game/chapter2.rpy:333
 translate russiantl _call_skipcheck_11_409ecbdd:
 
     # c "I'll think about it."
-    c ""
+    c "Я подумаю."
 
 # game/chapter2.rpy:335
 translate russiantl _call_skipcheck_11_9d2b52f5:
 
     # Br "Sounds good."
-    Br ""
+    Br "Ага."
 
 # game/chapter2.rpy:337
 translate russiantl _call_skipcheck_11_e8fd6baf:
 
     # c "So, what else is on today's agenda?"
-    c ""
+    c "А что ещё у нас на повестке дня?"
 
 # game/chapter2.rpy:339
 translate russiantl _call_skipcheck_11_24b39723:
 
     # Br "Just some good, old-fashioned police work. And we're counting on your help. Again."
-    Br ""
+    Br "Старая добрая полицейская работа. И мы расчитываем на твою помошь. Снова."
 
 # game/chapter2.rpy:346
 translate russiantl _call_skipcheck_11_1b3f96c3:
 
     # c "Hey, Bryce. Isn't it a little early for a rematch?"
-    c ""
+    c "Привет, Брюс. Не рановато-ли для переигровки?"
 
 # game/chapter2.rpy:350
 translate russiantl _call_skipcheck_11_1dd3075a:
 
     # Br "I'd agree with you, but that's not why I'm here."
-    Br ""
+    Br "Это да, но я здесь не поэтому."
 
 # game/chapter2.rpy:354
 translate russiantl _call_skipcheck_11_b08b3ab3:
 
     # Br "Today's agenda isn't nearly as exciting or fun."
-    Br ""
+    Br "Сегодня повестка дня не такая веселая."
 
 # game/chapter2.rpy:356
 translate russiantl _call_skipcheck_11_2003f708:
 
     # c "Well, what is it?"
-    c ""
+    c "И какая же она?"
 
 # game/chapter2.rpy:360
 translate russiantl _call_skipcheck_11_24b39723_1:
 
     # Br "Just some good, old-fashioned police work. And we're counting on your help. Again."
-    Br ""
+    Br "Старая добрая полицейская работа. И мы расчитываем на твою помошь. Снова."
 
 # game/chapter2.rpy:366
 translate russiantl _call_skipcheck_11_9cf059a8:
 
     # Br "Hey, [player_name]. Don't worry, I'm not here to talk about last time. This is strictly business."
-    Br ""
+    Br "Привет, [player_name]. Не волнуйся, я пришел сюда по делам. " #TODO
 
 # game/chapter2.rpy:368
 translate russiantl _call_skipcheck_11_2003f708_1:
 
     # c "Well, what is it?"
-    c ""
+    c "И по каким же делам?"
 
 # game/chapter2.rpy:372
 translate russiantl _call_skipcheck_11_24b39723_2:
 
     # Br "Just some good, old-fashioned police work. And we're counting on your help. Again."
-    Br ""
+    Br "Старая добрая полицейская работа. И мы расчитываем на твою помошь. Снова." #TODO
 
 # game/chapter2.rpy:380
 translate russiantl _call_skipcheck_11_5f96a729:
 
     # Br "Hey, [player_name]. Good to see you again."
-    Br ""
+    Br "Привет, [player_name]. Рад снова тебя видеть."
 
 # game/chapter2.rpy:382
 translate russiantl _call_skipcheck_11_e085fae4:
 
     # c "Likewise."
-    c ""
+    c "Взаимно."
 
 # game/chapter2.rpy:384
 translate russiantl _call_skipcheck_11_0373f873:
 
     # Br "I hope you're in the mood for some good, old-fashioned police work."
-    Br ""
+    Br "Наде" #TODO
 
 # game/chapter2.rpy:391
 translate russiantl _call_skipcheck_11_1a499248_1:
 
     # Br "Hey, [player_name]."
-    Br ""
+    Br "Привет, [player_name]."
 
 # game/chapter2.rpy:393
 translate russiantl _call_skipcheck_11_678d728b:
 
     # c "Hey, Chief. More bad news?"
-    c ""
+    c "Привет, Шеф. Больше плохих новостей?" #TODO
 
 # game/chapter2.rpy:395
 translate russiantl _call_skipcheck_11_8faa9d12:
 
     # Br "Not quite, unless you count Reza still missing as bad news. But that's kinda why I'm here."
-    Br ""
+    Br "Не совсем, если не считать пропавшего Резу. Но поэтому я сюда и пришел."
 
 # game/chapter2.rpy:397
 translate russiantl _call_skipcheck_11_2003f708_2:
 
     # c "Well, what is it?"
-    c ""
+    c "И почему же?"
 
 # game/chapter2.rpy:401
 translate russiantl _call_skipcheck_11_24b39723_3:
 
     # Br "Just some good, old-fashioned police work. And we're counting on your help. Again."
-    Br ""
+    Br "Старая добрая полицейская работа. И мы расчитываем на твою помошь. Снова." #TODO
 
 # game/chapter2.rpy:415
 translate russiantl _call_skipcheck_11_4b7c720f:
 
     # Br "Don't worry, we have something else planned."
-    Br ""
+    Br "Не волнуйся, у нас для тебя кое-что другое припасено."
 
 # game/chapter2.rpy:425
 translate russiantl _call_skipcheck_11_0c119025:
 
     # Br "Great."
-    Br ""
+    Br "Замечательно."
 
 # game/chapter2.rpy:431
 translate russiantl _call_skipcheck_11_467820d0:
 
     # Br "Alright."
-    Br ""
+    Br "Ладно. "
 
 # game/chapter2.rpy:435
 translate russiantl _call_skipcheck_11_eebfaa9c:
 
     # Br "We obtained a list of places Reza visited in the days before he vanished. We'll check those out, maybe find a lead, and you might help us understand his motivations or give us some context to his actions."
-    Br ""
+    Br "Мы составили список мест которые посещал Реза до того как пропасть. Мы их проверим, возможно даже найдем зацепку, а ты, возможно, поможешь нам понять его мотивы, или " #TODO
 
 # game/chapter2.rpy:437
 translate russiantl _call_skipcheck_11_46b81fe9:
 
     # c "I can certainly try."
-    c ""
+    c "Могу попытаться."
 
 # game/chapter2.rpy:443
 translate russiantl _call_skipcheck_11_0a41e213:
 
     # Br "Don't worry, we don't expect too much from you."
-    Br ""
+    Br "Не волнуйся, многого мы от тебя не ожидаем."
 
 # game/chapter2.rpy:449
 translate russiantl _call_skipcheck_11_104d92ab:
 
     # Br "That's all you have to do."
-    Br ""
+    Br "Это все что от тебя требуется."
 
 # game/chapter2.rpy:455
 translate russiantl _call_skipcheck_11_63454039:
 
     # Br "I'm sure you'll do a great job."
-    Br ""
+    Br "Я уверен что у тебя получится."
 
 # game/chapter2.rpy:458
 translate russiantl _call_skipcheck_11_2257f6f2:
 
     # c "That is reassuring."
-    c ""
+    c "Обнадеживает."
 
 # game/chapter2.rpy:460
 translate russiantl _call_skipcheck_11_3c8ffe16:
 
     # Br "Are you ready to go?"
-    Br ""
+    Br "Ты готов выступать?"
 
 # game/chapter2.rpy:462
 translate russiantl _call_skipcheck_11_4f7f32d4:
 
     # c "Sure, let's go."
-    c ""
+    c "Конечно, пошли."
 
 # game/chapter2.rpy:471
 translate russiantl _call_skipcheck_11_4f7bded3:
@@ -316,115 +316,115 @@ translate russiantl _call_skipcheck_11_4f7bded3:
 translate russiantl _call_skipcheck_11_7cb7dde3:
 
     # m "While Bryce focused on his list, I saw someone approach out of the corner of my eye."
-    m ""
+    m "Пока Брайс перечислял места, краем глаза я увидел как к нам кто-то приближался."
 
 # game/chapter2.rpy:475
 translate russiantl _call_skipcheck_11_16bf0d2a:
 
     # m "A closer look revealed that it was Sebastian, waving his arm in an attempt to get our attention as he ran toward us, his face grave."
-    m ""
+    m "Присмотревшись, я увидел что это был Себастиан, махающий рукой в попытке привлечь наше внимание. Он бежал к нам с серъезным выражением лица."
 
 # game/chapter2.rpy:483
 translate russiantl _call_skipcheck_11_703c30a7:
 
     # Sb "There you are, Chief. I was looking for you."
-    Sb ""
+    Sb "Вот ты где, Шеф. Я тебя искал."
 
 # game/chapter2.rpy:489
 translate russiantl _call_skipcheck_11_501fc209:
 
     # Br "What are you doing here?"
-    Br ""
+    Br "Что ты здесь делаешь?"
 
 # game/chapter2.rpy:493
 translate russiantl _call_skipcheck_11_fc7c6574:
 
     # Br stern b "Don't tell me there's another dead person."
-    Br stern b ""
+    Br stern b "Только не говори что у нас еще один труп."
 
 # game/chapter2.rpy:495
 translate russiantl _call_skipcheck_11_0048e178:
 
     # Sb "Sorry, Chief. There is."
-    Sb ""
+    Sb "К сожалению да."
 
 # game/chapter2.rpy:497
 translate russiantl _call_skipcheck_11_95a4134e:
 
     # Br "Damn. Guess it's going to be one of those days."
-    Br ""
+    Br "Чёрт. Утро начинаеться не с кофе."
 
 # game/chapter2.rpy:499
 translate russiantl _call_skipcheck_11_6dbaefb8:
 
     # Sb "Yeah, looks that way."
-    Sb ""
+    Sb "Ага, похоже что да."
 
 # game/chapter2.rpy:501
 translate russiantl _call_skipcheck_11_64395468:
 
     # Br "Someone else can take care of that today, though. We've got other plans."
-    Br ""
+    Br "Но об этом может позаботиться кто-то другой. У нас на сегодня были другие планы."
 
 # game/chapter2.rpy:503
 translate russiantl _call_skipcheck_11_7cc75b70:
 
     # Sb "You'll need to sign off on a few things, at least."
-    Sb ""
+    Sb "Тебе же придется подписать кое-что."
 
 # game/chapter2.rpy:505
 translate russiantl _call_skipcheck_11_a2d72728:
 
     # Br "I know, I know. We'll go to the crime scene, sign a few forms and then we're out."
-    Br ""
+    Br "Да знаю, знаю. Мы пойдем на место приступления, подпишем парочку бланков, и пойдем."
 
 # game/chapter2.rpy:515
 translate russiantl _call_skipcheck_11_597828cb:
 
     # m "When we arrived at the scene, I saw the poor victim next to one of the houses. The obligatory sheet that was draped over him provided a modicum of discretion, but did nothing to hide the crime that had occurred."
-    m ""
+    m "Когда мы прибыли на место приступления, я увидел несчастную жертву, лежащую напротив одного из домов. Простыня " #TODO
 
 # game/chapter2.rpy:521
 translate russiantl _call_skipcheck_11_2ea1030a:
 
     # Br "Alright, give me the story."
-    Br ""
+    Br "Ладно, расскажи что тут произошло."
 
 # game/chapter2.rpy:523
 translate russiantl _call_skipcheck_11_9f98a1a6:
 
     # Sb "It's an interesting one, that's for sure. The wounds match those of the last victim, so a similar - if not identical - murder weapon is likely."
-    Sb ""
+    Sb "Это довольно интересная история. Ранения у этой и у предыдущей жертвы совпадают, так что орудия убийства очень похожи - если не одинаковы." #TODO
 
 # game/chapter2.rpy:525
 translate russiantl _call_skipcheck_11_3c662131:
 
     # Sb "The victim? Maintenance person for this area. And the electricity is out. The power goes out, maintenance guy shows up and is killed before he can fix the problem. At least that's my theory."
-    Sb ""
+    Sb "Самой же жертвой является "
 
 # game/chapter2.rpy:527
 translate russiantl _call_skipcheck_11_6fd22003:
 
     # Br brow b "So the power for the whole block is still out?"
-    Br brow b ""
+    Br brow b "И получается что во всем квартале нет электричества?"
 
 # game/chapter2.rpy:529
 translate russiantl _call_skipcheck_11_1aa784d7:
 
     # Sb "That is correct."
-    Sb ""
+    Sb "Это верно."
 
 # game/chapter2.rpy:531
 translate russiantl _call_skipcheck_11_84799c01:
 
     # Br stern b "We should get that fixed as soon as possible. We don't need civilians showing up around here complaining about sitting in the dark."
-    Br stern b ""
+    Br stern b "Нам нужно срочно устранить эту проблему. Нам нужно чтобы гражданские тут ,"
 
 # game/chapter2.rpy:533
 translate russiantl _call_skipcheck_11_1685698e:
 
     # Sb "Good point."
-    Sb ""
+    Sb "Верно подмечено."
 
 # game/chapter2.rpy:535
 translate russiantl _call_skipcheck_11_9540e863:
@@ -436,247 +436,247 @@ translate russiantl _call_skipcheck_11_9540e863:
 translate russiantl _call_skipcheck_11_4916c811:
 
     # Br "Damn, not again."
-    Br ""
+    Br "Чёрт побери, только не снова."
 
 # game/chapter2.rpy:539
 translate russiantl _call_skipcheck_11_c5c97541:
 
     # Sb "What is it?"
-    Sb ""
+    Sb "Что такое?"
 
 # game/chapter2.rpy:547
 translate russiantl _call_skipcheck_11_d1f2addb:
 
     # Br brow b "What are you doing here, Maverick?"
-    Br brow b ""
+    Br brow b "Что ты здесь делаешь, Маверик?"
 
 # game/chapter2.rpy:549
 translate russiantl _call_skipcheck_11_1ebc6db4:
 
     # Mv "A second victim, huh?"
-    Mv ""
+    Mv "Уже вторая жертва?"
 
 # game/chapter2.rpy:551
 translate russiantl _call_skipcheck_11_5ae45fb1:
 
     # Br stern b "This is an official investigation, so you better not cross that police line."
-    Br stern b ""
+    Br stern b "Тут ведется официальное расследование, так что тебе лучше не заходить за полицейский кордон."
 
 # game/chapter2.rpy:553
 translate russiantl _call_skipcheck_11_49c2ebec:
 
     # Mv angry flip "Shunned by my own colleagues. This is ridiculous."
-    Mv angry flip ""
+    Mv angry flip "Мои же коллеги меня попрекают. Это "
 
 # game/chapter2.rpy:555
 translate russiantl _call_skipcheck_11_9bc44a78:
 
     # Sb "You know how it is. Rules are rules. And without rules, murders like this one would be allowed to happen and go unpunished."
-    Sb ""
+    Sb "Ты же знаешь как тут заведено. Правила есть правила. И без них, такие убийства оставались бы безнаказанными."
 
 # game/chapter2.rpy:557
 translate russiantl _call_skipcheck_11_e449a9b2:
 
     # Mv "Tchk. Have your fun without me, then."
-    Mv ""
+    Mv "Пфф. Ну и веселитесь тут без меня."
 
 # game/chapter2.rpy:570
 translate russiantl _call_skipcheck_11_068f454e:
 
     # Sb "What do you think he wanted here, Chief?"
-    Sb ""
+    Sb "Как думаешь, Шеф, что ему здесь было нужно?"
 
 # game/chapter2.rpy:572
 translate russiantl _call_skipcheck_11_943a571e:
 
     # Br "That one's easy: To do his own investigation, just like he said he would. I shouldn't be surprised he showed up, but I guess we're lucky we arrived before he did."
-    Br ""
+    Br "Элементарно, Себастиан: Он же сказал что будет проводить своё собственное расследование. Я не удивлён что он тут обьявился, но нам повезло что мы пришли первыми."
 
 # game/chapter2.rpy:574
 translate russiantl _call_skipcheck_11_abdc33a4:
 
     # Sb "I agree."
-    Sb ""
+    Sb "Это да."
 
 # game/chapter2.rpy:576
 translate russiantl _call_skipcheck_11_59225e46:
 
     # Br "We better check out that power outage now."
-    Br ""
+    Br "Теперь нам следует проверить почему отключилось электричесво."
 
 # game/chapter2.rpy:578
 translate russiantl _call_skipcheck_11_be57875d:
 
     # Sb "Of course. I think the door to the maintenance room is right around here."
-    Sb ""
+    Sb "Конечно. Я думаю что вот эта дверь ведет в служебное помещение."
 
 # game/chapter2.rpy:594
 translate russiantl _call_skipcheck_11_531097d1:
 
     # Br "You got your flashlight, Seb?"
-    Br ""
+    Br "У тебя при себе фонарик, Себ?"
 
 # game/chapter2.rpy:596
 translate russiantl _call_skipcheck_11_55c80c84:
 
     # Sb "Always, Chief."
-    Sb ""
+    Sb "Всегда, Шеф."
 
 # game/chapter2.rpy:598
 translate russiantl _call_skipcheck_11_292a4a9d:
 
     # Br "You should go first, then. I don't have my stuff here."
-    Br ""
+    Br "Тогда ты иди первым. У меня нет своего при себе."
 
 # game/chapter2.rpy:600
 translate russiantl _call_skipcheck_11_6f01925d:
 
     # Br "Besides, putting on that head mount is such a hassle."
-    Br ""
+    Br "И к тому же, надевать ту штуку на голову это такая морока."
 
 # game/chapter2.rpy:602
 translate russiantl _call_skipcheck_11_e82a86dd:
 
     # Sb "I remember. You complain about that every time it comes up."
-    Sb ""
+    Sb "Ага, каждый раз как "
 
 # game/chapter2.rpy:612
 translate russiantl _call_skipcheck_11_f6235c59:
 
     # Sb "There, that should do the trick."
-    Sb ""
+    Sb "Вот, "
 
 # game/chapter2.rpy:626
 translate russiantl _call_skipcheck_11_38266882:
 
     # Br "You just stay behind me, [player_name], alright?"
-    Br ""
+    Br "Держись позади, [player_name], ладно?"
 
 # game/chapter2.rpy:628
 translate russiantl _call_skipcheck_11_fe5f3366:
 
     # c "Okay."
-    c ""
+    c "Ладно."
 
 # game/chapter2.rpy:637
 translate russiantl _call_skipcheck_11_7f079908:
 
     # Br "Gah, I hate stairs. Especially those made for smaller dragons like you."
-    Br ""
+    Br "Боже, как же я ненавижу лестницы. Особенно те, которые сделаны для маленьких драконов, типа тебя."
 
 # game/chapter2.rpy:639
 translate russiantl _call_skipcheck_11_2f293cc0:
 
     # Sb "Trust me, having it the other way around isn't too great, either."
-    Sb ""
+    Sb "Поверь мне, "
 
 # game/chapter2.rpy:647
 translate russiantl _call_skipcheck_11_6d4b1fba:
 
     # c "I don't mind stairs that much."
-    c ""
+    c "А мне "
 
 # game/chapter2.rpy:649
 translate russiantl _call_skipcheck_11_52919f38:
 
     # Sb "I can see why. Your legs have more articulation than even mine, especially the knees. Out of us three, I think Bryce has it the worst right now."
-    Sb ""
+    Sb "Я даже догадываюсь почему, с твоими то ногами и коленями. Я думаю что из нас троих, Брайсу сейчас хуже всего."
 
 # game/chapter2.rpy:651
 translate russiantl _call_skipcheck_11_24a49291:
 
     # Br "Damn you and your articulated knees."
-    Br ""
+    Br "Будьте прокляты вы и ваши колени."
 
 # game/chapter2.rpy:655
 translate russiantl _call_skipcheck_11_b1e1dd58:
 
-    # c "I just dislike all kinds of stairs, period."
-    c ""
+    # c "I just dislike all kinds of stairs, period." и точка? туду
+    c "Мне не нравятся лестницы."
 
 # game/chapter2.rpy:657
 translate russiantl _call_skipcheck_11_770cb11d:
 
     # Br "That's what I'm talking about."
-    Br ""
+    Br "А я о чем?"
 
 # game/chapter2.rpy:661
 translate russiantl _call_skipcheck_11_6478ffe8:
 
     # Sb "This kinda reminds me of when we found that underground base, or whatever it was. Remember, Chief?"
-    Sb ""
+    Sb "Знаете, это напоминает мне о той подземной базе, или как там её. Помнишь, Шеф?"
 
 # game/chapter2.rpy:663
 translate russiantl _call_skipcheck_11_9aecf486:
 
     # Br "How could I not? It wasn't that long ago."
-    Br ""
+    Br "Как же я мог забыть? Это же было не так то и давно."
 
 # game/chapter2.rpy:671
 translate russiantl _call_skipcheck_11_3d297083:
 
     # c "Underground base?"
-    c ""
+    c "Подземная база?"
 
 # game/chapter2.rpy:673
 translate russiantl _call_skipcheck_11_67221283:
 
     # Br "Yeah, the portal wasn't the only piece of ancient technology we found. There was also this whole... lab near it. Seemed to have some high-tech stuff in there."
-    Br ""
+    Br "Ага, портал был не единственной древней технологией которую мы нашли. Так-же там была эта... лаборатория. Похоже в ней находилось много "
 
 # game/chapter2.rpy:675
 translate russiantl _call_skipcheck_11_8ab0c974:
 
     # Br "At least that place didn't have as many stairs."
-    Br ""
+    Br "Но там хотя-бы не было столько лестниц. "
 
 # game/chapter2.rpy:679
 translate russiantl _call_skipcheck_11_a3c921ba:
 
     # c "Wait, so you not only found the portal, but a whole facility along with it?"
-    c ""
+    c "Подождите, так вы нашли не только портал, но и целою лабораторию?"
 
 # game/chapter2.rpy:681
 translate russiantl _call_skipcheck_11_2539b8a1:
 
     # Br "Yes, but we're not sure how much the two are actually related."
-    Br ""
+    Br "Да, но мы не уверены что они как-то связаны."
 
 # game/chapter2.rpy:685
 translate russiantl _call_skipcheck_11_889731a9:
 
     # Br "We spent all that time studying the portal and barely got anywhere with it. This stuff is just... beyond what we know."
-    Br ""
+    Br "Мы всё это время изучали портал и ели продвинулись. Все эти штуки просто... за гранью нашего понимания."
 
 # game/chapter2.rpy:691
 translate russiantl _call_skipcheck_11_32517d79:
 
     # Sb "Here we are."
-    Sb ""
+    Sb "Мы пришли."
 
 # game/chapter2.rpy:728
 translate russiantl _call_skipcheck_11_235b6274:
 
     # Sb "So, what exactly are we looking for?"
-    Sb ""
+    Sb "Итак, что конкретно мы ищем?"
 
 # game/chapter2.rpy:730
 translate russiantl _call_skipcheck_11_fed0278a:
 
     # Br "Whatever's causing the power outage. If we don't find the cause, we should at least be able to get the backup running."
-    Br ""
+    Br "Причину отключения электричества. Но, если мы её не найдем, нам нужно хотя-бы запустить запасной генератор." #TODO
 
 # game/chapter2.rpy:738
 translate russiantl _call_skipcheck_11_7bd6682f:
 
     # Sb "Looks like the generator is gone."
-    Sb ""
+    Sb "Похоже что генератора нет на месте."
 
 # game/chapter2.rpy:740
 translate russiantl _call_skipcheck_11_1c9d327b:
 
     # Br "Mystery solved."
-    Br ""
+    Br "Тайна раскрыта."
 
 # game/chapter2.rpy:744
 translate russiantl _call_skipcheck_11_bbb2170d:
@@ -694,61 +694,61 @@ translate russiantl _call_skipcheck_11_e3fa7472:
 translate russiantl _call_skipcheck_11_d4938ded:
 
     # Br "[player_name]! Are you alright?"
-    Br ""
+    Br "[player_name]! Ты в порядке?"
 
 # game/chapter2.rpy:765
 translate russiantl _call_skipcheck_11_ec9e9e05:
 
     # m "The next thing I saw was a hooded figure standing above me, barely visible against the darkness that permeated the room."
-    m ""
+    m "Следующим что я увидел, была фигура в плаще, ели заметная во тьме, пронизагшыворигырп комнату"
 
 # game/chapter2.rpy:775
 translate russiantl _call_skipcheck_11_4efdbd2a:
 
     # m "The figure crouched down next to me, its mask hovering right in front of my face. Merely a whisper reached my ears when it spoke."
-    m ""
+    m "Фигура наклонилась, и прошептала мне:"
 
 # game/chapter2.rpy:777
 translate russiantl _call_skipcheck_11_9beb3abe:
 
     # "???" "Be careful, [player_name]."
-    "???" ""
+    "???" "Будь осторожен, [player_name]."
 
 # game/chapter2.rpy:783
 translate russiantl _call_skipcheck_11_481cba01:
 
     # m "Then, the figure dashed towards the stairs."
-    m ""
+    m "Затем, она побежала к лестнице."
 
 # game/chapter2.rpy:789
 translate russiantl _call_skipcheck_11_0bcfdfaa:
 
     # Sb "Where are you going?"
-    Sb ""
+    Sb "Ты куда?"
 
 # game/chapter2.rpy:791
 translate russiantl _call_skipcheck_11_0aff41ce:
 
     # c "That... that's not me!"
-    c ""
+    c "Это... это не я!"
 
 # game/chapter2.rpy:793
 translate russiantl _call_skipcheck_11_de8fa231:
 
     # Br "Don't move!"
-    Br ""
+    Br "Не двигаться!"
 
 # game/chapter2.rpy:797
 translate russiantl _call_skipcheck_11_3ea89605:
 
     # c "She's going up the stairs!"
-    c ""
+    c "Она поднимается по лестнице!"
 
 # game/chapter2.rpy:801
 translate russiantl _call_skipcheck_11_bc7b26c6:
 
     # c "He's going up the stairs!"
-    c ""
+    c "Он поднимается по лестнице!"
 
 # game/chapter2.rpy:803
 translate russiantl _call_skipcheck_11_f4367284:
@@ -760,61 +760,61 @@ translate russiantl _call_skipcheck_11_f4367284:
 translate russiantl _call_skipcheck_11_ce6bda9f:
 
     # Sb "I didn't see that chair coming..."
-    Sb ""
+    Sb "Я не увидел это кресло."
 
 # game/chapter2.rpy:830
 translate russiantl _call_skipcheck_11_a2f5e26a:
 
     # Br "I can't see a damn thing in here!"
-    Br ""
+    Br "Тут ни черта не видно!"
 
 # game/chapter2.rpy:840
 translate russiantl _call_skipcheck_11_b6800c39:
 
     # Sb "Here, Chief!"
-    Sb ""
+    Sb "Вот, Шеф!"
 
 # game/chapter2.rpy:844
 translate russiantl _call_skipcheck_11_b2cd10f5:
 
     # Br "I hate these stupid stairs!"
-    Br ""
+    Br "Я ненавижу эти тупые лестницы!"
 
 # game/chapter2.rpy:846
 translate russiantl _call_skipcheck_11_aa006db9:
 
     # Sb "You're blocking the way!"
-    Sb ""
+    Sb "Ты преграждаешь мне путь!"
 
 # game/chapter2.rpy:848
 translate russiantl _call_skipcheck_11_2720f69a:
 
     # Br "Just go around me!"
-    Br ""
+    Br "Просто обойди меня!"
 
 # game/chapter2.rpy:854
 translate russiantl _call_skipcheck_11_2bd153c9:
 
     # Sb "There's no room, you're as wide as the stairs are!"
-    Sb ""
+    Sb "Каким образом, ты по ширине как сама лестница!"
 
 # game/chapter2.rpy:856
 translate russiantl _call_skipcheck_11_4d4de373:
 
     # Br "I can't help it!"
-    Br ""
+    Br "Ничего не могу с этим поделать!"
 
 # game/chapter2.rpy:860
 translate russiantl _call_skipcheck_11_3520c98d:
 
     # Br "Damn it! We'll never catch him now..."
-    Br ""
+    Br "Чёрт побери! Мы теперь его не поймаем..."
 
 # game/chapter2.rpy:872
 translate russiantl _call_skipcheck_11_8ff0be75:
 
     # m "By the time we found our way back up, the mysterious figure was nowhere to be found."
-    m ""
+    m "К тому времени как мы поднялись наверх, загадочная фигура уже давно куда-то пропала."
 
 # game/chapter2.rpy:878
 translate russiantl _call_skipcheck_11_6dadc1bd:
@@ -838,49 +838,49 @@ translate russiantl _call_skipcheck_11_83d52c05:
 translate russiantl _call_skipcheck_11_690a778e:
 
     # Sb "What even happened down there?"
-    Sb ""
+    Sb "Что там вообще произошло?"
 
 # game/chapter2.rpy:886
 translate russiantl _call_skipcheck_11_51622179:
 
     # Br "Right. [player_name], tell us everything in as much detail as you can."
-    Br ""
+    Br "Ладно. [player_name], расскажи нам все что ты видел как можно подробней."
 
 # game/chapter2.rpy:888
 translate russiantl _call_skipcheck_11_88a31d60:
 
     # c "There wasn't much to it. I heard a noise, I looked up, the light fixture came down, then someone pushed me- "
-    c ""
+    c "Да не особо то и много. Я услышал шум, посмотрел вверх, лампа упала, затем кто-то толкнул меня- "
 
 # game/chapter2.rpy:890
 translate russiantl _call_skipcheck_11_d27c71c1:
 
     # Br brow b "You mean Reza."
-    Br brow b ""
+    Br brow b "Ты имеешь ввиду Резу?"
 
 # game/chapter2.rpy:896
 translate russiantl _call_skipcheck_11_9fb0cf4b:
 
     # Br "What do you mean? Didn't you see him?"
-    Br ""
+    Br "О чем ты говоришь? Ты что, не видел его?"
 
 # game/chapter2.rpy:900
 translate russiantl _call_skipcheck_11_c681c8e5:
 
     # Br "What makes you say that?"
-    Br ""
+    Br "Почему ты так думаешь?" #TODO
 
 # game/chapter2.rpy:906
 translate russiantl _call_skipcheck_11_d839f9c0:
 
     # Br "Didn't you see him?"
-    Br ""
+    Br "Ты что, не видел его?"
 
 # game/chapter2.rpy:910
 translate russiantl _call_skipcheck_11_747d1237:
 
     # c "Whoever it was was wearing a mask."
-    c ""
+    c "Кто-бы это не был, на нём была маска."
 
 # game/chapter2.rpy:912
 translate russiantl _call_skipcheck_11_7ec97a9f:
@@ -892,25 +892,25 @@ translate russiantl _call_skipcheck_11_7ec97a9f:
 translate russiantl _call_skipcheck_11_4a4afe9d:
 
     # Sb disapproval b flip "Wait a minute... When we were down there, didn't you refer to him as \"she\"?"
-    Sb disapproval b flip ""
+    Sb disapproval b flip "Погоди ка... Когда мы были внизу, ты обр" #TODO
 
 # game/chapter2.rpy:918
 translate russiantl _call_skipcheck_11_9ec5cbc4:
 
     # c "Did I? I don't know, maybe you just heard it wrong."
-    c ""
+    c "Разве? Не знаю, возможно тебе послышалось."
 
 # game/chapter2.rpy:920
 translate russiantl _call_skipcheck_11_29e2d73b:
 
     # Sb normal b flip "Maybe."
-    Sb normal b flip ""
+    Sb normal b flip "Возможно."
 
 # game/chapter2.rpy:924
 translate russiantl _call_skipcheck_11_ce40491f:
 
     # Sb "Why would he wear that whole getup, though?"
-    Sb ""
+    Sb "А зачем тогда ему носить весь этот наряд?"
 
 # game/chapter2.rpy:932
 translate russiantl _call_skipcheck_11_4ea5d9f0:
@@ -922,19 +922,19 @@ translate russiantl _call_skipcheck_11_4ea5d9f0:
 translate russiantl _call_skipcheck_11_c7e0ac15:
 
     # Br "Good point."
-    Br ""
+    Br "Верно подмечено."
 
 # game/chapter2.rpy:948
 translate russiantl _call_skipcheck_11_24642328:
 
     # Br brow b "I'm not so sure about that, but who knows?"
-    Br brow b ""
+    Br brow b "Насчёт этого я не уверен, но кто знает?"
 
 # game/chapter2.rpy:952
 translate russiantl _call_skipcheck_11_37b00703:
 
     # Sb "This whole thing doesn't make any sense."
-    Sb ""
+    Sb "" #TODO Абсурд?
 
 # game/chapter2.rpy:954
 translate russiantl _call_skipcheck_11_0bb352b1:
@@ -946,31 +946,31 @@ translate russiantl _call_skipcheck_11_0bb352b1:
 translate russiantl _call_skipcheck_11_89baa06a:
 
     # Br "Your earlier theory about what happened was pretty sound, Sebastian. Let's go with that, and add the bit about the generator being stolen."
-    Br ""
+    Br "Твоя теория о том что произошло довольно хорошо звучала, Себастиан. Давай прибавим к ней украденный генератор, и остановимся на этом."
 
 # game/chapter2.rpy:958
 translate russiantl _call_skipcheck_11_a94ca74d:
 
     # Br brow b "So, now the question is: Who has a motive for stealing a generator?"
-    Br brow b ""
+    Br brow b "Итак, теперь главный вопрос: У кого есть мотив чтобы украсть генератор?"
 
 # game/chapter2.rpy:965
 translate russiantl _call_skipcheck_11_8ae6f97d:
 
     # Br stern b "Technically, yes, but it's unlikely that someone who lives here would resort to stealing a generator when they could easily buy or even just request one. It's not really the kind of thing that would get stolen around here."
-    Br stern b ""
+    Br stern b "В теории да, но маловероятно что кто-то живущий здесь пойдет на то чтобы украсть генератор, когда они с легкостью могут купить, или даже (запросить) его. Э" #TODO
 
 # game/chapter2.rpy:967
 translate russiantl _call_skipcheck_11_51f2406c:
 
     # Sb "How about Reza?"
-    Sb ""
+    Sb "А как насчет Резы?"
 
 # game/chapter2.rpy:973
 translate russiantl _call_skipcheck_11_ad212339:
 
     # Sb "Reza."
-    Sb ""
+    Sb "Реза."
 
 # game/chapter2.rpy:975
 translate russiantl _call_skipcheck_11_7581cdd5:
@@ -988,25 +988,25 @@ translate russiantl _call_skipcheck_11_2c4cde19:
 translate russiantl _call_skipcheck_11_3951ceed:
 
     # c "I can't deny the fact that your generators are pretty important to us, but resorting to murder?"
-    c ""
+    c "Не отрицаю что ваши генераторы очень важны для нас, но прибегать к убийствам?"
 
 # game/chapter2.rpy:987
 translate russiantl _call_skipcheck_11_310c24c3:
 
     # Br brow b "We all saw the human figure running away."
-    Br brow b ""
+    Br brow b "Мы все видели как человеческая фигура убегала."
 
 # game/chapter2.rpy:998
 translate russiantl chap2q1_f277d7a3:
 
     # c "Why would he remain here if he was the one who stole it? The generator was already gone when we got here, and the person in question wasn't carrying it, either."
-    c ""
+    c "Зачем ему было тут оставаться если он его украл? Генератора уже не было когда мы сюда прибыли, и тот человек не "
 
 # game/chapter2.rpy:1006
 translate russiantl chap2q1_8902e5af:
 
     # Br stern b "Judging by the person's mannerisms, posture and speed, I'd say no. None of our kind moves like that."
-    Br stern b ""
+    Br stern b "Судя по тому "
 
 # game/chapter2.rpy:1016
 translate russiantl chap2q1_b6c6ffba:
@@ -1018,7 +1018,7 @@ translate russiantl chap2q1_b6c6ffba:
 translate russiantl chap2q1_5bc75d03:
 
     # Sb "Perhaps this is a case where the criminal has returned to the crime scene."
-    Sb ""
+    Sb "Возможно преступник вернулся на место приступления."
 
 # game/chapter2.rpy:1026
 translate russiantl chap2q1_8d12a151:
@@ -1295,86 +1295,86 @@ translate russiantl chap2store_6edff375:
 # game/chapter2.rpy:1280
 translate russiantl chap2store_3e8a1606:
 
-    # c "(This must be the store Reza's been shopping at.)"
-    c ""
+# c "(This must be the store Reza's been shopping at.)"
+    c "(Должно быть в этом магазине закупался продуктами Реза.)"
 
 # game/chapter2.rpy:1290
 translate russiantl chap2store_bd0329ac:
 
     # c "(Who's he talking to?)"
-    c ""
+    c "(С кем он разговаривает?)"
 
 # game/chapter2.rpy:1292
 translate russiantl chap2store_01bee951:
 
     # c "(Hey, I think I've seen her before.)"
-    c ""
+    c "(Я думаю что я уже видел её ранее...)"
 
 # game/chapter2.rpy:1298
 translate russiantl chap2store_ac55e4d6:
 
-    # St "I'm sorry, but this prescription has expired."
-    St ""
+    # St "I'm sorry, but this prescription has expired." Todo
+    St "Извини, но недействительным"
 
 # game/chapter2.rpy:1304
 translate russiantl chap2store_14b7f614:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter2.rpy:1308
 translate russiantl chap2store_ec67b419:
 
     # "???" "..."
-    "???" ""
+    "???" "..."
 
 # game/chapter2.rpy:1310
 translate russiantl chap2store_99427c74:
 
     # St "I can't fill it like this. You'll need to tell your parents to visit the doctor so he can write you a new one."
-    St ""
+    St "Я не могу продать их тебе по этому рецепту. Тебе нужно будет попросить родителей взять новый у врача."
 
 # game/chapter2.rpy:1314
 translate russiantl chap2store_14b7f614_1:
 
     # Vr "..."
-    Vr ""
+    Vr "..."
 
 # game/chapter2.rpy:1318
 translate russiantl chap2store_ec67b419_1:
 
     # "???" "..."
-    "???" ""
+    "???" "..."
 
 # game/chapter2.rpy:1328
 translate russiantl chap2store_d920ff59:
 
     # m "She turned around, nearly running into me when she suddenly bolted toward the door."
-    m ""
+    m " Она повернулись, и неожиданно побежала к двери, чуть не врезавшись в меня."
 
 # game/chapter2.rpy:1336
 translate russiantl chap2store_90c9ae06:
 
     # St "Hello, [player_name]. How can I help you?"
-    St ""
+    St "Здравствуйте, [player_name]. Чем я могу Вам помочь?"
 
 # game/chapter2.rpy:1338
 translate russiantl chap2store_208bd904:
 
     # c "Wait, aren't you the bartender from the other day?"
-    c ""
+    c "Погоди-ка, ты же тот бармен "
 
 # game/chapter2.rpy:1340
 translate russiantl chap2store_86c785c8:
 
     # St "That I am. Did you have fun that evening?"
-    St ""
+    St "Это да. Как провел вечер?"
 
 # game/chapter2.rpy:1342
 translate russiantl chap2store_73e68c1b:
 
     # c "Not really. I'm not much of a fan of drinking contests."
-    c ""
+    c "Да не очень. Я "
 
 # game/chapter2.rpy:1344
 translate russiantl chap2store_c57f52cb:
@@ -1386,37 +1386,37 @@ translate russiantl chap2store_c57f52cb:
 translate russiantl chap2store_70ef6efc:
 
     # c "He apologized for it, though, so I guess it's all good now."
-    c ""
+    c "Но он уже извинился, Так что всё в порядке."
 
 # game/chapter2.rpy:1348
 translate russiantl chap2store_85996100:
 
     # St "He did? What did you do to him?"
-    St ""
+    St "Извинился? Как ты его заставил?"
 
 # game/chapter2.rpy:1350
 translate russiantl chap2store_6147dda4:
 
     # c "Nothing. At least not that I know."
-    c ""
+    c "Сам не знаю."
 
 # game/chapter2.rpy:1352
 translate russiantl chap2store_bcce3ec2:
 
     # St "Interesting. I guess he realized getting you drunk might not be such a good idea, or he just really likes you."
-    St ""
+    St "Интересно. Наверное он понял что поить тебя это плохая идея. Ну или же ты ему очень понравился."
 
 # game/chapter2.rpy:1354
 translate russiantl chap2store_0f4008f3:
 
     # St "You know, you can do more in the bar than just getting drunk."
-    St ""
+    St "Знаешь, в барах можно не только напиваться."
 
 # game/chapter2.rpy:1356
 translate russiantl chap2store_f0b69231:
 
     # c "Oh, really?"
-    c ""
+    c "Что, правда?"
 
 # game/chapter2.rpy:1358
 translate russiantl chap2store_433c1f6b:
@@ -1428,13 +1428,13 @@ translate russiantl chap2store_433c1f6b:
 translate russiantl chap2store_a83ed354:
 
     # c "Is that an invitation?"
-    c ""
+    c "Это приглашение?"
 
 # game/chapter2.rpy:1362
 translate russiantl chap2store_60df1031:
 
     # St "Well, if you put it that way, it kind of is."
-    St ""
+    St "Ну, можно и так сказать."
 
 # game/chapter2.rpy:1374
 translate russiantl chap2store_90c9ae06_1:
@@ -1692,97 +1692,97 @@ translate russiantl chap2store_90c9ae06_5:
 translate russiantl chap2store_f1c349e2:
 
     # c "You know who I am?"
-    c ""
+    c "Ты знаешь как меня зовут?"
 
 # game/chapter2.rpy:1510
 translate russiantl chap2store_3d02bb5e:
 
     # St "How could I not? Everyone knows about you."
-    St ""
+    St "Конечно же. Уже все знают о тебе."
 
 # game/chapter2.rpy:1512
 translate russiantl chap2store_fcf96ee5:
 
     # St "Anyway, how can I help you?"
-    St ""
+    St "Чем я могу помочь?"
 
 # game/chapter2.rpy:1531
 translate russiantl chap2storeques_5ddb112c:
 
     # St "You mean the girl? That's Vara."
-    St ""
+    St "Ты имеешь ввиду девочку? Её зовут Вара."
 
 # game/chapter2.rpy:1533
 translate russiantl chap2storeques_e6674300:
 
     # St "She comes here occasionally to pick up her mother's prescription."
-    St ""
+    St "Она сюда иногда заходит чтоб купить лекарства для матери."
 
 # game/chapter2.rpy:1543
 translate russiantl chap2storeques_d4c9ba55:
 
     # St "Of course I do. It's only been a few days since he was last here."
-    St ""
+    St "Конечно, хотя он уже не заходил несколько дней."
 
 # game/chapter2.rpy:1545
 translate russiantl chap2storeques_0ac1288f:
 
     # c "This will sound a little unusual, but can you tell me what he bought?"
-    c ""
+    c "Это может прозвучать странно, но можешь рассказать что он покупал?"
 
 # game/chapter2.rpy:1547
 translate russiantl chap2storeques_0d77203c:
 
     # St "Are you just talking about last time or every time he came here?"
-    St ""
+    St "В последний раз, или что он обычно покупает?"
 
 # game/chapter2.rpy:1549
 translate russiantl chap2storeques_af023afd:
 
     # c "Both, I suppose. He came here more than once?"
-    c ""
+    c "И то и то. Он приходил сюда больше одного раза?"
 
 # game/chapter2.rpy:1551
 translate russiantl chap2storeques_3d3b5ff7:
 
     # St "He's been visiting pretty regularly, now that I think about it."
-    St ""
+    St "Он довольно часто сюда заходил,"
 
 # game/chapter2.rpy:1553
 translate russiantl chap2storeques_c5aed8d5:
 
     # c "Interesting."
-    c ""
+    c "Интересно."
 
 # game/chapter2.rpy:1555
 translate russiantl chap2storeques_2de7a0dc:
 
     # St "I can look up his purchases if you like."
-    St ""
+    St "Могу посмотреть что он покупал, если хочешь."
 
 # game/chapter2.rpy:1557
 translate russiantl chap2storeques_98abd767:
 
     # c "That would be really helpful."
-    c ""
+    c "Было бы неплохо."
 
 # game/chapter2.rpy:1559
 translate russiantl chap2storeques_84fedc4e:
 
     # St "Shouldn't be too hard, just give me a second."
-    St ""
+    St "Секунду, это не должно занять много времени."
 
 # game/chapter2.rpy:1565
 translate russiantl chap2storeques_3213d9b9:
 
     # m "I watched him carefully navigate the register's buttons, soon followed by the sound of the attached printer."
-    m ""
+    m "Я наблюдал за тем, как он осторожно нажимал кнопки кассового аппарата, и вскоре послышался звук принтера."
 
 # game/chapter2.rpy:1567
 translate russiantl chap2storeques_d9e0e084:
 
     # St "Here you go. Receipts from all his purchases."
-    St ""
+    St "Вот, держи. Чеки всех его покупок."
 
 # game/chapter2.rpy:1569
 translate russiantl chap2storeques_af2aceae:
@@ -1800,67 +1800,67 @@ translate russiantl chap2storeques_3e8b8203:
 translate russiantl chap2storeques_3fea1af0:
 
     # c "Looks like he bought mostly food and snacks. Sometimes magazines. But why was he buying lemons every single time?"
-    c ""
+    c "Похоже что он в основном покупал еду. Иногда журналы. Но почему он каждый раз покупал лимоны?"
 
 # game/chapter2.rpy:1577
 translate russiantl chap2storeques_66a7826e:
 
     # St "I can't say that I didn't notice, but I figured it was just a human thing."
-    St ""
+    St "Я тоже это заметил, но подумал что люди просто любят лимоны."
 
 # game/chapter2.rpy:1579
 translate russiantl chap2storeques_f56fb333:
 
     # c "Strange. In any case, that was more information than I expected. You have my thanks."
-    c ""
+    c "Странно. Как бы то ни было, эта информация нам пригодится. Благодарю."
 
 # game/chapter2.rpy:1581
 translate russiantl chap2storeques_258c4f41:
 
     # St "You're welcome."
-    St ""
+    St "Всегда пожалуйста."
 
 # game/chapter2.rpy:1593
 translate russiantl chap2storeques_fd5d0715:
 
     # St "Let me know if you need anything."
-    St ""
+    St "Дай мне знать если что-то будет нужно."
 
 # game/chapter2.rpy:1603
 translate russiantl chap2storeques_3069e29e:
 
     # c "(What am I even looking for?)"
-    c ""
+    c "(Что я вообще тут ищу?)"
 
 # game/chapter2.rpy:1611
 translate russiantl chap2storebrowsemenu_d04c13c7:
 
     # c "(They have a surprisingly big selection.)"
-    c ""
+    c "(Да, тут есть где разгуляться.)"
 
 # game/chapter2.rpy:1613
 translate russiantl chap2storebrowsemenu_0f7d0fbe:
 
     # c "(Since when do dragons eat bread, anyway?)"
-    c ""
+    c "(С каких это пор драконы вообще едят хлеб?)"
 
 # game/chapter2.rpy:1615
 translate russiantl chap2storebrowsemenu_845ad9fa:
 
     # c "(I guess at least I'm covered in case I want any melon bread.)"
-    c ""
+    c "(Ну, хотя я теперь знаю куда мне идти если я вдруг захочу арбузного хлеба)"
 
 # game/chapter2.rpy:1617
 translate russiantl chap2storebrowsemenu_ce78e017:
 
     # Op "Hey, you!"
-    Op ""
+    Op "Эй, ты!"
 
 # game/chapter2.rpy:1621
 translate russiantl chap2storebrowsemenu_c0b3ec20:
 
     # c "Are you talking to me?"
-    c ""
+    c "Вы это мне?"
 
 # game/chapter2.rpy:1623
 translate russiantl chap2storebrowsemenu_681dd9c0:
@@ -1884,193 +1884,194 @@ translate russiantl chap2storebrowsemenu_c22a77d8:
 translate russiantl chap2storebrowsemenu_fc309083:
 
     # Op "..."
-    Op ""
+    Op "..."
 
 # game/chapter2.rpy:1631
 translate russiantl chap2storebrowsemenu_6cf2423c:
 
     # Op "That's a good idea. Why didn't I think of that?"
-    Op ""
+    Op "Хорошая идея.Как же я раньше об этом не подумала?"
 
 # game/chapter2.rpy:1643
 translate russiantl chap2storebrowsemenu_727001b3:
 
     # c "(Was that a cardboard box on her head?)"
-    c ""
+    c "(У нее на голове была картонная коробка?)"
 
 # game/chapter2.rpy:1653
 translate russiantl chap2storebrowsemenu_dfb5ee18:
 
     # c "(Who would've thought that dragons are big on produce?)"
-    c ""
+    c "(Кто бы мог подумать что драконы производят так много товаров?)"
 
 # game/chapter2.rpy:1655
 translate russiantl chap2storebrowsemenu_76bbd1ee:
 
     # c "(I don't even recognize some of these.)"
-    c ""
+    c "(Я даже не узнаю некоторые из них.)"
 
 # game/chapter2.rpy:1665
 translate russiantl chap2storebrowsemenu_06fdb0d2:
 
     # c "(Meat, of course. Lots and lots of meat.)"
-    c ""
+    c "(Мясо, ну конечно же мясо. Очень много мяса.)"
 
 # game/chapter2.rpy:1667
 translate russiantl chap2storebrowsemenu_7e23c833:
 
     # c "(Fresh meat, smoked meat, cured meat, dried meat, pre-packaged meat, prepared meat, ready-to-eat meat, meat snacks, burgers, kebab, nuggets, whole hams, bacon, meat loaf, sausages.)"
-    c ""
+    c "(Свежее мясо, копчёное мясо, мясные полуфабрикаты, мясные закуски, бургеры, кебабы, наггетсы, целые окорока, бекон, сосиски.)"
 
 # game/chapter2.rpy:1669
 translate russiantl chap2storebrowsemenu_d4e1bf0b:
 
     # c "(And that's not even all of it. Needless to say, they have that area covered.)"
-    c ""
+    c "(И это даже ещё не всё. Да уж, с этим у них всё в порядке.)"
 
 # game/chapter2.rpy:1679
 translate russiantl chap2storebrowsemenu_bfe550e8:
 
     # c "(Everything from food supplements to skin care and even birth control.)"
-    c ""
+    c "(Тут есть всё начиная от пищевых добавок, до средств для ухода за кожей, и даже противозачаточные.)"
 
 # game/chapter2.rpy:1681
 translate russiantl chap2storebrowsemenu_d67026af:
 
     # c "(The variance in product sizes is astounding, especially when talking about the birth control.)"
-    c ""
+    c "()"
 
 # game/chapter2.rpy:1683
 translate russiantl chap2storebrowsemenu_ae706acd:
 
     # c "(I think these ones could fit on my arm.)"
-    c ""
+    c "(Думаю что вот те даже не поместятся мне в ладонь.)"
 
 # game/chapter2.rpy:1693
 translate russiantl chap2storebrowsemenu_c179b5b2:
 
     # c "(Enough browsing, I should go back to what I came here for.)"
-    c ""
+    c "(Ладно, хватит глазеть, я же сюда по делу пришел, в конце то концов.)"
 
 # game/chapter2.rpy:1711
 translate russiantl _call_syscheck_50_6efd03f3:
 
     # s "You looked at everything the store has to offer!"
-    s ""
+    s "Вы посмотрели весь ассортимент магазина!"
 
 # game/chapter2.rpy:1715
 translate russiantl _call_syscheck_50_6025ee30:
 
     # s "You looked at everything the store has to offer. Isn't that great?"
-    s ""
+    s "Ты посмотрел весь ассортимент магазина! Здорово, правда?"
+
 
 # game/chapter2.rpy:1719
 translate russiantl _call_syscheck_50_7276c06a:
 
     # s "You looked at everything the store has to offer. Of course, you're not planning to buy anything."
-    s ""
+    s "Ты посмотрел весь ассортимент магазина. Покупать, ты, конечно, ничего не собирался."
 
 # game/chapter2.rpy:1729
 translate russiantl _call_syscheck_50_b9ca54b5:
 
     # c "(I suppose that's all I can do here.)"
-    c ""
+    c "(Наверное тут уже всё.)"
 
 # game/chapter2.rpy:1746
 translate russiantl chap2facility_39b1b188:
 
     # c "(Reza was allegedly here at some point. Maybe I should ask Anna.)"
-    c ""
+    c "(Реза же был там когда-то. Может быть мне стоит спросить об этом Анну.)"
 
 # game/chapter2.rpy:1752
 translate russiantl chap2facility_98ba7ce2:
 
     # c "Hello?"
-    c ""
+    c "Ау?"
 
 # game/chapter2.rpy:1758
 translate russiantl chap2facility_1c061384:
 
     # c "Anybody here?"
-    c ""
+    c "Есть кто дома?"
 
 # game/chapter2.rpy:1776
 translate russiantl chap2facility_9d308e3d:
 
     # "???" "Can I help you?"
-    "???" ""
+    "???" "Я могу вам чем-то помочь?"
 
 # game/chapter2.rpy:1778
 translate russiantl chap2facility_923e730c:
 
     # c "I was just looking for Anna. This is her lab, right?"
-    c ""
+    c "Я искал Анну. Это же её лаборатория?"
 
 # game/chapter2.rpy:1782
 translate russiantl chap2facility_781c3892:
 
     # "???" "Why don't I ever get any recognition? This is my lab as much as it is hers."
-    "???" ""
+    "???" "Почему меня"
 
 # game/chapter2.rpy:1786
 translate russiantl chap2facility_909ef36b:
 
     # "???" "Either way, Anna is not here. Would that be all?"
-    "???" ""
+    "???" "В любом случае, Анны здесь нет. Это всё?"
 
 # game/chapter2.rpy:1788
 translate russiantl chap2facility_cb13aa33:
 
     # c "Since you work here, maybe you can help me instead."
-    c ""
+    c "Так как ты тут работаешь, может быть ты можешь мне помочь."
 
 # game/chapter2.rpy:1792
 translate russiantl chap2facility_d0a98889:
 
     # "???" "Oh, of course. Your precious Anna isn't here, so you'll have to settle for me. I see how it is."
-    "???" ""
+    "???" "А, конечно. Твоей дорогой Анны тут нету, и тебе придется довольствоваться мною."
 
 # game/chapter2.rpy:1796
 translate russiantl chap2facility_48aefc51:
 
     # c "Maybe it's not so bad that she isn't here at the moment. I met with her the other day, and it didn't go too well."
-    c ""
+    c "Может быть это и к лучшему. Как-то я встретился с ней, "
 
 # game/chapter2.rpy:1800
 translate russiantl chap2facility_45c436dc:
 
     # "???" "She's a bitch, isn't she? Now imagine having to share a lab with someone who still throws temper tantrums like a toddler."
-    "???" ""
+    "???" "Сука она, не правда ли? Представь каково мне работать с ней когда она закатывает детские истерики."
 
 # game/chapter2.rpy:1804
 translate russiantl chap2facility_e44ad5b4:
 
     # "???" "Anyway, how can I help you?"
-    "???" ""
+    "???" "Ладно, чем я могу помочь?"
 
 # game/chapter2.rpy:1808
 translate russiantl chap2facility_aae24ee5:
 
     # c "That's not what I meant."
-    c ""
+    c "Я не это имел ввиду."
 
 # game/chapter2.rpy:1812
 translate russiantl chap2facility_396cd89b:
 
     # "???" "Of course, of course. Let's just get this over with."
-    "???" ""
+    "???" "Конечно, конечно. Давай уже побыстрее."
 
 # game/chapter2.rpy:1814
 translate russiantl chap2facility_6d126859:
 
     # c "You could start by telling me who you are."
-    c ""
+    c "Расскажи мне о себе."
 
 # game/chapter2.rpy:1816
 translate russiantl chap2facility_37ef5819:
 
     # "???" "Here's the short version: My name is Damion. I work in this facility, and I'm unfortunate enough to live the nightmare of having to deal with Anna on a daily basis. Nice to meet you."
-    "???" ""
+    "???" " Если вкратце: меня зовут Дамиен. Я работаю в этом учреждении, и мне посчастливилось . Приятно познакомиться."
 
 # game/chapter2.rpy:1818
 translate russiantl chap2facility_4ce6b84d:
@@ -2082,13 +2083,13 @@ translate russiantl chap2facility_4ce6b84d:
 translate russiantl chap2facility_43b8bf53:
 
     # Dm "And you are?"
-    Dm ""
+    Dm "А ты у нас?"
 
 # game/chapter2.rpy:1822
 translate russiantl chap2facility_2c897276:
 
     # c "You don't know who I am?"
-    c ""
+    c "Ты не знаешь кто я?"
 
 # game/chapter2.rpy:1824
 translate russiantl chap2facility_ccccd2cf:
@@ -4655,4 +4656,3 @@ translate russiantl strings:
     # chapter2.rpy:4594
     old "Spend the day reading."
     new ""
-

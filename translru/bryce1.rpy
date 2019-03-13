@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
+# TODO: Translation updated at 2017-05-02 20:02
 # Кто-то сломал этот файл, и теперь с ним игра не запускается. #TODO : починить
 # game/bryce1.rpy:32
 translate russiantl bryce1_af6347bc:
@@ -70,7 +70,7 @@ translate russiantl bryce1_b28883c8:
 translate russiantl bryce1_fe1efab4:
 
     # Br "You're quite right. In my own free time I do prefer to get drunk instead of dealing with work. If you find that \"worrisome\", maybe you should try out my job sometime."
-    Br "Не могу сказать, что ты неправ. В свободное время я предпочитаю промочить горло разгребанию работы. Если ты думаешь, что \"об этом стоит беспокоиться\", то тебе, наверно, стоит попробовать поработать тут вместо меня хоть денёк.
+    Br "Не могу сказать, что ты неправ. В свободное время я предпочитаю промочить горло разгребанию работы. Если ты думаешь, что \"об этом стоит беспокоиться\", то тебе, наверно, стоит попробовать поработать тут вместо меня хоть денёк."
 
 # game/bryce1.rpy:70
 translate russiantl bryce1_2f0ba0b7:
@@ -1002,7 +1002,7 @@ translate russiantl _call_syscheck_41_3da409e2:
 translate russiantl _call_syscheck_41_a10b39d9:
 
     # Xi "Did I hear something about a contest?"
-    Xi "Мне кажется, или кто-то сказал "соревнование"? ""
+    Xi "Мне кажется, или кто-то сказал \"соревнование\"? "
 
 # game/bryce1.rpy:820
 translate russiantl _call_syscheck_41_a44a33d3:

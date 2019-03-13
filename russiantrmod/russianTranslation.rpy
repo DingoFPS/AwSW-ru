@@ -13,3 +13,4 @@ init 0 python hide:
     style.menu_overlay_button_text.font = "mods/russiantrmod/Exo2-Regular.ttf"
     #Set developer mode
     config.developer = True
+    #Set line spacing todo

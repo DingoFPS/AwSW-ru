@@ -196,7 +196,7 @@ translate russiantl _call_skiptut_10_0054b77b:
 translate russiantl _call_skipcheck_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    "Как вы пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Как вы пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine1.rpy:254
 translate russiantl _call_skipcheck_10_e53dbbb3:

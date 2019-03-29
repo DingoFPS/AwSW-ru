@@ -104,3 +104,6 @@ venv.bak/
 .mypy_cache/
 
 /russianrtmod/tl/translru/*.rpy
+
+# helps to andysha
+/translru/helper.txt

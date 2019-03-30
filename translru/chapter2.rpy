@@ -2071,7 +2071,7 @@ translate russiantl chap2facility_6d126859:
 translate russiantl chap2facility_37ef5819:
 
     # "???" "Here's the short version: My name is Damion. I work in this facility, and I'm unfortunate enough to live the nightmare of having to deal with Anna on a daily basis. Nice to meet you."
-    "???" " Если вкратце: меня зовут Дамиен. Я работаю в этом учреждении, и мне посчастливилось . Приятно познакомиться."
+    "???" " Если вкратце: меня зовут Дамиен, я работаю в этом учреждении, и мне \"посчастливилось\" каждый день иметь дела с Анной. Приятно познакомиться." #TODO
 
 # game/chapter2.rpy:1818
 translate russiantl chap2facility_4ce6b84d:
@@ -2101,79 +2101,79 @@ translate russiantl chap2facility_ccccd2cf:
 translate russiantl chap2facility_3e235e4f:
 
     # Dm "Newsflash: Not everyone cares. Once both of you are gone, life will return to normal and we can all go back to what we actually should be doing."
-    Dm ""
+    Dm "Новость дня: Не всем есть до вас дело. Когда вы оба уйдетё, жизнь снова вернётся в нормальное русло, и мы все снова сможем заниматься тем чем должны." #TODO
 
 # game/chapter2.rpy:1828
 translate russiantl chap2facility_78e507f9:
 
     # c "I imagine a lot of it has to do with those human myths you have."
-    c ""
+    c "Я предполагаю что это из-за ваших мифов о людях."
 
 # game/chapter2.rpy:1830
 translate russiantl chap2facility_122f0543:
 
     # Dm normal "I can only reiterate: Not everyone cares."
-    Dm normal ""
+    Dm normal "Повторюсь: Не всем есть до вас дело."
 
 # game/chapter2.rpy:1832
 translate russiantl chap2facility_4be88514:
 
     # Dm "What exactly did you want, again?"
-    Dm ""
+    Dm "Так что тебе там было нужно?" #TODO
 
 # game/chapter2.rpy:1847
 translate russiantl chap2facques_ca8975a0:
 
     # c "Do you know anything about Reza's visits to this facility?"
-    c ""
+    c "Ты знаешь что-то о визитах Резы в это заведение?" #TODO
 
 # game/chapter2.rpy:1849
 translate russiantl chap2facques_5f0c683d:
 
     # Dm arrogant "I've seen him a few times. He would come by to ask about the progress of the generators."
-    Dm arrogant ""
+    Dm arrogant "Я видел его пару раз. Он приходил чтобы спросить о том как продвигается изготовление генераторов."
 
 # game/chapter2.rpy:1851
 translate russiantl chap2facques_42c15fdf:
 
     # Dm face "Heh, there was this one time when Anna told him she'd have news, but when he came over, she just wanted to run some tests on him."
-    Dm face ""
+    Dm face "Хех, а однажды Анна сказалу ему что у неё есть для него новости, а когда он пришел оказалось что она хотела провести на нём несколько опытов."
 
 # game/chapter2.rpy:1853
 translate russiantl chap2facques_3f81bd53:
 
     # c "Did he go through with it?"
-    c ""
+    c "Он согласился на них?"
 
 # game/chapter2.rpy:1855
 translate russiantl chap2facques_476c4046:
 
     # Dm arrogant "No, he wanted some... compensation, I suppose. Nothing she could offer satisfied him, however, and that was that."
-    Dm arrogant ""
+    Dm arrogant "Нет, он потребовал какую-то... компенсацию, наверное. Но ничего из того что она ему могла предложить не подошло, и на этом всё закончилось." #TODO
 
 # game/chapter2.rpy:1873
 translate russiantl chap2facques_c785acc4:
 
     # Dm arrogant "Why do you care about that?"
-    Dm arrogant ""
+    Dm arrogant "А тебе-то какая разница?"
 
 # game/chapter2.rpy:1875
 translate russiantl chap2facques_e9e2810d:
 
     # c "Maybe I want to find out what kind of person she is. You might have an idea."
-    c ""
+    c "Возможно я хочу побольше узнать о ней. Возможно у " #TODO
 
 # game/chapter2.rpy:1877
 translate russiantl chap2facques_e6e60faf:
 
     # Dm face "I'll put it this way: I've known her far too long."
-    Dm face ""
+    Dm face "Скажу так: Я уже слишком много её знаю."
 
 # game/chapter2.rpy:1893
 translate russiantl chap2facques_234c334f:
 
     # Dm arrogant "Cancer research. She thinks she can cure it, but she's out of her mind."
-    Dm arrogant ""
+    Dm arrogant "Исследования рака. Она думает что сможет его излечить, но она совсем выжила из ума."
 
 # game/chapter2.rpy:1895
 translate russiantl chap2facques_6e045e60:
@@ -2191,163 +2191,163 @@ translate russiantl chap2facques_9069309f:
 translate russiantl chap2facques_af3f998c:
 
     # Dm face "Right now? Guess who got tasked with running all those tests on your blood."
-    Dm face ""
+    Dm face "И угадай кого сейчас заставили проводить тесты на твоей крови."
 
 # game/chapter2.rpy:1919
 translate russiantl chap2facques_20d31919:
 
     # c "You did?"
-    c ""
+    c "Тебя?"
 
 # game/chapter2.rpy:1921
 translate russiantl chap2facques_ef5a3905:
 
     # Dm arrogant "That's right. While she goes out and does whatever the heck she wants, I get to keep an eye on the experiment."
-    Dm arrogant ""
+    Dm arrogant "Правильно. Пока она творит черт возьми что хочет, мне приходиться следить за экспериментами." #TODO
 
 # game/chapter2.rpy:1923
 translate russiantl chap2facques_cb28ec53:
 
     # c "Any interesting results?"
-    c ""
+    c "Что-то интересное уже обнаружил?"
 
 # game/chapter2.rpy:1925
 translate russiantl chap2facques_6f58f482:
 
     # Dm "Not just yet, but soon we'll know more about your body than you do."
-    Dm ""
+    Dm "Пока нет, но скоро мы будем знать о твоём теле больше чем ты сам."
 
 # game/chapter2.rpy:1929
 translate russiantl chap2facques_57b6f3f4:
 
     # Dm arrogant "Nothing special, unless you care a lot about genetics. And we're not talking about the basics here, but the deep stuff."
-    Dm arrogant ""
+    Dm arrogant "Ничего особенного, если тебе не все равно на генетику. " #TODO
 
 # game/chapter2.rpy:1942
 translate russiantl chap2facques_4a91bb19:
 
     # c "Thanks for your help."
-    c ""
+    c "Спасибо за помощь."
 
 # game/chapter2.rpy:1944
 translate russiantl chap2facques_edefda31:
 
     # Dm face "Yeah, yeah."
-    Dm face ""
+    Dm face "Да, да."
 
 # game/chapter2.rpy:1972
 translate russiantl _call_syscheck_51_a499679e:
 
     # s "You interrogated Damion!"
-    s ""
+    s "Вы допросили Дамиена!"
 
 # game/chapter2.rpy:1976
 translate russiantl _call_syscheck_51_556f2a28:
 
     # s "You interrogated Damion. Fun times."
-    s ""
+    s "Ты допросил Дамиена. Веселье то какое."
 
 # game/chapter2.rpy:1980
 translate russiantl _call_syscheck_51_0bd78e3c:
 
     # s "You interrogated Damion. Makes you feel important, eh?"
-    s ""
+    s "Ты допросил Дамиена. Прям можно почувствовать себя деловой колбасой, не правда ли?" #TODO
 
 # game/chapter2.rpy:1997
 translate russiantl chap2library_364b3f89:
 
     # c "(Alright, Reza. What did you want here?)"
-    c ""
+    c "(Ладно, Реза, что же тебе здесь было нужно?)"
 
 # game/chapter2.rpy:1999
 translate russiantl chap2library_297e63ab:
 
     # c "(Hey, it's Remy.)"
-    c ""
+    c "(Эй, это же Реми.)"
 
 # game/chapter2.rpy:2003
 translate russiantl chap2library_d2df87d5:
 
     # Ry "I already told you, it's not here."
-    Ry ""
+    Ry "Я тебе уже говорил, её здесь нет."
 
 # game/chapter2.rpy:2005
 translate russiantl chap2library_4ae969d3:
 
     # c "(Who's he talking to? Adine?)"
-    c ""
+    c "(С кем он разговаривает? Эдин?)"
 
 # game/chapter2.rpy:2009
 translate russiantl chap2library_965f34a8:
 
     # Ad "Won't you help out an old friend?"
-    Ad ""
+    Ad "Ну же, помоги старому другу."
 
 # game/chapter2.rpy:2011
 translate russiantl chap2library_ed549405:
 
     # Ry sad flip "F-Friend?! This is the first time you've spoken to me in years."
-    Ry sad flip ""
+    Ry sad flip "Д-другу?! Ты впервые за долгие годы заговорила со мной."
 
 # game/chapter2.rpy:2013
 translate russiantl chap2library_a90da408:
 
     # Ad annoyed b "And whose fault is that? For you, I didn't even exist these last few years. At least I tried to reach out to you."
-    Ad annoyed b ""
+    Ad annoyed b "А кто в этом виноват? Меня даже не существовало для тебя все эти годы. Я хотя-бы пыталась связатся с тобой."
 
 # game/chapter2.rpy:2015
 translate russiantl chap2library_5ffcbcd2:
 
     # Ry angry flip "No, you're just here because you want something."
-    Ry angry flip ""
+    Ry angry flip "Нет, ты пришла сюда потому что тебе что-то от меня нужно."
 
 # game/chapter2.rpy:2017
 translate russiantl chap2library_6c79b3ea:
 
     # Ad disappoint b "I'm right here, right now and you still continue to act like that. She was my friend too, you know."
-    Ad disappoint b ""
+    Ad disappoint b "Я стою перед тобой, а ты продолжаешь себя так вести. Знаешь, она ведь была и моей подругой тоже."
 
 # game/chapter2.rpy:2019
 translate russiantl chap2library_e0707120:
 
     # Ry sad flip "..."
-    Ry sad flip ""
+    Ry sad flip "..."
 
 # game/chapter2.rpy:2021
 translate russiantl chap2library_5d77faf3:
 
     # Ry "I think you should leave."
-    Ry ""
+    Ry "Думаю что тебе стоит уйти."
 
 # game/chapter2.rpy:2023
 translate russiantl chap2library_2355e57c:
 
     # Ad "..."
-    Ad ""
+    Ad "..."
 
 # game/chapter2.rpy:2033
 translate russiantl chap2library_425aaf1a:
 
     # Ad "For what it's worth, I'm sorry. For everything."
-    Ad ""
+    Ad "Если мои слова для тебе что-то значат, прости меня. За всё."
 
 # game/chapter2.rpy:2035
 translate russiantl chap2library_64840897:
 
     # Ry "It's a little late for apologies."
-    Ry ""
+    Ry "Уже поздно извиняться."
 
 # game/chapter2.rpy:2037
 translate russiantl chap2library_f23a6396:
 
     # Ad annoyed b "Have it your way, then."
-    Ad annoyed b ""
+    Ad annoyed b "Как знаешь."
 
 # game/chapter2.rpy:2053
 translate russiantl chap2library_397c9469:
 
     # m "Adine stormed out so quickly that she didn't even notice me."
-    m ""
+    m "Эдин быстро выбежала из здания, и даже не заметила меня."
 
 # game/chapter2.rpy:2055
 translate russiantl chap2library_ec2d8db0:
@@ -2359,247 +2359,247 @@ translate russiantl chap2library_ec2d8db0:
 translate russiantl chap2library_bb8b98cc:
 
     # Ry "Oh, hello [player_name]! Good to see you again."
-    Ry ""
+    Ry "О, привет [player_name]! Рад снова видеть тебя."
 
 # game/chapter2.rpy:2063
 translate russiantl chap2library_45f9fee3:
 
     # c "You too, Remy."
-    c ""
+    c "Взаимно, Реми."
 
 # game/chapter2.rpy:2065
 translate russiantl chap2library_8102b477:
 
     # Ry normal "Sorry, I didn't get a chance to call you about the dinner yet, but there should be an opening soon. Anyways, do you need anything from me?"
-    Ry normal ""
+    Ry normal "Извини что до сих пор не связался с то" #TODO
 
 # game/chapter2.rpy:2071
 translate russiantl chap2library_dc54aa64:
 
     # Ry "Oh, hello [player_name]! Good to see you. Do you need anything?"
-    Ry ""
+    Ry "О, привет [player_name]! Рад снова видеть тебя. Чем могу помочь?"
 
 # game/chapter2.rpy:2077
 translate russiantl chap2library_435e0f44:
 
     # Ry "Can I help you?"
-    Ry ""
+    Ry "Чем могу быть полезен?"
 
 # game/chapter2.rpy:2083
 translate russiantl chap2library_7f5e7a75:
 
     # Ry "Hello [player_name]. How can I help you?"
-    Ry ""
+    Ry "Привет [player_name]! Чем могу помочь?"
 
 # game/chapter2.rpy:2099
 translate russiantl chap2libmenu_29941054:
 
     # Ry "Reza? He's visited quite often since he arrived, actually. Until a few days ago, that is."
-    Ry ""
+    Ry "Реза? Он довольно часто сюда заходил с тех пор как прибыл. До недавних пор." #TODO
 
 # game/chapter2.rpy:2101
 translate russiantl chap2libmenu_51600f5b:
 
     # c "Do you know what he was reading?"
-    c ""
+    c "Ты знаешь что он читал?" #TODO
 
 # game/chapter2.rpy:2103
 translate russiantl chap2libmenu_844fed17:
 
     # Ry "Not particularly. I thought he just wanted to learn about our world."
-    Ry ""
+    Ry "Нет. Я думал что он просто хочет побольше узнать о нашем мире."
 
 # game/chapter2.rpy:2105
 translate russiantl chap2libmenu_08d57922:
 
     # c "Did you notice anything unusual about him while he was here?"
-    c ""
+    c "Ты заметил что-то необычное в его поведении пока он тут был?"
 
 # game/chapter2.rpy:2107
 translate russiantl chap2libmenu_e54b49af:
 
     # Ry "Can't say I did, though he did ask me for a map once."
-    Ry ""
+    Ry "Не могу сказать что заметил, но однажды он попросил у меня карту."
 
 # game/chapter2.rpy:2109
 translate russiantl chap2libmenu_dd8425b8:
 
     # c "A map?"
-    c ""
+    c "Карту?"
 
 # game/chapter2.rpy:2111
 translate russiantl chap2libmenu_a996483d:
 
     # Ry "Yes. I showed him a few, but none of them seemed to be what he was looking for."
-    Ry ""
+    Ry "Да. Я показал ему несколько, но было похоже что он искал не их."
 
 # game/chapter2.rpy:2113
 translate russiantl chap2libmenu_fd7b6f67:
 
     # c "Did he talk to you about anything strange while he was here?"
-    c ""
+    c "А он разговаривал с тобой о чём-то необычном пока он "#TODO
 
 # game/chapter2.rpy:2115
 translate russiantl chap2libmenu_8f6a1e77:
 
     # Ry "Besides the maps, nothing else worth mentioning comes to mind. Only the usual pleasantries."
-    Ry ""
+    Ry "Кроме карт, ничего не приходит на ум. " #TODO
 
 # game/chapter2.rpy:2130
 translate russiantl chap2libmenu_e1a3eb0d:
 
     # Ry look "Were you eavesdropping?"
-    Ry look ""
+    Ry look "Ты что, подслушивал?"
 
 # game/chapter2.rpy:2132
 translate russiantl chap2libmenu_365fda80:
 
     # c "I can't exactly shut my ears off if I'm nearby."
-    c ""
+    c "Ну знаешь, я не могу просто отключить свои уши."
 
 # game/chapter2.rpy:2134
 translate russiantl chap2libmenu_d7c34a1a:
 
     # Ry "Whatever your reason, it isn't any of your business."
-    Ry ""
+    Ry "Какова бы не была причина, это не твоё дело."
 
 # game/chapter2.rpy:2144
 translate russiantl chap2libmenu_c92dfbc5:
 
     # Ry shy "Wait, you were here that whole time?"
-    Ry shy ""
+    Ry shy "Подожди, ты был тут всё это время?"
 
 # game/chapter2.rpy:2146
 translate russiantl chap2libmenu_f550fd61:
 
     # c "Not the whole time, just long enough to know that something's up."
-    c ""
+    c "Не всё время, но достаточно чтобы заметить что что-то происходит."
 
 # game/chapter2.rpy:2148
 translate russiantl chap2libmenu_e962168b:
 
     # Ry "It's nothing that concerns you."
-    Ry ""
+    Ry "Тебя это не касается."
 
 # game/chapter2.rpy:2150
 translate russiantl chap2libmenu_78f0f2f1:
 
     # c "Come on. It does concern me. I know you, and I know Adine."
-    c ""
+    c "Да ладно тебе, как раз таки касается. Я же знаю вас обоих."
 
 # game/chapter2.rpy:2152
 translate russiantl chap2libmenu_56bea75a:
 
     # Ry normal "It's really nothing of great importance. Are you aware of a certain prehistoric underground building we recently discovered?"
-    Ry normal ""
+    Ry normal "На самом деле это не так уж и важно. Ты знаешь про то доисторическое подземное строение которое мы недавно обнаружили?"
 
 # game/chapter2.rpy:2154
 translate russiantl chap2libmenu_fb0b8078:
 
     # c "I've heard of it."
-    c ""
+    c "Слыхал о таком."
 
 # game/chapter2.rpy:2156
 translate russiantl chap2libmenu_cb0a2dc9:
 
     # Ry "She wanted a blueprint of it, which was one of the things found inside the building during an investigation."
-    Ry ""
+    Ry "Она хотела его чертёж. Мы нашли его в самом здании когда исследовали его."
 
 # game/chapter2.rpy:2158
 translate russiantl chap2libmenu_c0135904:
 
     # c "Why would you have it?"
-    c ""
+    c "А что он делает у тебя?" #TODO
 
 # game/chapter2.rpy:2160
 translate russiantl chap2libmenu_51b0c2f0:
 
     # Ry "We're not just a library, you know, but a whole archive that stores all sorts of information and objects."
-    Ry ""
+    Ry "Знаешь, тут же не просто библиотека, а целый архив в котором хранится много разнообразной информации и вещей."
 
 # game/chapter2.rpy:2164
 translate russiantl chap2libmenu_1a8b6dfc:
 
     # Ry "Do you remember the box you dropped last time you came here?"
-    Ry ""
+    Ry "Помнишь ту коробку которую ты уронил в прошлый раз?"
 
 # game/chapter2.rpy:2166
 translate russiantl chap2libmenu_9f85b645:
 
     # c "Yeah."
-    c ""
+    c "Ага."
 
 # game/chapter2.rpy:2168
 translate russiantl chap2libmenu_83f20e4b:
 
     # Ry "It was filled with artifacts. We have them here for safekeeping."
-    Ry ""
+    Ry "В ней были артефакты которые находятся тут на хранении."
 
 # game/chapter2.rpy:2174
 translate russiantl chap2libmenu_dca50168:
 
     # Ry "In any case, a blueprint is the kind of thing that would be placed in our care eventually."
-    Ry ""
+    Ry "Как бы там ни было, этот чертёж рано или поздно все равно оказался бы тут." #TODO
 
 # game/chapter2.rpy:2176
 translate russiantl chap2libmenu_82f59c77:
 
     # c "So she thinks you have it."
-    c ""
+    c "И она думает что он у вас есть."
 
 # game/chapter2.rpy:2178
 translate russiantl chap2libmenu_2d40472f:
 
     # Ry "Even if we did, it wouldn't be something we could just give out to anyone."
-    Ry ""
+    Ry "Если бы он у нас и был, мы же не можем отдавать такие вещи кому попало." #TODO
 
 # game/chapter2.rpy:2180
 translate russiantl chap2libmenu_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Конечно."
 
 # game/chapter2.rpy:2192
 translate russiantl chap2libmenu_6a7d8d2a:
 
     # Ry "I'm fine, thank you."
-    Ry ""
+    Ry "Нормально."
 
 # game/chapter2.rpy:2194
 translate russiantl chap2libmenu_58b79884:
 
     # c "Somehow, I don't believe you."
-    c ""
+    c "Что-то мне в это не верится."
 
 # game/chapter2.rpy:2196
 translate russiantl chap2libmenu_35d8fa96:
 
     # Ry look "Why would how I'm doing concern you?"
-    Ry look ""
+    Ry look "Почему то как у меня дела тебя ебёт?" #TODO блять
 
 # game/chapter2.rpy:2198
 translate russiantl chap2libmenu_5ab8f405:
 
     # c "Because I care."
-    c ""
+    c "Потому что мне не всё равно."
 
 # game/chapter2.rpy:2200
 translate russiantl chap2libmenu_c2b99b93:
 
     # Ry sad "I... reject that notion. The last time you came here you acted in a manner that was unacceptable, and unless you need my assistance with something, this conversation is over."
-    Ry sad ""
+    Ry sad "Я... отвергаю это утверждение. Когда ты в прошлый раз тут был, ты вёл себя неприемлимым образом, и если тебе не нужна моя помощь с чем-то, этот разговор окончен." #TODO
 
 # game/chapter2.rpy:2211
 translate russiantl chap2libmenu_5fbaba76:
 
     # Ry "I'm doing fine, thank you."
-    Ry ""
+    Ry "Нормально, "
 
 # game/chapter2.rpy:2218
 translate russiantl chap2libmenu_53496c69:
 
     # Ry "I'm not sure, to be honest. There are a lot of things on my mind right now."
-    Ry ""
+    Ry "Если честно"
 
 # game/chapter2.rpy:2220
 translate russiantl chap2libmenu_efe0e8c3:

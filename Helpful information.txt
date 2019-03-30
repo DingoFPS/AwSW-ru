@@ -3,3 +3,71 @@
 
 Ќапример,
 jump begingame переносит на интро, в которое после прохождени€ нельз€ попасть.
+
+Ќекоторые коментарии разработчика Ч
+
+Redundancy
+
+There are instances when an identical line is listed multiple times for translation. This is often necessary for different choices or conditions where different paths still have some of the same dialogue lines.
+
+Copy/pasting the translation into the appropriate spot for the duplicate line should be alright, unless the different context of the line would make changes in the translation necessary.
+
+This kind of redundancy is most often seen closely together as results of different choices or conditions.
+
+However, sometimes you'll see duplicate lines that aren't in the same script files. For example, the messages left on the answering machines at the end of each main chapter will repeat in the next main chapter again, and you'll also see some shared lines across some of the endings.
+
+You will also see the system character popping up often to offer to skip ahead (in 3 different versions, depending on a variable). However, be advised that there are two different versions of this text, depending on where the skip will take the player (just skipping ahead, or mentioning skipping to "the end of the scene"), so make sure to not miss these differences when copy/pasting!
+
+While it's not necessary to translate identical lines with the exact same words (you don't have to hunt for identical lines if you're not sure if you have seen it before, or can't remember where it was), it might save you some time if you recognize them and can use a prior translation.
+
+
+The System - Achievement Texts
+
+Whenever an achievement is gained by the player, the System character ( Sy ) tells us. Sy has 3 different messages per achievement. Which one is displayed is dependent a variable. The first is fairly formal, the other two are increasingly snarky and contain jokes, puns and other silliness.
+
+Sometimes, this is hard to translate accurately - a pun may outright not work in another language, so an alternative pun may have to be found or a new message has to take its place. Feel free to come up with something fitting yourself, but keep in mind the overall character and personality of System depending on the snarkiness level and the game's overall content, so please refrain from overly overly creepy, violent, or sexual jokes.
+
+
+Images
+
+There are a number of in-game images that have text and therefore can be translated. Some (like buttons) are very important, whereas others don't necessarily need to be translated.
+
+The folder structure of these images follow that of the main game for easy integration and are divided by category. You can simply replace the translated version of the image with the untranslated one in the appropriate folder.
+
+We have included the source files for many of the images in the SOURCEFILES folder to make localization of these images easier.
+
+If possible, please at least include a text translation in a text file for these images. You can also supply a text translation for the text in the intro video and we may be able to have a localized version made.
+
+
+Other Things of Note
+
+Tenses are important! For someone who reads the script for the first time, there may be some confusion about the tenses used during some of the dialogue. Of course, the significance of many things the main character talks about is changed when talking about things that are different in the human world - the tense is often used to imply that things that are talked about are in the past due to the solar flare ("It used to be similar for us", etc.).
+
+Besides the character abbreviation, the dialogue is also often accompanied by a change of sprite/emotion:
+
+# game/chapter5trueendings.rpy:884
+translate testtranslationtl trueendings_a8f9e8ed:
+
+    # Ad normal b flip "I could tell you about Amely while we wait."
+    Ad normal b flip ""
+
+When this line of dialogue is spoken, Adine's sprite changes to her normal one. The b refers to her outfit (with her goggles), and flip specifies that the sprite is flipped compared to the source file (so she ends up looking right here instead of left).
+
+Again, this is automatically added to the translated line, and you don't have to pay attention to anything outside the quotation marks, but the accompanying emotion may provide context to the line you're translating and may slightly influence the translation of the line itself.
+
+Some characters also have a third outfit (with a "c" instead of a "b" as in the example above). Don't confuse it with the main character (who is denoted by a single "c" and nothing else before the quotation marks).
+
+In the script, dragons who can fly are sometimes refered to as "flyers". In order to avoid confusion we use the spelling "flier" when we are referring to sheets of paper that are handed out to people. Both can usually referred to as both spellings.
+
+nvl clear: nvl clear statements are a code relic that show up in the translation files and look like this:
+
+
+# game/chapter1.rpy:419
+translate testtranslationtl begingame_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+You can simply ignore them and move on to the next line.
+
+Phew, I think that should be everything. As always, if anything is unclear, feel free to ask!

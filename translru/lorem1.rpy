@@ -280,79 +280,79 @@ translate russiantl _call_skipcheck_16_1b74c6ae:
 translate russiantl _call_skipcheck_16_8062b0e2:
 
     # Lo normal "You should still be careful. What you tell me now will influence how your entire species will be represented in my game."
-    Lo normal "Тебе всё ещё стоит быть осторожным. "
+    Lo normal "Тебе всё ещё стоит быть осторожным. То, что ты мне сейчас скажешь, повлияет на то, как весь твой вид будет выглядеть в моей игре." #TODO
 
 # game/lorem1.rpy:303
 translate russiantl _call_skipcheck_16_5fef0849:
 
     # Lo happy "Don't worry, though. I'll treat this delicate matter with the required finesse."
-    Lo happy ""
+    Lo happy "Но не волнуйся. Я с нужной точностью подойду к этому деликатному делу." #TODO
 
 # game/lorem1.rpy:322
 translate russiantl _call_skipcheck_16_fc346745:
 
     # Lo think "How should we do this? Let me think..."
-    Lo think ""
+    Lo think "" #TODO TODO
 
 # game/lorem1.rpy:324
 translate russiantl _call_skipcheck_16_7e729438:
 
     # c "Why do you want to make this game in the first place?"
-    c ""
+    c "Во-первых, скажи, зачем ты хочешь сделать эту игру?" #TODO
 
 # game/lorem1.rpy:326
 translate russiantl _call_skipcheck_16_3097ad9e:
 
     # Lo happy "I've always wanted to make a video game. I've had this idea for a while, and it seems now is the right time to do it. It's almost as if you arrived at the perfect moment."
-    Lo happy ""
+    Lo happy "Мне всегда хотелось сделать её. Уже некоторое время у меня в голове крутится идеы, и, кажется, сейчас самое время её сделать. " #TODO TODO
 
 # game/lorem1.rpy:328
 translate russiantl _call_skipcheck_16_51a478e0:
 
     # c "I don't know. Don't you think my visit will overshadow your efforts? People may not be so interested in playing a game about humans anymore if they had a real one show up."
-    c ""
+    c "Ну не знаю. Тебе не кажется, что моё прибытие затмит твои старания? Народу может быть не так интересно играть в игру про людей, когда они могут лицезреть настоящего человека." #TODO (and): Понеслись заковырки с people - как общество драконов, и humans - как общество людей-человеков
 
 # game/lorem1.rpy:330
 translate russiantl _call_skipcheck_16_390e2221:
 
     # Lo normal "Good point, but the vast majority won't get to meet you personally, anyway. If I say I did and modeled the humans in the game after you, people will flock to it to get a similar experience."
-    Lo normal ""
+    Lo normal "Верно подмечено, но большая их часть всё равно не сможет лично встретиться с тобой. Если я скажу, что я сделал и смоделировал людей по твоему подобию, то они стадом понесутся " #TODO TODO
 
 # game/lorem1.rpy:338
 translate russiantl _call_skipcheck_16_adcb0d58:
 
     # Lo think "I guess you could say so."
-    Lo think ""
+    Lo think "Наверное, можно и так сказать." #TODO
 
 # game/lorem1.rpy:344
 translate russiantl _call_skipcheck_16_349dd55e:
 
     # Lo relieved "That's just a necessary evil, I think. They have to know somehow."
-    Lo relieved ""
+    Lo relieved "Я думаю, такого зла не потребуется. Они как-нибудь узнают об игре." #TODO
 
 # game/lorem1.rpy:352
 translate russiantl _call_skipcheck_16_140ef85b:
 
     # Lo happy "Awesome!"
-    Lo happy ""
+    Lo happy "Замечательно!" #TODO
 
 # game/lorem1.rpy:359
 translate russiantl _call_skipcheck_16_2b1c8f4f:
 
     # c "Okay, but why focus on humans? What makes us so important?"
-    c ""
+    c "Ладно, но зачем останавливаться именно на людях? Что нас делает столь важным?" #TODO
 
 # game/lorem1.rpy:361
 translate russiantl _call_skipcheck_16_e5ba7d6f:
 
     # Lo think "If there’s one thing that people here love, it’s humans. It doesn’t matter if they just see them in the media or believe in them as mythical creatures."
-    Lo think ""
+    Lo think "Если и есть что-то, что все здесь обожают, так это люди." #TODO
 
 # game/lorem1.rpy:363
 translate russiantl _call_skipcheck_16_1526dff6:
 
     # Lo normal "For me, humans were always real. I just didn't know whether I'd ever get a chance to meet one myself. I guess I can cross that one off the bucket list."
-    Lo normal ""
+    Lo normal "Для меня люди всегда были реальны. Я просто не знал, выпадет ли мне шанс встретиться с одним из них. Думаю, я могу вычеркнуть этот пункт из моего " #TODO TODO (and): Как я понял, the bucket list - список желаний, которые хочется сделать за свою жизнь, до смерти
 
 # game/lorem1.rpy:365
 translate russiantl _call_skipcheck_16_242918ac:
@@ -1484,21 +1484,21 @@ translate russiantl lorem1skip_bf8cb88a:
 
 translate russiantl strings:
 
-    # lorem1.rpy:12
+    # lorem1.rpy:12 (and): Заголовки сохранений
     old "Chapter 4 - Lorem 1"
-    new ""
+    new "Глава 4 - Лорем 1" #TODO?
 
     # lorem1.rpy:16
     old "Chapter 3 - Lorem 1"
-    new ""
+    new "Глава 3 - Лорем 1" #TODO?
 
     # lorem1.rpy:20
     old "Chapter 2 - Lorem 1"
-    new ""
+    new "Глава 2 - Лорем 1" #TODO?
 
     # lorem1.rpy:24
     old "Chapter 1 - Lorem 1"
-    new ""
+    new "Глава 1 - Лорем 1" #TODO?
 
     # lorem1.rpy:118
     old "Am I late?"
@@ -1506,67 +1506,67 @@ translate russiantl strings:
 
     # lorem1.rpy:118
     old "Well, I'm here now."
-    new ""
+    new "Ну, теперь я здесь." #TODO
 
     # lorem1.rpy:118
     old "I almost didn't."
-    new ""
+    new "И ведь я чуть этого не сделал." #TODO
 
     # lorem1.rpy:169
     old "Sounds good to me."
-    new ""
+    new "Звучит хорошо." #TODO
 
     # lorem1.rpy:169
     old "I already regret coming here."
-    new ""
+    new "Я уже жалею о том, что сюда пришёл." #TODO
 
     # lorem1.rpy:197
     old "That's what this is all about? A video game?"
-    new ""
+    new "Так вот зачем всё это. Для игры?" #TODO
 
     # lorem1.rpy:197
     old "Oh, you said this was going to be about something serious."
-    new ""
+    new "Но ты сказал, что это будет что-то серьёзное?" #TODO
 
     # lorem1.rpy:197
     old "A video game? Sounds interesting."
-    new ""
+    new "Игра? Звучит интересно." #TODO
 
     # lorem1.rpy:233
     old "Why?"
-    new ""
+    new "Почему же?" #TODO
 
     # lorem1.rpy:233
     old "You're right about that. I can't help but feel a little deceived by this."
-    new ""
+    new "Насчёт этого ты прав. Ничего не могу поделать, но я чувствую себя немного обманутым." #TODO
 
     # lorem1.rpy:253
     old "Leave." #this refers to an action by the main character, and not an order to lorem
-    new ""
+    new "Уйти." #TODO
 
     # lorem1.rpy:305
     old "Don't get ahead of yourself. We haven't even started yet."
-    new ""
+    new "Не опережай себя. Мы ещё ничего не начали." #TODO
 
     # lorem1.rpy:305
     old "I'm sure of it."
-    new ""
+    new "Я в этом уверен." #TODO
 
     # lorem1.rpy:305
     old "Okay."
-    new ""
+    new "Хорошо." #TODO
 
     # lorem1.rpy:332
     old "Does that mean I'm going to be your game's mascot?"
-    new ""
+    new "Означает ли это, что я стану маскотом твоей игры?" #TODO
 
     # lorem1.rpy:332
     old "So now I'm part of your viral marketing campaign, great."
-    new ""
+    new "Что ж, теперь я - часть твоей вирусной маркетинговой кампании, здорово." #TODO
 
     # lorem1.rpy:332
     old "As long as it's based on the truth, you have my support."
-    new ""
+    new "Пока это всё будет основано на правде, ты можешь рассчитывать на меня." #TODO
 
     # lorem1.rpy:367
     old "You certainly seem passionate enough about this."

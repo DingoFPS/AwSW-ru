@@ -28,7 +28,7 @@ translate russiantl strings:
 
     # images.rpy:1143
     old "Bryce"
-    new "Брюс"
+    new "Брайс"
 
     # images.rpy:1144
     old "Zhong"
@@ -64,7 +64,7 @@ translate russiantl strings:
 
     # images.rpy:1154
     old "Francois"
-    new "Франкойс"
+    new "Франкойс" #TODO мб Француа
 # Француа?
     # images.rpy:1155
     old "Sybil"

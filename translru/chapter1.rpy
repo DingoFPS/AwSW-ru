@@ -3399,7 +3399,7 @@ translate russiantl continuation_b044f66d:
 translate russiantl continuation_9f6c2417:
 
     # Br "Yeah, we hoped he would have come back on his own by now. Do you have any idea where he might be? Maybe he mentioned some sort of place in particular that holds some meaning to him?"
-    Br "Да, мы надеялись что он сам к нам вернется. У тебя есть какие-то предположения где он может быть? Возможно он упоминал при тебе какое-либо значимое для него место?
+    Br "Да, мы надеялись что он сам к нам вернется. У тебя есть какие-то предположения где он может быть? Возможно он упоминал при тебе какое-либо значимое для него место?"
 
 # game/chapter1.rpy:3051
 translate russiantl continuation_4c1fa005:
@@ -3533,7 +3533,7 @@ translate russiantl continuation_63eccaf9:
 translate russiantl continuation_3e4ea0a9:
 
     # Br "Yeah, how about we both just keep quiet about this whole thing for now? After all, I don't think any of us wants our people panicking about this already, right?"
-    Br "Да, давай пока никому ничего не говорить об этом. Всё-таки мы не хотим поднимать панику среди наших народов раньше времени, так ведь?
+    Br "Да, давай пока никому ничего не говорить об этом. Всё-таки мы не хотим поднимать панику среди наших народов раньше времени, так ведь?"
 
 # game/chapter1.rpy:3093
 translate russiantl continuation_ff9f623a:
@@ -4804,8 +4804,8 @@ translate russiantl strings:
     old "Yeah, he's a charming fellow."
     new "Ага, он прям очаровашка." #TODO
 
-    old "I'd rather not."
-    new "Я пожалуй откажусь."
+    #old "I'd rather not."
+    #new "Я пожалуй откажусь."
 
     # chapter1.rpy:1721
     old "He doesn't seem so bad to me."
@@ -4823,8 +4823,8 @@ translate russiantl strings:
     old "Now shoo, scaly-face."
     new "Теперь кыш, чешуйчатая морда."
 
-    old "[[Say nothing.]"
-    new "[[Промолчать.]"
+#    old "[[Say nothing.]"
+#    new "[[Промолчать.]"
     # chapter1.rpy:1888
     old "Of course not, as long as I don't have to pay the bill."
     new "Конечно нет, не я ведь за это заплатил."

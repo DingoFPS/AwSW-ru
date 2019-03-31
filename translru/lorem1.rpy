@@ -112,7 +112,7 @@ translate russiantl _call_skipcheck_16_dd38c1dc:
 translate russiantl _call_skipcheck_16_45499fc8:
 
     # c "Before we get to that, you haven't even told me yet what exactly all this is for. Are you sure you're not a reporter?"
-    c "Перед тем, как мы к этому перейдём, скажи, а для чего тебе всё это? Ты точно не журналист?" #TODO TODO пришлось перестроить, думаю, можно лучше | посмотреть, репортёр или журналист — журналист лучше, думаю нормально получилось
+    c "Перед тем, как мы к этому перейдём, скажи, а для чего тебе всё это? Ты точно не журналист?" #TODO пришлось перестроить, думаю, можно лучше | посмотреть, репортёр или журналист — журналист лучше, думаю нормально получилось
 
 # game/lorem1.rpy:159
 translate russiantl _call_skipcheck_16_260d481d:
@@ -124,7 +124,7 @@ translate russiantl _call_skipcheck_16_260d481d:
 translate russiantl _call_skipcheck_16_57ab5828:
 
     # c "And I thought the uniform was just a clever disguise."
-    c "А я-то думал, что твоя рабочая форма - просто хорошая маскировка." #TODO вроде норм | (and): Понял, какое слово я тогда искал - "хитрая"
+    c "А я-то думал, что твоя рабочая форма - просто хитрая маскировка." #TODO вроде норм | (and): Понял, какое слово я тогда искал - "хитрая"
 
 # game/lorem1.rpy:163
 translate russiantl _call_skipcheck_16_a750447a:
@@ -232,55 +232,55 @@ translate russiantl _call_skipcheck_16_8daf20aa:
 translate russiantl _call_skipcheck_16_2660554d:
 
     # Lo "If you wanted to leave, I'd get that."
-    Lo "Если бы ты хотел уйти, я бы как сделал."
+    Lo "Я пойму, если ты захочешь уйти." #TODO
 
 # game/lorem1.rpy:257
 translate russiantl _call_skipcheck_16_dce6f68c:
 
     # c "Well, I'm already here and have nothing else to do, so let's make the most of this."
-    c ""
+    c "Ну, я уже здесь и ничего с этим поделать не могу, так что давай выжмем из этой встречи всё." #TODO
 
 # game/lorem1.rpy:259
 translate russiantl _call_skipcheck_16_55eb3920:
 
     # Lo happy "Yes! Thank you!"
-    Lo happy ""
+    Lo happy "Да! Спасибо!" #TODO
 
 # game/lorem1.rpy:265
 translate russiantl _call_skipcheck_16_aded8efe:
 
     # c "Well, this was a waste of time."
-    c ""
+    c "Что ж, это было было пустой тратой времени." #TODO
 
 # game/lorem1.rpy:267
 translate russiantl _call_skipcheck_16_87c9bd59:
 
     # Lo shy "Sorry. I won't bother you again."
-    Lo shy ""
+    Lo shy "Прости, я больше тебя не потревожу." #TODO
 
 # game/lorem1.rpy:269
 translate russiantl _call_skipcheck_16_21ec9701:
 
     # c "I hope so."
-    c ""
+    c "Надеюсь." #TODO
 
 # game/lorem1.rpy:271
 translate russiantl _call_skipcheck_16_6e20b877:
 
     # m "Without another word, I got up from our table and left."
-    m ""
+    m "Без лишних слов я встал из-за стола и вышел." #TODO (and): Запятая не нужна, я проверил
 
 # game/lorem1.rpy:299
 translate russiantl _call_skipcheck_16_1b74c6ae:
 
     # c "At least I won't have to be so careful now. With a reporter, I'd have to worry about things being misinterpreted or being taken out of context."
-    c ""
+    c "По крайней мере, не теперь не нужно особо осторожничать. Если бы ты был журналистом, мне стоило бы волноваться о неверном толковании и отрыве от контекста." #TODO TODO
 
 # game/lorem1.rpy:301
 translate russiantl _call_skipcheck_16_8062b0e2:
 
     # Lo normal "You should still be careful. What you tell me now will influence how your entire species will be represented in my game."
-    Lo normal ""
+    Lo normal "Тебе всё ещё стоит быть осторожным. "
 
 # game/lorem1.rpy:303
 translate russiantl _call_skipcheck_16_5fef0849:

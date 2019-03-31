@@ -4,7 +4,7 @@
 translate russiantl lorem1_3d89afe3:
 
     # m "I went to the bar Lorem had suggested as our meeting place. When I looked around, I saw Bryce sitting at a table, talking to someone I couldn’t see. I lingered on him for a second, but soon spotted Lorem in the corner of my eye."
-    m "Я пришёл в бар, который был предложен Лоремом как место нашей встречи. Осмотревшись, я заметил Брайса. Он сидел за столом и болтал с кем-то, кого я не смог разглядеть. Я на секунду остановил свой взгляд на нём, но вскоре краем глаза заметил Лорема." #TODO Думаю что это версия чуть лучше, имхо | Да, край глаза лучше
+    m "Я пришёл в бар, который был предложен Лоремом как место нашей встречи. Осмотревшись, я заметил Брайса. Он сидел за столом и болтал с кем-то, кого я не смог разглядеть. Я на секунду остановил свой взгляд на нём, но вскоре краем глаза заметил Лорема." #TODO Думаю что это версия чуть лучше, имхо | (and): Да, край глаза лучше
 
 # game/lorem1.rpy:40
 translate russiantl lorem1_fb5ec58c:
@@ -28,13 +28,13 @@ translate russiantl _call_skiptut_16_0ff5f677:
 translate russiantl _call_skiptut_16_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s "Похоже, ты уже видел это раньше. Перейти к концу этой сцены?" # Система со второй фразы обращается к ГГ на ты. Коментарий разработчика :  Whenever an achievement is gained by the player, the System character ( Sy ) tells us. Sy has 3 different messages per achievement. Which one is displayed is dependent a variable. The first is fairly formal, the other two are increasingly snarky and contain jokes, puns and other silliness. | Скопировал как было, претензии не ко мне
+    s "Похоже, ты уже видел это раньше. Перейти к концу этой сцены?" # Система со второй фразы обращается к ГГ на ты. Коментарий разработчика :  Whenever an achievement is gained by the player, the System character ( Sy ) tells us. Sy has 3 different messages per achievement. Which one is displayed is dependent a variable. The first is fairly formal, the other two are increasingly snarky and contain jokes, puns and other silliness. | (and): Скопировал как было, претензии не ко мне
 
 # game/lorem1.rpy:76
 translate russiantl _call_skiptut_16_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Выходит, что ты уже проходил это раньше. Ты можешь снова просмотреть эту сцену, или мы можем сэкономить немного времени и пройти до конца этой сцены." #TODO избавиться от тавтологии | "и промотать до её концовки"?
+    s "Выходит, что ты уже проходил это раньше. Ты можешь снова просмотреть эту сцену, или мы можем сэкономить немного времени и пройти до конца этой сцены." #TODO избавиться от тавтологии | (and): "и промотать до её концовки"?
 
 # game/lorem1.rpy:91
 translate russiantl _call_skiptut_16_0054b77b:
@@ -76,7 +76,7 @@ translate russiantl _call_skipcheck_16_13dd88b5:
 translate russiantl _call_skipcheck_16_2e0eeda6:
 
     # c "I'm kinda surprised you wanted to meet me here. Don't take this the wrong way, but are you even old enough to drink?"
-    c "Я удивлен, что ты захотел встретиться со мной здесь. Не пойми меня неправильно, но ты уже достаточно взрослый, чтобы пить?" #TODO Я немного поражён твоим выбором места для встречи. Не пойми меня неправильно, но тебе вообще можно пить?" #TODO TODO возраст приплести
+    c "Я удивлен, что ты захотел встретиться со мной здесь. Не пойми меня неправильно, но ты уже достаточно взрослый, чтобы пить?" #TODO Я немного поражён твоим выбором места для встречи. Не пойми меня неправильно, но тебе вообще можно пить?"
 
 # game/lorem1.rpy:147
 translate russiantl _call_skipcheck_16_d23a2b3d:
@@ -94,7 +94,7 @@ translate russiantl _call_skipcheck_16_cef70957:
 translate russiantl _call_skipcheck_16_e802b109:
 
     # Lo normal "I can assure you I am a fully grown adult. My species doesn't get much bigger than this."
-    Lo normal "Уверяю тебя, я уже совершеннолетний. Мой вид вырастает только до таких размеров." #TODO fully grown adult | вид или род? Вид, как species
+    Lo normal "Уверяю тебя, я уже совершеннолетний. Мой вид вырастает только до таких размеров." #TODO
 
 # game/lorem1.rpy:153
 translate russiantl _call_skipcheck_16_649fddf0:
@@ -124,19 +124,19 @@ translate russiantl _call_skipcheck_16_260d481d:
 translate russiantl _call_skipcheck_16_57ab5828:
 
     # c "And I thought the uniform was just a clever disguise."
-    c "А я-то думал, что твоя рабочая форма - просто хорошая маскировка." #TODO вроде норм | Понял, какое слово я тогда искал - "хитрая"
+    c "А я-то думал, что твоя рабочая форма - просто хорошая маскировка." #TODO вроде норм | (and): Понял, какое слово я тогда искал - "хитрая"
 
 # game/lorem1.rpy:163
 translate russiantl _call_skipcheck_16_a750447a:
 
     # Lo normal "It's real, though. Sebastian knows I work for the local post office."
-    Lo normal "Но это правда. Себастьян знает, что я работаю в городской почте." #TODO городскоя почта? | У меня просто профдеформация уже
+    Lo normal "Но это правда. Себастьян знает, что я работаю в городской почте." #TODO городскоя почта? | (and): У меня просто профдеформация уже
 
 # game/lorem1.rpy:165
 translate russiantl _call_skipcheck_16_c4112abb:
 
     # c "Excuse me, but this still doesn't really tell me anything about why I'm here. You're a postman who wants to interview me for... what, exactly?"
-    c "(Извини меня конечно|Прости), но я всё ещё не понимаю, зачем я здесь. Ты - почтальон, который хочет взять у меня интервью, но... зачем именно?"
+    c "Извини меня, конечно, но я всё ещё не понимаю, зачем я здесь. Ты - почтальон, который хочет взять у меня интервью, но... зачем именно?"
 
 # game/lorem1.rpy:167
 translate russiantl _call_skipcheck_16_4c2ac08e:
@@ -148,13 +148,13 @@ translate russiantl _call_skipcheck_16_4c2ac08e:
 translate russiantl _call_skipcheck_16_6a88e8e8:
 
     # Lo happy "I recently graduated college with a degree in computing and moved in here with a good friend of mine."
-    Lo happy "(Недавно я выпустился из колледжа и получил специализацию, связанную с компьютерами|Недавно я закончил колледж с учёной степенью в информатике), и переехал сюда со своим хорошим приятелем." #TODO TODO специализация...
+    Lo happy "Недавно я закончил колледж с учёной степенью в информатике, и переехал сюда со своим хорошим приятелем." #TODO
 
 # game/lorem1.rpy:188
 translate russiantl _call_skipcheck_16_98593d8f:
 
     # Lo think "This town doesn't exactly offer the best opportunities to put my degree to good use, though."
-    Lo think "Правда, этот городок не позволяет в полной мере (пользоваться моей специализацией|воспользоваться ею)."
+    Lo think "Правда, этот городок не позволяет в полной мере воспользоваться ею."
 
 # game/lorem1.rpy:190
 translate russiantl _call_skipcheck_16_f52dcfe5:
@@ -166,7 +166,7 @@ translate russiantl _call_skipcheck_16_f52dcfe5:
 translate russiantl _call_skipcheck_16_d8bc587f:
 
     # Lo normal "Living in the city can be very expensive. I can always move later when I get a job there. I've got other plans right now, though."
-    Lo normal "Жизнь в городе может обходиться дорого. Я всегда могу снова переехать, когда получу здесь(#там? что это вообще за контекст, i don't even) работу. Но пока что у меня другие планы." #TODO
+    Lo normal "Жизнь в городе может обходиться дорого. Я всегда могу снова переехать, когда получу там работу. Но пока что у меня другие планы." #TODO
 
 # game/lorem1.rpy:194
 translate russiantl _call_skipcheck_16_3ad10c5b:

@@ -1,6 +1,9 @@
 init 0 python hide:
     #Change game translation
-    persistent.language = "translru"
+    persistent.language = "russiantl"
+    config.language = "russiantl"
+
+    config.window_title = u"Ангелы с Чешуйчатыми Крыльями"
     #Change some fonts
     style.default.font = "mods/russiantrmod/Exo2-Regular.ttf"
     style.yesno_prompt_text.font = "mods/russiantrmod/Exo2-Regular.ttf"

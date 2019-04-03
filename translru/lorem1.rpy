@@ -176,9 +176,9 @@ translate russiantl _call_skipcheck_16_3ad10c5b:
 
 # game/lorem1.rpy:203
 translate russiantl _call_skipcheck_16_b78abb33:
-#Контекст на 1516 строчке
+
     # Lo normal "You got it!"
-    Lo normal "" #TODO TODO КОНТЕКСТ
+    Lo normal "Да, ты правильно понял." #TODO
 
 # game/lorem1.rpy:209
 translate russiantl _call_skipcheck_16_2e662216:
@@ -274,7 +274,7 @@ translate russiantl _call_skipcheck_16_6e20b877:
 translate russiantl _call_skipcheck_16_1b74c6ae:
 
     # c "At least I won't have to be so careful now. With a reporter, I'd have to worry about things being misinterpreted or being taken out of context."
-    c "По крайней мере, не теперь не нужно особо осторожничать. Если бы ты был журналистом, мне стоило бы волноваться о неверном толковании и отрыве от контекста." #TODO TODO
+    c "По крайней мере, не теперь не нужно особо осторожничать. Если бы ты был журналистом, мне стоило бы волноваться о неверном толковании и отрыве от контекста." #TODO
 
 # game/lorem1.rpy:301
 translate russiantl _call_skipcheck_16_8062b0e2:
@@ -292,7 +292,7 @@ translate russiantl _call_skipcheck_16_5fef0849:
 translate russiantl _call_skipcheck_16_fc346745:
 
     # Lo think "How should we do this? Let me think..."
-    Lo think "" #TODO TODO
+    Lo think "Как бы нам всё это провернуть, дай-ка подумать..." #TODO
 
 # game/lorem1.rpy:324
 translate russiantl _call_skipcheck_16_7e729438:
@@ -304,7 +304,7 @@ translate russiantl _call_skipcheck_16_7e729438:
 translate russiantl _call_skipcheck_16_3097ad9e:
 
     # Lo happy "I've always wanted to make a video game. I've had this idea for a while, and it seems now is the right time to do it. It's almost as if you arrived at the perfect moment."
-    Lo happy "Мне всегда хотелось сделать её. Уже некоторое время у меня в голове крутится идеы, и, кажется, сейчас самое время её сделать. " #TODO TODO
+    Lo happy "Мне всегда хотелось сделать её. Уже некоторое время у меня в голове крутится идея, и, кажется, сейчас самое время её сделать. Как будто ты прибыл в самый нужный момент." #TODO
 
 # game/lorem1.rpy:328
 translate russiantl _call_skipcheck_16_51a478e0:
@@ -316,7 +316,7 @@ translate russiantl _call_skipcheck_16_51a478e0:
 translate russiantl _call_skipcheck_16_390e2221:
 
     # Lo normal "Good point, but the vast majority won't get to meet you personally, anyway. If I say I did and modeled the humans in the game after you, people will flock to it to get a similar experience."
-    Lo normal "Верно подмечено, но большая их часть всё равно не сможет лично встретиться с тобой. Если я скажу, что я сделал и смоделировал людей по твоему подобию, то они стадом понесутся " #TODO TODO
+    Lo normal "Верно подмечено, но большая их часть всё равно не сможет лично встретиться с тобой. Если я скажу, что я сделал и смоделировал людей по твоему подобию, то они стадом понесутся испытать что-то подобное." #TODO
 
 # game/lorem1.rpy:338
 translate russiantl _call_skipcheck_16_adcb0d58:
@@ -340,7 +340,7 @@ translate russiantl _call_skipcheck_16_140ef85b:
 translate russiantl _call_skipcheck_16_2b1c8f4f:
 
     # c "Okay, but why focus on humans? What makes us so important?"
-    c "Ладно, но зачем останавливаться именно на людях? Что нас делает столь важным?" #TODO
+    c "Ладно, но зачем останавливаться именно на людях? Что нас делает столь важными?" #TODO
 
 # game/lorem1.rpy:361
 translate russiantl _call_skipcheck_16_e5ba7d6f:
@@ -352,259 +352,259 @@ translate russiantl _call_skipcheck_16_e5ba7d6f:
 translate russiantl _call_skipcheck_16_1526dff6:
 
     # Lo normal "For me, humans were always real. I just didn't know whether I'd ever get a chance to meet one myself. I guess I can cross that one off the bucket list."
-    Lo normal "Для меня люди всегда были реальны. Я просто не знал, выпадет ли мне шанс встретиться с одним из них. Думаю, я могу вычеркнуть этот пункт из моего " #TODO TODO (and): Как я понял, the bucket list - список желаний, которые хочется сделать за свою жизнь, до смерти
+    Lo normal "Для меня люди всегда были реальны. Я просто не знал, выпадет ли мне шанс встретиться с одним из них. Думаю, я могу вычеркнуть этот пункт из моего списка желаний." #TODO (and): Как я понял, the bucket list - список дел, которые хочется сделать за свою жизнь, до смерти
 
 # game/lorem1.rpy:365
 translate russiantl _call_skipcheck_16_242918ac:
 
     # Lo happy "Now that we're here, I can tell you that no expense will be spared to make our portrayal of humans as accurate as possible."
-    Lo happy ""
+    Lo happy "И раз уж мы встретились, я гарантирую, что приложу все возможные усилия на создание наиболее точного образа человека." #TODO
 
 # game/lorem1.rpy:383
 translate russiantl _call_skipcheck_16_86be8d24:
 
     # Lo normal "For good reason! I just love humans."
-    Lo normal ""
+    Lo normal "И не зря! Я просто люблю людей." #TODO
 
 # game/lorem1.rpy:385
 translate russiantl _call_skipcheck_16_3ee17091:
 
     # c "If you say it like that, it actually ends up sounding pretty weird."
-    c ""
+    c "В такой формулировке это звучит очень странно." #TODO
 
 # game/lorem1.rpy:387
 translate russiantl _call_skipcheck_16_1c08cd7f:
 
     # c "Besides, what if I turn out to be a horrible person? What would you think about humans then?"
-    c ""
+    c "Кроме того, что будет, если я окажусь ужасной личностью? Что ты тогда будешь думать о людях?" #TODO
 
 # game/lorem1.rpy:389
 translate russiantl _call_skipcheck_16_9bf80b9c:
 
     # Lo think "It wouldn't change anything, because I wouldn't base my opinion of an entire species on interactions with a single individual."
-    Lo think ""
+    Lo think "Это ничего не изменит, потому что я не буду основывать своё мнение о целом виде на взаимодействии с одним индивидом." #TODO
 
 # game/lorem1.rpy:391
 translate russiantl _call_skipcheck_16_054e3918:
 
     # c "Then what is your current opinion of us based on?"
-    c ""
+    c "Тогда на чём же твоё мнение о нас сейчас основано?" #TODO
 
 # game/lorem1.rpy:393
 translate russiantl _call_skipcheck_16_9420a168:
 
     # Lo normal "Just the myths we have and the previous portrayals of humans in our media, but I suppose that's why I'm here talking with you right now. I want the truth, and all of it!"
-    Lo normal ""
+    Lo normal "На нашей мифологии и изображениях людей в наших медиа|СМИ, но я считаю, что это именно та причина, по которой мы сейчас с тобой болтаем. Я хочю правды, всю правду!" #TODO
 
 # game/lorem1.rpy:395
 translate russiantl _call_skipcheck_16_15f9c1a5:
 
     # c "Telling you all of it might not be such a good idea..."
-    c ""
+    c "Рассказывать тебе всю правду может быть не такой уж и хорошей идеей..." #TODO
 
 # game/lorem1.rpy:397
 translate russiantl _call_skipcheck_16_ef14dde8:
 
     # Lo think "Oh yeah, I guess that would take a lot more time than we have today."
-    Lo think ""
+    Lo think "А, ну да, наверное, это займёт намного больше времени, чем у нас сегодня есть." #TODO
 
 # game/lorem1.rpy:399
 translate russiantl _call_skipcheck_16_620bc3d3:
 
     # c "Anyway, what's the actual game about? What do you do?"
-    c ""
+    c "В любом случае, о чём эта игра? Что в ней нужно делать?" #TODO
 
 # game/lorem1.rpy:401
 translate russiantl _call_skipcheck_16_33eb1364:
 
     # Lo happy "It's a community simulation game. It all starts with the player character moving into a procedurally generated community, which is inhabitated by all kinds of mythical creatures. Humans included."
-    Lo happy ""
+    Lo happy "Это игра-симулятор сообщества. Всё начинается с того, что персонаж игрока переезжает в процедурно-сгенерированное общество, которое населено мифическими существами всех мастей, включая людей." #TODO
 
 # game/lorem1.rpy:403
 translate russiantl _call_skipcheck_16_fb9591f5:
 
     # c "Mythical creatures like humans. Mmm-hmmm."
-    c ""
+    c "Мифические существа, включая людей. Угу." #TODO (and): Угу
 
 # game/lorem1.rpy:405
 translate russiantl _call_skipcheck_16_b404187b:
 
     # Lo "Not only are the towns you move into unique, but the inhabitants are, too. There are a variety of traits that get randomized, both in looks and personality."
-    Lo ""
+    Lo "Уникальным будет не только город, но и его обитатели. Будет множество черт, которые будут гунерировать случайным образом, и в внешнем виде, и в характере." #TODO
 
 # game/lorem1.rpy:407
 translate russiantl _call_skipcheck_16_d879a92b:
 
     # Lo "There are many things you can do, but it's very open-ended and you can live your life there however you want to."
-    Lo ""
+    Lo "В игре можно будет заняться очень много чем, но у неё открытая концовка, и ты сможешь прожить здесь свою жизнь так, как тебе захочется." #TODO
 
 # game/lorem1.rpy:415
 translate russiantl _call_skipcheck_16_fafe2bd6:
 
     # Lo relieved "Well, I guess you're not part of the target audience, then."
-    Lo relieved ""
+    Lo relieved "Ну, тогда, я думаю, ты не входишь в мою целевую аудиторию." #TODO
 
 # game/lorem1.rpy:423
 translate russiantl _call_skipcheck_16_491774d2:
 
     # Lo normal "It is! At least, I hope others feel the same way about it."
-    Lo normal ""
+    Lo normal "И не только звучит! По крайней мере, я надеюсь, что остальные так же будут дмать об игре." #TODO (and): Фраза - ответ на "Звучит интересно."
 
 # game/lorem1.rpy:429
 translate russiantl _call_skipcheck_16_c4bbdf67:
 
     # Lo think "Oh, really?"
-    Lo think ""
+    Lo think "Серьёзно?" #TODO
 
 # game/lorem1.rpy:431
 translate russiantl _call_skipcheck_16_343057fe:
 
     # Lo happy "I couldn't ask for a better compliment than that!"
-    Lo happy ""
+    Lo happy "Комплимента лучше я и представить себе не могу." #TODO
 
 # game/lorem1.rpy:436
 translate russiantl _call_skipcheck_16_40ad1523:
 
     # c "What other mythical creatures are there besides humans?"
-    c ""
+    c "Какие ещё мифические существа будут в игре?" #TODO
 
 # game/lorem1.rpy:438
 translate russiantl _call_skipcheck_16_fca12b73:
 
     # Lo think "I haven’t worked that out yet, but humans alone give us a lot of material to work with."
-    Lo think ""
+    Lo think "Над этим я пока не поработал, но люди уже дают много материала для работы." #TODO
 
 # game/lorem1.rpy:440
 translate russiantl _call_skipcheck_16_be8b7287:
 
     # c "How so?"
-    c ""
+    c "Насколько много?" #TODO
 
 # game/lorem1.rpy:442
 translate russiantl _call_skipcheck_16_b613766c:
 
     # Lo normal "The question of the mythical human can be tackled in a variety of ways. There are many different interpretations of what humans are like."
-    Lo normal ""
+    Lo normal "Вопрос о мифическию людях может быть истолкован разными способами. Есть множество различных интерпретаций того, как выглядят люди." #TODO
 
 # game/lorem1.rpy:444
 translate russiantl _call_skipcheck_16_56a7507d:
 
     # c "For example?"
-    c ""
+    c "Например?" #TODO
 
 # game/lorem1.rpy:446
 translate russiantl _call_skipcheck_16_2ad9e663:
 
     # Lo happy "In general, the mythical human can be divided into three categories: Firstly, the human as a physical creature; secondly, the human as a non-physical entity; and thirdly, the human as a spiritual being."
-    Lo happy ""
+    Lo happy "В общем, людей в мифологии можно разделить на три категории: первая - люди как физические существа, вторая - люди как нефизические существа, и третья - люди как духовные существа." #TODO
 
 # game/lorem1.rpy:448
 translate russiantl _call_skipcheck_16_4facd386:
 
     # c "Let's start with the physical aspects."
-    c ""
+    c "Давай начнём с физических аспектов." #TODO
 
 # game/lorem1.rpy:450
 translate russiantl _call_skipcheck_16_12a75e24:
 
     # Lo normal "Sure. Since one of our myths tells us that the human who created us eventually turned into a dragon, there is a lot of room for interpretation as to how similar humans actually are to dragons."
-    Lo normal ""
+    Lo normal "Конечо. Так как наши мифы гласят, что человек, который нас создал, в итоге сам превратился в дракона, то у нас появляется возможность для обсуждения того, насколько сильно люди были похожи для людей." #TODO (and): Убейте меня
 
 # game/lorem1.rpy:452
 translate russiantl _call_skipcheck_16_c28061a0:
 
     # Lo think "I can see you don't have wings, but most of us are able to create fire in some way, or at least have a breath weapon. How about you?"
-    Lo think ""
+    Lo think "Как я вижу, у тебя нет крыльев, но большая часть драконов способны каким-то образом создавать огонь или, по крайней мере, владеют дыхательным оружием. А что насчёт тебя?" #TODO
 
 # game/lorem1.rpy:459
 translate russiantl _call_skipcheck_16_d275ced1:
 
     # Lo "I don't think that counts."
-    Lo ""
+    Lo "Не думаю, что это считается." #TODO
 
 # game/lorem1.rpy:465
 translate russiantl _call_skipcheck_16_4e5846ff:
 
     # Lo normal "Not really. Having hands that are dextrous enough to do that is remarkable, though."
-    Lo normal ""
+    Lo normal "Не совсем, но обладание руками, которые достаточно ловки для того, чтобы так делать, достойно отметки." #TODO
 
 # game/lorem1.rpy:475
 translate russiantl _call_skipcheck_16_a6d6377a:
 
     # Lo happy "Really? That's amazing!"
-    Lo happy ""
+    Lo happy "Серьёзно? Это так круто!" #TODO
 
 # game/lorem1.rpy:477
 translate russiantl _call_skipcheck_16_cf49fd2e:
 
     # c "I was just kidding."
-    c ""
+    c "Я пошутил." #TODO
 
 # game/lorem1.rpy:479
 translate russiantl _call_skipcheck_16_8130a854:
 
     # Lo relieved "You shouldn't joke about things like that. This is serious."
-    Lo relieved ""
+    Lo relieved "Тебе не стоит сейчас так шутить. Это серьёзно." #TODO
 
 # game/lorem1.rpy:481
 translate russiantl _call_skipcheck_16_86148265:
 
     # c "Alright."
-    c ""
+    c "Ладно." #TODO
 
 # game/lorem1.rpy:488
 translate russiantl _call_skipcheck_16_b35e3b39:
 
     # Lo "It is a bit strange, though, because our myths also say that you gave that ability to us."
-    Lo ""
+    Lo "Но это немного странно, потому что наши мифы так же гласят, что вы нам дали такую способность." #TODO
 
 # game/lorem1.rpy:490
 translate russiantl _call_skipcheck_16_c5aed8d5:
 
     # c "Interesting."
-    c ""
+    c "Интересно." #TODO
 
 # game/lorem1.rpy:492
 translate russiantl _call_skipcheck_16_0cef7eef:
 
     # Lo happy "Maybe it’s meant to be taken literally – meaning that when that ability was given to us, you lost it."
-    Lo happy ""
+    Lo happy "Может, это нужно понимать буквально, что вы дали нам эту способность, забрав её у себя." #TODO
 
 # game/lorem1.rpy:494
 translate russiantl _call_skipcheck_16_8054cb2a:
 
     # c "Or maybe we never had it in the first place."
-    c ""
+    c "Или, наверное, у нас её вообще не было." #TODO
 
 # game/lorem1.rpy:496
 translate russiantl _call_skipcheck_16_efda574e:
 
     # c "Humans are known to have created a lot of things out of nothing. After all, we only needed to discover how to create and use fire, because we didn't have a natural ability to do so."
-    c ""
+    c "Люди известны тем, что создали множество вещей из ничего. В конце концов, нам нужно было просто узнать, как создавать и использовать огонь, потому что у нас нет естественной способности делать его." #TODO
 
 # game/lorem1.rpy:498
 translate russiantl _call_skipcheck_16_177d8150:
 
     # c "We have a proverb that sums this up pretty well."
-    c ""
+    c "У нас есть пословица|поговорка, которая всё это хорошо обобщает." #TODO
 
 # game/lorem1.rpy:500
 translate russiantl _call_skipcheck_16_0bfb9c67:
 
     # Lo normal "What is it?"
-    Lo normal ""
+    Lo normal "Как она звучит?" #TODO
 
 # game/lorem1.rpy:502
 translate russiantl _call_skipcheck_16_4a5b7618:
 
     # c "Necessity is the mother of invention."
-    c ""
+    c "Голь на выдумку хитра|Нужда всему научит|Нужда - мать изобретательности." #TODO
 
 # game/lorem1.rpy:504
 translate russiantl _call_skipcheck_16_c3d29a7c:
 
     # Lo think "So a lack of natural abilities drove innovation forward. What an interesting thought."
-    Lo think ""
+    Lo think "Выходит, что отсутствие природных способностией двигает прогресс вперёд. Какая интересная мысль." #TODO
 
 # game/lorem1.rpy:506
 translate russiantl _call_skipcheck_16_acf8adb4:
@@ -1570,39 +1570,39 @@ translate russiantl strings:
 
     # lorem1.rpy:367
     old "You certainly seem passionate enough about this."
-    new ""
+    new "Похоже, что это сильно тебя увлечёт." #TODO
 
     # lorem1.rpy:367
     old "Those are some messed up priorities."
-    new ""
+    new "Какие-то неправильные у тебя приоритеты." #TODO (and): Пчёлы...
 
     # lorem1.rpy:367
     old "I'm with you on this."
-    new ""
+    new "И я тебе в этом помогу." #TODO
 
     # lorem1.rpy:409
     old "Sounds boring."
-    new ""
+    new "Звучит скучно." #TODO
 
     # lorem1.rpy:409
     old "That sounds interesting."
-    new ""
+    new "Звучит интересно." #TODO
 
     # lorem1.rpy:409
     old "That sounds like my kind of game."
-    new ""
+    new "Звучит как то, во что я бы с удовольствием поиграл." #TODO (and): Ух как извернулся
 
     # lorem1.rpy:455
     old "I don't have a breath weapon, unless you count my morning breath."
-    new ""
+    new "У меня нет дыхательного оружия, не считая запах изо рта по утрам." #TODO
 
     # lorem1.rpy:455
     old "I can rub two sticks together to make fire. Does that count?"
-    new ""
+    new "Я могу потереть две палочки друг о друга чтобы сделать огонь. Это считается?" #TODO
 
     # lorem1.rpy:455
     old "Of course. I can also move things with my mind."
-    new ""
+    new "Ну конечно. Ещё я могу двигать предметы силой мысли." #TODO
 
     # lorem1.rpy:595
     old "I guess."

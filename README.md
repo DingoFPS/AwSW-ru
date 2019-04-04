@@ -1,7 +1,7 @@
 # AwSW-ru
 Russian translation for Angels with Scaly Wings. <br />
 If you are willing to participate in translation, feel free to add me on Steam (http://steamcommunity.com/id/l0lk/) or Discord (DingoFPS#1337) and message me. <br />
-This is the third time this translation has been attempted at, the previous one was by http://steamcommunity.com/id/wolfniey/ , but it's now long abandoned. Here's the link to his dead discord server https://discord.gg/rgRPkuE
+This is the third time this translation has been attempted at, the previous one was by http://steamcommunity.com/id/wolfniey/ , but it's ~~now long abandoned~~ alive again. Here's the link to his ~~dead~~ revived discord server https://discord.gg/rgRPkuE
 
 Progress: 9 files out of 47
 

@@ -610,361 +610,361 @@ translate russiantl _call_skipcheck_16_c3d29a7c:
 translate russiantl _call_skipcheck_16_acf8adb4:
 
     # c "Here's another thing: You may have many different images of humans, but in the end, only one can be right."
-    c ""
+    c "И ещё кое-что: образов людей у тебя может быть много, но только один из них верен." #TODO
 
 # game/lorem1.rpy:508
 translate russiantl _call_skipcheck_16_6cfa7aeb:
 
     # c "It's also possible that what you've been led to believe about humans doesn't actually refer to us at all."
-    c ""
+    c "А ещё возможно, что все те факты о людях, в которых ты гулбоко убеждён, вообще с нами никак не соотносятся."
 
 # game/lorem1.rpy:510
 translate russiantl _call_skipcheck_16_65122c50:
 
     # Lo relieved "Are you implying that you aren't human?"
-    Lo relieved ""
+    Lo relieved "Ты намекаешь на то, что ты не человек?" #TODO
 
 # game/lorem1.rpy:512
 translate russiantl _call_skipcheck_16_b7f880a3:
 
     # c "No, I'm just saying that if you really had been in contact with humans before as your myths imply, they would need to belong to the same species as me, and thus be very similar to myself."
-    c ""
+    c "Нет, я просто говорю, что если бы вы действительно раньше встречались с людьми, как о том утверждают мифы, то они должны были принадлежать моему виду и, в связи с этим, быть очень на меня похожими." #TODO
 
 # game/lorem1.rpy:514
 translate russiantl _call_skipcheck_16_5c00227f:
 
     # c "If they aren't, then either they weren't humans at all, or have very different origins."
-    c ""
+    c "А если они не похожи, то либо они не люди вовсе, либо имеют значительно различное происхождение." #TODO
 
 # game/lorem1.rpy:516
 translate russiantl _call_skipcheck_16_96de6db3:
 
     # Lo think "So you say there is a possibility that our humans and your humans may be something different altogether?"
-    Lo think ""
+    Lo think "Выходит, ты говоришь, что есть вероятность того, что наши люди и ваши люди могут значительно отличаться друг от друга?" #TODO
 
 # game/lorem1.rpy:518
 translate russiantl _call_skipcheck_16_637351f1:
 
     # Lo happy "I suppose you are right in the way that our images of humans are very inconsistent. They certainly can't all be humans in the way that we would refer to a single species. The name should probably be reserved for yours."
-    Lo happy ""
+    Lo happy "Я думаю, ты прав в том, что у нас очень противоречивое изображение людей. Они опредёленно не могут быть людьми так, чтобы мы могли их отнести к одному виду. Звание людей, наверное, должно оставаться у вашего вида." #TODO
 
 # game/lorem1.rpy:520
 translate russiantl _call_skipcheck_16_72d32989:
 
     # Lo normal "And we haven't even touched on the other two categories of humans."
-    Lo normal ""
+    Lo normal "И мы ведь ещё даже не затронули другие две категории людей." #TODO
 
 # game/lorem1.rpy:522
 translate russiantl _call_skipcheck_16_9190026a:
 
     # c "What did you call them again?"
-    c ""
+    c "Напомни, как они назывались?" #TODO
 
 # game/lorem1.rpy:524
 translate russiantl _call_skipcheck_16_e48d651f:
 
     # Lo happy "Non-physical human entities and spiritual humans."
-    Lo happy ""
+    Lo happy "Нефизические и духовные существа." #TODO
 
 # game/lorem1.rpy:526
 translate russiantl _call_skipcheck_16_7f1295b3:
 
     # c "What's the difference?"
-    c ""
+    c "А в чём различие?" #TODO
 
 # game/lorem1.rpy:528
 translate russiantl _call_skipcheck_16_6bb06f89:
 
     # Lo think "Honestly, the definitions get a bit muddled here. Going by conventional belief, a ghost could be a human who has died and thus changed into a different form. We would call this a spiritual human."
-    Lo think ""
+    Lo think "Если честно, эти определения немного запутанны. Согласно традиционному мнению, призраки могли бы быть людьми, которые умерли и, в связи с этим, сменили свою форму. Мы это называем духовными людьми." #TODO
 
 # game/lorem1.rpy:530
 translate russiantl _call_skipcheck_16_5b7b2cac:
 
     # Lo normal "An angel, on the other hand, would be classified as a non-physical entity."
-    Lo normal ""
+    Lo normal "С другой стороны, ангелов можно классифициорвать как нефизические существа." #TODO
 
 # game/lorem1.rpy:532
 translate russiantl _call_skipcheck_16_e3d49b89:
 
     # c "What do you know about angels?"
-    c ""
+    c "Что вы знаете об ангелах?" #TODO
 
 # game/lorem1.rpy:534
 translate russiantl _call_skipcheck_16_19a36f81:
 
     # Lo happy "Angels basically look like humans with wings. Their existence in ancient scripts was used to lend some credence to the theories about humans having become dragons."
-    Lo happy ""
+    Lo happy "Грубо говоря, ангелы выглядят как люди с крыльями. Их существование в древних писаниях использовались как подтверждение теорий о превращении людей в драконов." #TODO
 
 # game/lorem1.rpy:536
 translate russiantl _call_skipcheck_16_cafbb74d:
 
     # c "Because of the wings?"
-    c ""
+    c "Потому что у них были крылья?" #TODO
 
 # game/lorem1.rpy:538
 translate russiantl _call_skipcheck_16_93b4c2a4:
 
     # Lo "Exactly."
-    Lo ""
+    Lo "Именно." #TODO
 
 # game/lorem1.rpy:540
 translate russiantl _call_skipcheck_16_f66ed97f:
 
     # c "But some of your dragon species don't have wings, either."
-    c ""
+    c "Но у некоторых видов драконов тоже нет крыльев." #TODO
 
 # game/lorem1.rpy:542
 translate russiantl _call_skipcheck_16_e2063eb2:
 
     # Lo think "Yes. As I said, once you start delving into that kind of stuff, it all becomes very convoluted."
-    Lo think ""
+    Lo think "Ага. Как я и говорил, как только ты начинаешь углубляться во всё это, то начинаешь сильно запутываться." #TODO
 
 # game/lorem1.rpy:544
 translate russiantl _call_skipcheck_16_b57cf12b:
 
     # c "When we met, you also told me something about a four-headed human."
-    c ""
+    c "Когда мы встретились, ты ещё сказал что-то про четырёхглавых людей." #TODO
 
 # game/lorem1.rpy:546
 translate russiantl _call_skipcheck_16_cd5dac38:
 
     # Lo normal "Right. With that we'd go into the realm of creatures that just don't make much sense at all."
-    Lo normal ""
+    Lo normal "Верно. Если мы будем это учитывать, то мы сделаем мир с существами, которые вообще не имеют никакого смысла." #TODO
 
 # game/lorem1.rpy:548
 translate russiantl _call_skipcheck_16_62c174e9:
 
     # Lo think "Having four heads just seems unlikely from an evolutionary perspective."
-    Lo think ""
+    Lo think "Четырёхголовость выглядит очень маловероятно с эволюционной стороны." #TODO
 
 # game/lorem1.rpy:550
 translate russiantl _call_skipcheck_16_5be894cd:
 
     # Lo "That might not really matter if we were talking about a non-physical entity or a spiritual being, though."
-    Lo ""
+    Lo "Но, наверное, это не будет что-то значить, раз уж мы заговорили о нефизических и духовных существах." #TODO
 
 # game/lorem1.rpy:552
 translate russiantl _call_skipcheck_16_142a8591:
 
     # c "So in the end, you have a lot of different ideas whose only connection to each other is that you use the word human to describe them in some way."
-    c ""
+    c "Выходит, что у тебя есть множество разных образов, которых объединяет только то, что ты употребляешь слово \"люди\", когда их как-то описываешь." #TODO
 
 # game/lorem1.rpy:554
 translate russiantl _call_skipcheck_16_a133a251:
 
     # Lo normal "And they share at least some basic characteristics. You fit those as well, by the way."
-    Lo normal ""
+    Lo normal "И ещё они разделяют между собой некоторые базовые характеристики. И ты под них тоже хорошо подходить, кстати говоря." #TODO
 
 # game/lorem1.rpy:556
 translate russiantl _call_skipcheck_16_66b483cd:
 
     # c "What are they?"
-    c ""
+    c "И какие же?"
 
 # game/lorem1.rpy:558
 translate russiantl _call_skipcheck_16_223625a4:
 
     # Lo think "You certainly are not a reptile like us, but you don't look like a conventional mammal either."
-    Lo think ""
+    Lo think "Ты определённо не рептилия, как мы, но вы и на млекопитающих не особо походите." #TODO
 
 # game/lorem1.rpy:560
 translate russiantl _call_skipcheck_16_d21ff05e:
 
     # c "We are mammals, though."
-    c ""
+    c "Но мы всё равно ими являемся." #TODO
 
 # game/lorem1.rpy:562
 translate russiantl _call_skipcheck_16_1097c581:
 
     # Lo "Yes, but you are so different from other mammals we know that, ultimately, you are quite unique. We don't know any other sentient mammals."
-    Lo ""
+    Lo "Да, но вы так сильно отличаетесь от тех млекопитающих, которых мы знаем, что мы можем ультимативно сказать, что вы уникальны. Мы больше не знаем разумных млекопитающих." #TODO
 
 # game/lorem1.rpy:564
 translate russiantl _call_skipcheck_16_adad4e4d:
 
     # c "You've got a point there, I'll give you that."
-    c ""
+    c "Вот тут ты прав, я с тобой согласен." #TODO
 
 # game/lorem1.rpy:566
 translate russiantl _call_skipcheck_16_6dae6f38:
 
     # c "Strangely enough, we have plenty of human-like creatures in our mythologies as well."
-    c ""
+    c "Это достаточно страннд, но в нашей мифологии тоже достаточно много человекообразных существ." #TODO
 
 # game/lorem1.rpy:568
 translate russiantl _call_skipcheck_16_3a0f9dbc:
 
     # Lo happy "Oh, do tell!"
-    Lo happy ""
+    Lo happy "О-о, расскажи о них!" #TODO
 
 # game/lorem1.rpy:570
 translate russiantl _call_skipcheck_16_84b644db:
 
     # c "You already mentioned ghosts, but some other ones include dwarves, giants, faeries and blemmyes."
-    c ""
+    c "Ты уже упомянул призраков, но в разных мифах так же встречаются гномы, гиганты, феи и блеммии." #TODO (and): https://ru.wikipedia.org/wiki/Блеммии
 
 # game/lorem1.rpy:572
 translate russiantl _call_skipcheck_16_99cc5a9c:
 
     # Lo normal "I think I've heard of most of these before, but what is a blemmyes?"
-    Lo normal ""
+    Lo normal "Думаю, об многих из них я уже слышал, но кто такие блеммии?" #TODO
 
 # game/lorem1.rpy:574
 translate russiantl _call_skipcheck_16_bc61390c:
 
     # c "Essentially, a blemmyes is a human without a head."
-    c ""
+    c "Грубо говоря, блеммии - люди без головы." #TODO
 
 # game/lorem1.rpy:576
 translate russiantl _call_skipcheck_16_13a0d3a7:
 
     # Lo think "A human without a head? How does that work? How do they eat?"
-    Lo think ""
+    Lo think "Люди без головы? Как это работает? Как они едят?" #TODO
 
 # game/lorem1.rpy:578
 translate russiantl _call_skipcheck_16_23045a97:
 
     # c "Instead of a head, they just have all their facial features on their chest."
-    c ""
+    c "Вместо того, чтобы находитсья на голове, все лицевые органы у них находятся на груди." #TODO
 
 # game/lorem1.rpy:580
 translate russiantl _call_skipcheck_16_c56b9fcb:
 
     # Lo relieved "That's a rather weird mental image."
-    Lo relieved ""
+    Lo relieved "Это достаточно странный образ." #TODO
 
 # game/lorem1.rpy:582
 translate russiantl _call_skipcheck_16_6ab78f6e:
 
     # c "There are also a lot of half-creatures that share some characteristics with humans and other animals."
-    c ""
+    c "А ещё есть множество существ, у которых есть черты человека и другого животного." #TODO
 
 # game/lorem1.rpy:584
 translate russiantl _call_skipcheck_16_abec4e3c:
 
     # Lo think "Like merhumans?"
-    Lo think ""
+    Lo think "Как русалки?" #TODO (and): Насколько я понял, под merhuman здесь подразумеваются русалки и русалы
 
 # game/lorem1.rpy:586
 translate russiantl _call_skipcheck_16_c48dc32f:
 
     # c "Sure."
-    c ""
+    c "Правильно." #TODO
 
 # game/lorem1.rpy:588
 translate russiantl _call_skipcheck_16_3aea1e4e:
 
     # c "Lastly, there are creatures that are said to be able to shapeshift into human form."
-    c ""
+    c "И наконец, есль существа, о которых сказано, что они могут обращаться в человеческую форму." #TODO
 
 # game/lorem1.rpy:590
 translate russiantl _call_skipcheck_16_e783f80f:
 
     # c "Strangely enough, some of our dragon myths said they could shapeshift into humans or that certain countries’ royalty are descended from dragons."
-    c ""
+    c "Это достаточно страннл, но некоторые наши мифы о драконах гласят, что они могут обращатсья в людей, или что правители некоторых стран снизошли к нам из драконов." #TODO (and): Время 9 вечера, я решил переводить.
 
 # game/lorem1.rpy:592
 translate russiantl _call_skipcheck_16_3ff38ba7:
 
     # Lo normal "That would imply that they are genetically compatible with humans."
-    Lo normal ""
+    Lo normal "Из этого можно сделать вывод, что эти драконы генетически совместимы с людьми." #TODO
 
 # game/lorem1.rpy:612
 translate russiantl _call_skipcheck_16_abdd03bc:
 
     # Lo think "Sounds rather outlandish, if you ask me. We certainly can't shapeshift like that."
-    Lo think ""
+    Lo think "Если спросишь, для меня это звучит достаточно нелепо. Мы определённо не можем так обращаться." #TODO
 
 # game/lorem1.rpy:621
 translate russiantl _call_skipcheck_16_6b37c29e:
 
     # Lo normal "Right. To be fair, we do have a lot of myths that seem quite out there as well compared to what you're like."
-    Lo normal ""
+    Lo normal "Да. Если честно, у нас есть много мифов, которые звучат неправдоподобно, если сравнивать их с тем, как выглядите вы." #TODO
 
 # game/lorem1.rpy:627
 translate russiantl _call_skipcheck_16_2752c6e4:
 
     # Lo happy "To be fair, I never tried. Hang on."
-    Lo happy ""
+    Lo happy "Если честно, я ни разу не пробовал. Погоди." #TODO
 
 # game/lorem1.rpy:629
 translate russiantl _call_skipcheck_16_8ee9d226:
 
     # Lo think "..."
-    Lo think ""
+    Lo think "..." #TODO?
 
 # game/lorem1.rpy:631
 translate russiantl _call_skipcheck_16_a28401a3:
 
     # Lo normal "Did it work?"
-    Lo normal ""
+    Lo normal "Сработало?" #TODO
 
 # game/lorem1.rpy:633
 translate russiantl _call_skipcheck_16_020d6ce0:
 
     # c "Nope, still a dragon."
-    c ""
+    c "Не-а, всё ещё дракон." #TODO
 
 # game/lorem1.rpy:635
 translate russiantl _call_skipcheck_16_6a9873c0:
 
     # Lo sad "Awww."
-    Lo sad ""
+    Lo sad "Оуу." #TODO
 
 # game/lorem1.rpy:638
 translate russiantl _call_skipcheck_16_ec4292d5:
 
     # Lo think "Anyway, how come you know so much about myths?"
-    Lo think ""
+    Lo think "В любом случае, откуда ты знаешь так много про мифологию?" #TODO
 
 # game/lorem1.rpy:640
 translate russiantl _call_skipcheck_16_2a92c8b3:
 
     # c "All part of being an ambassador. Not only did I learn about dragon myths in order to compare them to what you're like, but I also studied myths about creatures that are similar to humans so I could find out how similar they were to yours."
-    c ""
+    c "Это часть моей работы как посла. Я не только изучил мифы о драконах, чтобы сравнить их с вами, но и исследовал мифы о существах, которые похожи на людей, чтобы понять, насколько наши мифы похожи на ваши." #TODO
 
 # game/lorem1.rpy:642
 translate russiantl _call_skipcheck_16_0b33fa04:
 
     # Lo happy "Well, you're doing an excellent job so far. And it's bound to help me a lot with my game as well."
-    Lo happy ""
+    Lo happy "Ну, пока ты проделываешь отличную работу. И это сильно помогает мне работать над игрой." #TODO
 
 # game/lorem1.rpy:644
 translate russiantl _call_skipcheck_16_9d229f6a:
 
     # c "You're going to put all of that into the game?"
-    c ""
+    c "Ты собираешься воссоздать всё это в своей игре?" #TODO
 
 # game/lorem1.rpy:646
 translate russiantl _call_skipcheck_16_23818b09:
 
     # Lo normal "Let's just say it gives me some excellent material to work with."
-    Lo normal ""
+    Lo normal "Скажу, что у меня теперь есть отличный материал, над которым можно поработать." #TODO
 
 # game/lorem1.rpy:648
 translate russiantl _call_skipcheck_16_433c0d98:
 
     # c "I thought you wanted to give an accurate portrayal of humans, not just collect myths."
-    c ""
+    c "Я думал, ты хотел точно воссоздать людей, а не просто собрать кучу мифов." #TODO
 
 # game/lorem1.rpy:650
 translate russiantl _call_skipcheck_16_baea8985:
 
     # Lo think "One species will certainly be modeled after you, but that doesn't mean we can't introduce some variety with the others."
-    Lo think ""
+    Lo think "Один вид определённо будет создан по твоему подобию, но это не значит, что мы не можем включить в игру некоторое разнообразие." #TODO
 
 # game/lorem1.rpy:652
 translate russiantl _call_skipcheck_16_610f35b2:
 
     # Lo happy "People will love it if we also bring some of the more unusual myths to life."
-    Lo happy ""
+    Lo happy "Народу понравится, если мы так же претворим в жизнь некоторые очень необычные мифы." #TODO
 
 # game/lorem1.rpy:654
 translate russiantl _call_skipcheck_16_89aefe22:
 
     # c "I see."
-    c ""
+    c "Понимаю." #TODO
 
 # game/lorem1.rpy:656
 translate russiantl _call_skipcheck_16_415eea89:
@@ -1606,19 +1606,19 @@ translate russiantl strings:
 
     # lorem1.rpy:595
     old "I guess."
-    new ""
+    new "Думаю, да." #TODO
 
     # lorem1.rpy:595
     old "Apparently."
-    new ""
+    new "Похоже на то." #TODO
 
     # lorem1.rpy:595
     old "Sounds gross."
-    new ""
+    new "Звучит противно." #TODO
 
     # lorem1.rpy:615
     old "I suppose that's why they're just myths."
-    new ""
+    new "Думаю, именно поэтому это просто мифы." #TODO
 
     # lorem1.rpy:740
     old "Seems like you know what you're doing."

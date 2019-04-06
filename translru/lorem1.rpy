@@ -964,7 +964,7 @@ translate russiantl _call_skipcheck_16_610f35b2:
 translate russiantl _call_skipcheck_16_89aefe22:
 
     # c "I see."
-    c "Понимаю." #TODO
+    c "Понимаю." #TODO (and): test
 
 # game/lorem1.rpy:656
 translate russiantl _call_skipcheck_16_415eea89:

@@ -13,3 +13,5 @@ translate russiantl strings:
     # dv.rpy:706
     old "ESC to quit."
     new "ESC, чтобы выйти."
+
+#This is a test

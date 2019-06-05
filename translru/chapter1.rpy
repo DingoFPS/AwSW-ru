@@ -4919,7 +4919,7 @@ translate russiantl strings:
 
     # chapter1.rpy:2339
     old "Draconic Desire"
-    new "Драконье Желание"
+    new "Драконья страсть"
 
     # chapter1.rpy:2339
     old "Assault of the Humanoids from Outer Space"

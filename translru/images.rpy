@@ -64,15 +64,15 @@ translate russiantl strings:
 
     # images.rpy:1154
     old "Francois"
-    new "Франкойс" #TODO мб Француа
-# Француа?
+    new "Француа" # oi во французском читается как уа. Да, пусть игра на английском, но давайте согласимся, что "Франкойс" - так себе вариант
+
     # images.rpy:1155
     old "Sybil"
     new "Сивилла"
 
     # images.rpy:1157
     old "Food Vendor"
-    new "Продавец Еды"
+    new "Торговец едой"
 
     # images.rpy:1158
     old "Waiter"
@@ -80,7 +80,7 @@ translate russiantl strings:
 
     # images.rpy:1159
     old "Store Clerk"
-    new "Клерк Магазина" #TODO
+    new "Клерк магазина" #TODO
 
     # images.rpy:1161
     old "Katsuharu"

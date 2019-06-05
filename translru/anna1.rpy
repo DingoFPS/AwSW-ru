@@ -4,427 +4,427 @@
 translate russiantl anna1_d2dc5415:
 
     # c "(She told me to meet her here, so she's got to be around somewhere.)"
-    c ""
+    c "(Анна сказала, что мы встретимся здесь, так что она наверняка где-то рядом.)"
 
 # game/anna1.rpy:30
 translate russiantl anna1_8d584416:
 
     # m "The production facility had many different wings, covering everything from research to processing, in addition to production. It was easy to get lost if you didn't know where you were going."
-    m ""
+    m "Вдобавок к производству, у производственного предприятия было много разных отсеков, покрывающих абсолютно всё, начиная исследованиями и заканчивая обработкой. Если не знать, куда идти, потеряться проще простого."
 
 # game/anna1.rpy:36
 translate russiantl anna1_b230ba57:
 
     # m "I heard some commotion in the distance, and when I approached, I was surprised to see not only Anna, but Remy as well."
-    m ""
+    m "Я услышал какие-то разговоры неподалёку, и когда приблизился к источнику звука, был удивлён увидеть там не только Анну, но и Реми."
 
 # game/anna1.rpy:37
 translate russiantl anna1_64333f1a:
 
     # m "They seemed to be in the middle of a heated conversation. I thought it would be inappropriate to approach now, so I remained several paces back, out of their field of vision, but still close enough to be able to make out their words."
-    m ""
+    m "Они, кажется, были в самом разгаре пылкой дискуссии. Я решил, что сейчас не самый подходящий момент, поэтому остался в стороне, вне поля их зрения, но по-прежнему достаточно близко, чтобы слышать их."
 
 # game/anna1.rpy:42
 translate russiantl anna1_6a221be0:
 
     # Ry "We have heard the rumors."
-    Ry ""
+    Ry "Мы слышали слухи."
 
 # game/anna1.rpy:46
 translate russiantl anna1_a17387cd:
 
     # An "So you come to me on the basis of rumors? Is that how you operate? What do you want from me?"
-    An ""
+    An "Так ты приходишь ко мне, основываясь на одних лишь слухах? Это то, как ты действуешь? Чего тебе надо от меня?"
 
 # game/anna1.rpy:47
 translate russiantl anna1_3f4546f9:
 
     # Ry "This is not the first time you've been in trouble, you know. They might not be so lenient with you this time."
-    Ry ""
+    Ry "Это не первый раз, когда ты попадаешь в неприятности. В этот раз они вряд ли будут с тобой снисходительны."
 
 # game/anna1.rpy:51
 translate russiantl anna1_5e3528a3:
 
     # An "I don't know what you are talking about."
-    An ""
+    An "Я не понимаю, о чём ты."
 
 # game/anna1.rpy:52
 translate russiantl anna1_cc16093b:
 
     # Ry "Consider this a warning. You should proceed carefully, for your own good."
-    Ry ""
+    Ry "Сочти это за предупреждение. Тебе следовало бы действовать осторожно, для твоего же блага."
 
 # game/anna1.rpy:56
 translate russiantl anna1_4dc4a125:
 
     # An "If you wanted to threaten me, the least you could have done was to send someone more intimidating. You may be larger than I am, but even I can see that you're just a big coward. You wouldn't dare to put your dirty claws on me."
-    An ""
+    An "Если вы хотели запугать меня, то хотя бы могли послать кого-то более устрашающего. Может, ты и больше меня, но даже мне понятно, что на самом деле ты всего лишь один большой трус. Ты не посмеешь прикоснуться ко мне своими грязными когтями."
 
 # game/anna1.rpy:60
 translate russiantl anna1_3a3d127a:
 
     # Ry "I wouldn't. I'm here as a courtesy to you, not to threaten or intimidate. Do with that information whatever you wish."
-    Ry ""
+    Ry "И не собирался. Я тут из вежливости, а не чтобы пугать или устрашать. Поступай так, как считаешь нужным."
 
 # game/anna1.rpy:64
 translate russiantl anna1_df29eec3:
 
     # Ry "You know we'll be back, and if they find anything, there will be consequences."
-    Ry ""
+    Ry "Ты ведь знаешь, что мы ещё вернёмся, и если найдём что-нибудь, будут последствия."
 
 # game/anna1.rpy:65
 translate russiantl anna1_7ee0481f:
 
     # An "Do you think I care?"
-    An ""
+    An "Думаешь, мне есть дело до этого?"
 
 # game/anna1.rpy:69
 translate russiantl anna1_16a8a491:
 
     # Ry "This attitude of yours is not helpful."
-    Ry ""
+    Ry "Подобный подход к делу не поможет."
 
 # game/anna1.rpy:73
 translate russiantl anna1_ccbd7537:
 
     # An "Neither are you."
-    An ""
+    An "Как и ты."
 
 # game/anna1.rpy:77
 translate russiantl anna1_e9fe9500:
 
     # Ry "Well, I've said what I came here to say. Good luck."
-    Ry ""
+    Ry "Ну, я уже сказал то, что хотел. Удачи."
 
 # game/anna1.rpy:81
 translate russiantl anna1_32b2cfd8:
 
     # An "Whatever."
-    An ""
+    An "Да-да."
 
 # game/anna1.rpy:87
 translate russiantl anna1_28d33d90:
 
     # m "Remy turned to leave and started walking in my direction. I ducked behind a pillar, and when he went past, I wasn't sure if he'd seen me. Either way, he left, and I was safe to approach now."
-    m ""
+    m "Реми развернулся, чтобы уйти, и направился в мою сторону. Я спрятался за колонной, и когда он прошёл, я не был уверен, видел он меня или нет. Так или иначе, он ушёл, а я теперь мог спокойно подойти ближе."
 
 # game/anna1.rpy:111
 translate russiantl _call_skiptut_7_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s ""
+    s "Мои записи зафиксировали, что вы уже прошли эту сцену удовлетворительным образом. Вы бы хотели пропустить её до конца?"
 
 # game/anna1.rpy:119
 translate russiantl _call_skiptut_7_eee83226:
 
     # s "It looks like you've seen this before. Skip to the end of this scene?"
-    s ""
+    s "Похоже, вы уже видели это раньше. Пропустить немного вперёд?"
 
 # game/anna1.rpy:127
 translate russiantl _call_skiptut_7_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s ""
+    s "Выходит, что вы уже проходили это раньше. Вы можете продолжить, или мы можем сэкономить немного времени и пройти до конца этой сцены."
 
 # game/anna1.rpy:142
 translate russiantl _call_skiptut_7_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как вы пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna1.rpy:163
 translate russiantl _call_skipcheck_7_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s ""
+    s "Как вы пожелаете.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/anna1.rpy:175
 translate russiantl _call_skipcheck_7_15b4d010:
 
     # An "Who cares?"
-    An ""
+    An "Какая разница?"
 
 # game/anna1.rpy:181
 translate russiantl _call_skipcheck_7_206a6186:
 
     # An "Hey, [player_name]."
-    An ""
+    An "Привет, [player_name]."
 
 # game/anna1.rpy:186
 translate russiantl _call_skipcheck_7_e8ba533a:
 
     # An "Hey."
-    An ""
+    An "Привет."
 
 # game/anna1.rpy:190
 translate russiantl _call_skipcheck_7_1b46c468:
 
     # An "Wait, how long have you been here?"
-    An ""
+    An "Стой, как долго ты тут простоял?"
 
 # game/anna1.rpy:202
 translate russiantl _call_skipcheck_7_baa3667a:
 
     # An "Not that it matters much anyway. This is just par for the course for me."
-    An ""
+    An "В любом случае, уже не так важно. Для меня это уже обыденность."
 
 # game/anna1.rpy:203
 translate russiantl _call_skipcheck_7_479e6953:
 
     # c "I know Remy. What's the problem?"
-    c ""
+    c "Я знаю Реми. В чём дело?"
 
 # game/anna1.rpy:207
 translate russiantl _call_skipcheck_7_5a61a232:
 
     # An "The nerve of that guy. He probably wouldn't be so uptight if it wasn't for that thing with his girlfriend a few years ago."
-    An ""
+    An "Хватает же ему наглости. Не был бы он таким встревоженным, наверное, если бы не тот случай с его подружкой пару лет назад."
 
 # game/anna1.rpy:211
 translate russiantl _call_skipcheck_7_93f35ab2:
 
     # An "But I don't care about him. It's his superiors that are the problem. They don't like me and the research I'm doing. They cite their traditions and values, claiming that those are what have kept us alive for so long."
-    An ""
+    An "Но мне всё равно на него. Корень проблемы в его начальниках. Я, как и мои исследования, им не нравлюсь. Они ссылаются на свои традиции и ценности, заявляя, что это та вещь, которая помогала нам оставаться в живых всё это время."
 
 # game/anna1.rpy:215
 translate russiantl _call_skipcheck_7_0ecb7924:
 
     # An "If anything were to change, it would obviously fracture the base this society is built on, cause it all to collapse, tear apart families and allow all hell to break lose."
-    An ""
+    An "Если что-нибудь и поменяется, то это, очевидно, разрушит всю основу, на которой построено общество, приведёт к тому, что всё рухнет, разлучит семьи и позволит проявиться настоящему аду наяву."
 
 # game/anna1.rpy:219
 translate russiantl _call_skipcheck_7_36b5bba3:
 
     # An "At least if you believe those old-timers who keep repeating these phrases."
-    An ""
+    An "По крайней мере, если ты веришь этим стариканам, которые продолжают повторять эти высказывания."
 
 # game/anna1.rpy:223
 translate russiantl _call_skipcheck_7_54f42344:
 
     # An "And all that nonsense, because of my research. Valuable research that could save lives, mind you."
-    An ""
+    An "И весь этот вздор из-за моего исследования. Прошу заметить, довольно ценные исследования, которые могут и жизни спасти."
 
 # game/anna1.rpy:224
 translate russiantl _call_skipcheck_7_981a8a46:
 
     # c "What kind of research are we talking about?"
-    c ""
+    c "А о каком именно исследовании идёт разговор?"
 
 # game/anna1.rpy:228
 translate russiantl _call_skipcheck_7_7194792c:
 
     # An "I could show you sometime, but we're here to have fun, right?"
-    An ""
+    An "Быть может, я тебе как-нибудь покажу, но мы тут затем, чтобы веселиться, так?"
 
 # game/anna1.rpy:229
 translate russiantl _call_skipcheck_7_ec71e0ee:
 
     # c "I thought you wanted to show me, since you said we were both in biology and all that."
-    c ""
+    c "Я думал, ты хотела показать мне, так как мы тут оба разбираемся в биологии и всё такое."
 
 # game/anna1.rpy:231
 translate russiantl _call_skipcheck_7_4e54941b:
 
     # An "Sure, but after doing this all day, you'll have to excuse me for not wanting to talk about it even more."
-    An ""
+    An "Конечно, но после этого тебе придётся простить меня за то, что я больше не захочу говорить об этом."
 
 # game/anna1.rpy:235
 translate russiantl _call_skipcheck_7_501d818b:
 
     # An "Wasting my time with that guy was just another setback, not that I don't already have more than enough work to do. Even right now I'm supposed to be working overtime."
-    An ""
+    An "Трата времени на этого парня была лишь очередной задержкой, не то чтобы у меня не было более чем достаточно работы. Даже сейчас я должна работать сверхурочно."
 
 # game/anna1.rpy:247
 translate russiantl _call_skipcheck_7_206a6186_1:
 
     # An "Hey, [player_name]."
-    An ""
+    An "Привет, [player_name]."
 
 # game/anna1.rpy:252
 translate russiantl _call_skipcheck_7_e8ba533a_1:
 
     # An "Hey."
-    An ""
+    An "Привет."
 
 # game/anna1.rpy:254
 translate russiantl _call_skipcheck_7_3501252f:
 
     # c "Is something wrong? You don't look great."
-    c ""
+    c "Что-то не так? Ты выглядишь не очень хорошо."
 
 # game/anna1.rpy:258
 translate russiantl _call_skipcheck_7_781a7e53:
 
     # An "It's nothing, really. Just the usual stress that comes with the job. Even right now I'm supposed to be working overtime."
-    An ""
+    An "Ничего особенного, правда. Просто самое обычное напряжение, которое идёт в одном комплекте с работой. Даже сейчас я должна работать сверхурочно."
 
 # game/anna1.rpy:260
 translate russiantl _call_skipcheck_7_afb05e33:
 
     # c "I see. What do you actually do here?"
-    c ""
+    c "Я понимаю. Чем ты здесь занимаешься?"
 
 # game/anna1.rpy:264
 translate russiantl _call_skipcheck_7_7194792c_1:
 
     # An "I could show you sometime, but we're here to have fun, right?"
-    An ""
+    An "Быть может, я тебе как-нибудь покажу, но мы тут затем, чтобы веселиться, так?"
 
 # game/anna1.rpy:266
 translate russiantl _call_skipcheck_7_ec71e0ee_1:
 
     # c "I thought you wanted to show me, since you said we were both in biology and all that."
-    c ""
+    c "Я думал, ты хотела показать мне, так как мы тут оба разбираемся в биологии и всё такое."
 
 # game/anna1.rpy:270
 translate russiantl _call_skipcheck_7_4e54941b_1:
 
     # An "Sure, but after doing this all day, you'll have to excuse me for not wanting to talk about it even more."
-    An ""
+    An "Конечно, но после этого тебе придётся простить меня за то, что я больше не захочу говорить об этом."
 
 # game/anna1.rpy:278
 translate russiantl _call_skipcheck_7_09070b4b:
 
     # An "I will."
-    An ""
+    An "Я прощу."
 
 # game/anna1.rpy:284
 translate russiantl _call_skipcheck_7_88e9b9fb:
 
     # An "Yeah, I'm very sorry we can't accommodate your request right now, your highness."
-    An ""
+    An "Ага, мне очень жаль, что мы не сможем удовлетворить ваш запрос прямо сейчас, ваше высочество."
 
 # game/anna1.rpy:291
 translate russiantl _call_skipcheck_7_809161f6:
 
     # An "Good to know we see eye to eye on this."
-    An ""
+    An "Хорошо знать, что мы разделяем взгляды."
 
 # game/anna1.rpy:294
 translate russiantl _call_skipcheck_7_dc820742:
 
     # An "Oh, and thanks for the blood, by the way. The results aren't in yet, but I'll let you know when they are."
-    An ""
+    An "О, и спасибо за кровь, кстати. Результаты ещё не готовы, но я дам тебе знать, когда будут."
 
 # game/anna1.rpy:295
 translate russiantl _call_skipcheck_7_3133c34e:
 
     # c "Good. I'm just as curious about the results as you are."
-    c ""
+    c "Отлично. Просто моё любопытство не меньше твоего."
 
 # game/anna1.rpy:297
 translate russiantl _call_skipcheck_7_9a462ada:
 
     # An "No, you aren't."
-    An ""
+    An "Нет."
 
 # game/anna1.rpy:298
 translate russiantl _call_skipcheck_7_0a0912e4:
 
     # c "I am. I am way curiouser than you are."
-    c ""
+    c "Вообще-то да. Я любопытственнее, чем ты."
 
 # game/anna1.rpy:300
 translate russiantl _call_skipcheck_7_9f1aeeac:
 
     # An "Curiouser? Is that even a word?"
-    An ""
+    An "Любопытственнее? Такое слово вообще есть?"
 
 # game/anna1.rpy:301
 translate russiantl _call_skipcheck_7_e3109ce5:
 
     # c "It is, since an author popularized its use where I came from."  reference to Alice in Wonderland, where the word curiouser is used
-    c ""
+    c "Да, с тех пор, как автор из нашего мира использовал это слово в своей книге."
 
 # game/anna1.rpy:303
 translate russiantl _call_skipcheck_7_d14a6516:
 
     # An "Then I am way more curiouser than you are."
-    An ""
+    An "Тогда я куда более любопытственнее, чем ты."
 
 # game/anna1.rpy:304
 translate russiantl _call_skipcheck_7_65ce626d:
 
     # c "Not if I am the curiousest."
-    c ""
+    c "Только если я не любопытственнейший."
 
 # game/anna1.rpy:306
 translate russiantl _call_skipcheck_7_3f4c75b3:
 
     # An "Excuse me for a moment, but I must weep for the English language. At this rate, why don't you just say you're the \"most curiouserest\"?"
-    An ""
+    An "Прости, но мне нужно немного оплакать русский. В этом случае, почему бы тебе просто не сказать, что ты \"самый любопытственнейший\"?"
 
 # game/anna1.rpy:307
 translate russiantl _call_skipcheck_7_ad12b171:
 
     # c "I'm not sure, I am not a linguist. Are you?"
-    c ""
+    c "Я не уверен, я не лингвист. А ты?"
 
 # game/anna1.rpy:309
 translate russiantl _call_skipcheck_7_aa1f612c:
 
     # An "Not exactly, but I have a way with words. My tongue is quite skilled, or so I hear."
-    An ""
+    An "Не совсем, но я умею обращаться со словами. Мой язык достаточно умелый, ну или так я слышу."
 
 # game/anna1.rpy:311
 translate russiantl _call_skipcheck_7_145bfa91:
 
     # An "Some might even say \"cunning\"." together with the last few statements, a cheeky reference to cunnilingus
-    An ""
+    An "Некоторые даже скажут \"пронырливый\"."
 
 # game/anna1.rpy:317
 translate russiantl _call_skipcheck_7_84a1d6ad:
 
     # c "In any case, if you have to work overtime today, does that mean I should wait for you, or do you want me to come back another time?"
-    c ""
+    c "В любом случае, если тебе нужно работать сверхурочно сегодня, значит ли это, что мне нужно подождать тебя, или ты хочешь, чтобы я пришёл в другой раз?"
 
 # game/anna1.rpy:318
 translate russiantl _call_skipcheck_7_d1affb50:
 
     # An "Neither, I think my break should start right about... now."
-    An ""
+    An "Ни то, ни другое. Мой перерыв должно начаться, кажется... прямо сейчас."
 
 # game/anna1.rpy:325
 translate russiantl _call_skipcheck_7_a0184477:
 
     # An "It is, isn't it?"
-    An ""
+    An "Да, не так ли?"
 
 # game/anna1.rpy:332
 translate russiantl _call_skipcheck_7_8a39980d:
 
     # An "As long as you don't rat me out, that shouldn't be a problem."
-    An ""
+    An "Ну, пока ты меня не выдаёшь, это не должно быть проблемой."
 
 # game/anna1.rpy:336
 translate russiantl _call_skipcheck_7_63b615c0:
 
     # An "Just one of the perks of being the manager of this facility."
-    An ""
+    An "Всего лишь одна из привилегий управляющего предприятием."
 
 # game/anna1.rpy:338
 translate russiantl _call_skipcheck_7_8b0c65b1:
 
     # c "So, where are we going?"
-    c ""
+    c "Так куда мы собираемся?"
 
 # game/anna1.rpy:342
 translate russiantl _call_skipcheck_7_073c8a43:
 
     # An "I don't know where you are going, but I think I need a coffee or five. You can tag along if you like."
-    An ""
+    An "Не знаю, куда собираешься ты, но я собираюсь взять кофе, а лучше - пять. Можешь сесть на хвост, если желаешь."
 
 # game/anna1.rpy:349
 translate russiantl _call_skipcheck_7_2b65165b:
 
     # An "We'll see if it'll be mine as well."
-    An ""
+    An "Посмотрим, будет ли это удовольствие у меня."
 
 # game/anna1.rpy:354
 translate russiantl _call_skipcheck_7_16f4549a:
 
     # An "Suit yourself."
-    An ""
+    An "Как хочешь."
 
 # game/anna1.rpy:359
 translate russiantl _call_skipcheck_7_76b2fe88:
@@ -436,205 +436,205 @@ translate russiantl _call_skipcheck_7_76b2fe88:
 translate russiantl _call_skipcheck_7_a1018474:
 
     # n "Whatever the reason, I decided not to join her in her glorious quest for coffee."
-    n ""
+    n "Как бы то ни было, я решил не присоединяться к ней в её славном квесте по поиску кофе."
 
 # game/anna1.rpy:363
 translate russiantl _call_skipcheck_7_3a948282:
 
     # n "I wasn't sure whether I would regret the choice I made in the times to come, but in the end, it is what I had to do."
-    n ""
+    n "Я не был уверен, пожалею ли я об этом выборе в будущем, но, в конце концов, это то, что мне следовало сделать."
 
 # game/anna1.rpy:389
 translate russiantl _call_skipcheck_7_0c82e1c2:
 
     # An "Now that's a convincing reason."
-    An ""
+    An "Это убедительная причина."
 
 # game/anna1.rpy:392
 translate russiantl _call_skipcheck_7_b0cff734:
 
     # An "I hope you brought your own money, though, because I'm not sharing."
-    An ""
+    An "Надеюсь, у тебя есть с собой деньги, поскольку я не собираюсь делиться."
 
 # game/anna1.rpy:393
 translate russiantl _call_skipcheck_7_526c91f6:
 
     # c "I didn't, but everything I purchase is taken care of by my ambassador status."
-    c ""
+    c "Нет, но обо всём, что я приобретаю, заботятся другие. Из-за статуса посла."
 
 # game/anna1.rpy:397
 translate russiantl _call_skipcheck_7_7642647c:
 
     # An "Nice. Actually, that opens up some very interesting possibilities."
-    An ""
+    An "Неплохо. Это, кстати, открывает несколько занятных возможностей."
 
 # game/anna1.rpy:398
 translate russiantl _call_skipcheck_7_5554047b:
 
     # c "It might, but I'd rather not do anything too fishy. I don't want to raise any suspicion, you know."
-    c ""
+    c "Может быть, но я не стал бы делать что-то сомнительное. Не хочу вызывать подозрения, знаешь."
 
 # game/anna1.rpy:402
 translate russiantl _call_skipcheck_7_5057e9fb:
 
     # An "Good point."
-    An ""
+    An "Хорошая точка зрения."
 
 # game/anna1.rpy:406
 translate russiantl _call_skipcheck_7_37acbaf0:
 
     # An "Well, let's go then."
-    An ""
+    An "Ну, тогда пойдём."
 
 # game/anna1.rpy:408
 translate russiantl _call_skipcheck_7_1274b54e:
 
     # c "After you, milady."
-    c ""
+    c "После вас, миледи."
 
 # game/anna1.rpy:420
 translate russiantl _call_skipcheck_7_fd94623d:
 
     # c "There we are."
-    c ""
+    c "Вот мы и тут."
 
 # game/anna1.rpy:427
 translate russiantl _call_skipcheck_7_db180c37:
 
     # An "Finally. I can't wait to get some coffee into my system."
-    An ""
+    An "Наконец-то. Не могу дождаться, чтобы залить кофе в свой организм."
 
 # game/anna1.rpy:431
 translate russiantl _call_skipcheck_7_692a2e32:
 
     # Ad "Oh, hello [player_name]. Nice to see you again."
-    Ad ""
+    Ad "О, привет, [player_name]. Рада видеть тебя снова."
 
 # game/anna1.rpy:432
 translate russiantl _call_skipcheck_7_6190f4db:
 
     # c "Hey."
-    c ""
+    c "Привет."
 
 # game/anna1.rpy:433
 translate russiantl _call_skipcheck_7_5d6ec4e1:
 
     # Ad "Who's your companion?"
-    Ad ""
+    Ad "Кто это с тобой?"
 
 # game/anna1.rpy:437
 translate russiantl _call_skipcheck_7_9971e8f6:
 
     # An "Can't you just take my order?"
-    An ""
+    An "А не могла бы ты просто принять мой заказ?"
 
 # game/anna1.rpy:441
 translate russiantl _call_skipcheck_7_c97a6805:
 
     # Ad "I apologize. Let me try that again."
-    Ad ""
+    Ad "Прошу прощения. Попробуем ещё раз."
 
 # game/anna1.rpy:447
 translate russiantl _call_skipcheck_7_beab5379:
 
     # Ad "Welcome to our establishment. My name's Adine, and I'll be your waitress today. What can I bring you two?"
-    Ad ""
+    Ad "Добро пожаловать в наше заведение. Меня зову Эдин, сегодня я буду вашей официанткой. Что мне вам принести?"
 
 # game/anna1.rpy:449
 translate russiantl _call_skipcheck_7_24bf5684:
 
     # An "I'll have a coffee."
-    An ""
+    An "Кофе."
 
 # game/anna1.rpy:453
 translate russiantl _call_skipcheck_7_9d9d1b9a:
 
     # Ad "Thank you. And what can I bring the esteemed gentleperson on the other side of the table?"
-    Ad ""
+    Ad "Спасибо. А уважаемый на другой стороне стола?"
 
 # game/anna1.rpy:468
 translate russiantl _call_skipcheck_7_8d408356:
 
     # Ad "No problem, I'll be right back."
-    Ad ""
+    Ad "Нет проблем, скоро вернусь."
 
 # game/anna1.rpy:476
 translate russiantl _call_skipcheck_7_e2d0e6cd:
 
     # An "What's her problem? I'm here to order something, not to chit-chat with the employees."
-    An ""
+    An "Что с ней не так? Я здесь лишь затем, чтобы сделать заказ, а не болтать с работниками."
 
 # game/anna1.rpy:482
 translate russiantl _call_skipcheck_7_e017146f:
 
     # An "I guess I'm not a fan of \"friendly\", then."
-    An ""
+    An "Получается, я не большой фанат \"дружелюбия\"."
 
 # game/anna1.rpy:489
 translate russiantl _call_skipcheck_7_84acc050:
 
     # An "If you say so."
-    An ""
+    An "Как скажешь."
 
 # game/anna1.rpy:495
 translate russiantl _call_skipcheck_7_d2227b0e:
 
     # An "I can see that."
-    An ""
+    An "Понимаю."
 
 # game/anna1.rpy:502
 translate russiantl _call_skipcheck_7_8179bfe4:
 
     # Ad "Here you go. Enjoy."
-    Ad ""
+    Ad "Вот. Наслаждайтесь."
 
 # game/anna1.rpy:519
 translate russiantl _call_skipcheck_7_d1a103e3:
 
     # An "Ah, I totally needed that."
-    An ""
+    An "Ах, я нуждалась в этом."
 
 # game/anna1.rpy:520
 translate russiantl _call_skipcheck_7_b08c600f:
 
     # c "So, you work in that facility."
-    c ""
+    c "Так ты работаешь в этом предприятии."
 
 # game/anna1.rpy:521
 translate russiantl _call_skipcheck_7_5343140e:
 
     # An "And your point is?"
-    An ""
+    An "И?"
 
 # game/anna1.rpy:522
 translate russiantl _call_skipcheck_7_3a37edec:
 
     # c "What's your job there? I mean, what do you do, exactly?"
-    c ""
+    c "В чём заключается твоя работа? Я хочу сказать, что именно ты там делаешь?"
 
 # game/anna1.rpy:523
 translate russiantl _call_skipcheck_7_351663c1:
 
     # An "We do all kinds of things. The truth is, we just have all kinds of specialized machinery there which is used by many different people for many different purposes. The building is owned and run by the council, who oversees the schedule."
-    An ""
+    An "Мы занимаемся всем. У нас есть оборудование всех видов, которое используется разными драконами в разных целях. Самим зданием владеет и управляет консул, который также и контролирует график работы." #TODO проблема с people
 
 # game/anna1.rpy:527
 translate russiantl _call_skipcheck_7_6cb0e058:
 
     # An "It is quite handy, since you can go from research, to testing and even manufacturing, all in the same complex."
-    An ""
+    An "Это довольно полезно - ты можешь заниматься как исследованиями, так и тестами или даже производством, всё в одном."
 
 # game/anna1.rpy:531
 translate russiantl _call_skipcheck_7_f05dd5e5:
 
     # An "I started out as a researcher in biology, which is still my main job, but I've been there so long and learned the ins and outs of the building so well that eventually I was asked to take over some managerial duties."
-    An ""
+    An "Я начинала как исследователь в области биологии, что по-прежнему остаётся моей основной работой. Но я ещё никогда не проводила там столько времени, поэтому мне довелось изучить все тонкости здания настолько хорошо, что после этого мне даже доверили некоторые обязанности управляющего."
 
 # game/anna1.rpy:532
 translate russiantl _call_skipcheck_7_71fb7109:
 
     # An "Sure, it means more work, but it also allows me to run a personal project every once in a while. Does that sate your curiosity?"
-    An ""
+    An "Да, это означает больше работы, но также иногда и позволяет мне проводить собственные исследования или проекты. А это тебя интересует?"
 
 # game/anna1.rpy:539
 translate russiantl _call_skipcheck_7_824f6a3f:
@@ -1953,4 +1953,3 @@ translate russiantl strings:
     # anna1.rpy:990
     old "I don't even know what to say to that."
     new ""
-

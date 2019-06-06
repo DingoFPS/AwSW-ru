@@ -2719,7 +2719,7 @@ translate russiantl chap2park_63c3de98:
 translate russiantl chap2park1choice_891ef6d9:
 
     # "\"This park is dedicated to our creator, to whom we owe our sentience and existence. As it is our duty to remember, this place honors them every day with its beauty and grants a place of recreation and contemplation to all of us.\""
-    ""
+    "\"Этот парк посвящен нашему создателю, которому мы обязаны нашим существованием и разумностью. Поскольку помнить об этом - наш долг, парк напоминает нам об этом своей красотой и предоставляет место для отдыха и размышлений всем нам.\""
 
 # game/chapter2.rpy:2311
 translate russiantl chap2park1choice_6800c3e1:

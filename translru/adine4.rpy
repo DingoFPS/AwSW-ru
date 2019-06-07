@@ -634,7 +634,7 @@ translate russiantl _call_skipcheck_30_470e192b:
 translate russiantl _call_skipcheck_30_35916995:
 
     # "Announcer" "Next on the stage is number 11. A promising newcomer who will show her skills to the public here for the very first time in her debut performance. Please welcome [adinestagename]!"
-    "Announcer" ""
+    "Комментатор" "Следующим на сцену выходит номер 11. Многообещающий новичок, готовый показать своё умение перед публикой впервые в её дебютном выступлении. Поприветствуем [adinestagename]"
 
 # game/adine4.rpy:343
 translate russiantl _call_skipcheck_30_64d1b8e7:
@@ -664,7 +664,7 @@ translate russiantl _call_skipcheck_30_0ceecfbd:
 translate russiantl _call_skipcheck_30_370bcf34:
 
     # "Announcer" "My apologies. It looks like number 11 will not be flying today. Next up is number 12, a certain veteran you may know for his somewhat unusual technique..."
-    "Announcer" ""
+    "Комментатор" "Приносим извинения. Похоже, номер 11 не будет летать сегодня. Следующий - номер 12, уверенный ветеран, которого вы можете знать за его несколько необычную технику..."
 
 # game/adine4.rpy:353
 translate russiantl _call_skipcheck_30_06357b21:

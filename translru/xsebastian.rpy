@@ -1102,13 +1102,13 @@ translate russiantl sebgamestart_d6f6a79f:
 translate russiantl sebgamestart_9421d7e8:
 
     # "Tie? Okay."
-    ""
+    "Ничья? Окей."
 
 # game/xsebastian.rpy:3567
 translate russiantl sebgamestart_cdfc5e1d:
 
     # "Phew."
-    ""
+    "Уф."
 
 # game/xsebastian.rpy:3843
 translate russiantl sebgamestart_558807b7:

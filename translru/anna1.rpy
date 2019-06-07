@@ -190,7 +190,8 @@ translate russiantl _call_skipcheck_7_93f35ab2:
 translate russiantl _call_skipcheck_7_0ecb7924:
 
     # An "If anything were to change, it would obviously fracture the base this society is built on, cause it all to collapse, tear apart families and allow all hell to break lose."
-    An "Если что-нибудь и поменяется, то это, очевидно, разрушит всю основу, на которой построено общество, приведёт к тому, что всё рухнет, разлучит семьи и позволит проявиться настоящему аду наяву." #TODO что-то происходит, и эта фраза идёт на английском, а не русском.
+    An "Если что-нибудь и поменяется, то это, очевидно, разрушит всю основу, на которой построено общество, приведёт к тому, что всё рухнет, разлучит семьи и позволит проявиться настоящему аду наяву." #TODO I think this happens when the line in the game was changed after the translation files were made, so the line isn't recognized by the game anymore. When the translation files are done, you could send them to me and then I can use them to make updated translation files. All the lines that (C) aren't recognized like this will then appear at the end of the translation file, and the translation you already made for that line can be copy/pasted there.
+
 
 # game/anna1.rpy:219
 translate russiantl _call_skipcheck_7_36b5bba3:
@@ -286,7 +287,7 @@ translate russiantl _call_skipcheck_7_4e54941b_1:
 translate russiantl _call_skipcheck_7_09070b4b:
 
     # An "I will."
-    An "Я прощу."
+    An "Обязательно."
 
 # game/anna1.rpy:284
 translate russiantl _call_skipcheck_7_88e9b9fb:
@@ -418,7 +419,7 @@ translate russiantl _call_skipcheck_7_073c8a43:
 translate russiantl _call_skipcheck_7_2b65165b:
 
     # An "We'll see if it'll be mine as well."
-    An "Посмотрим, будет ли это удовольствие у меня."
+    An "Посмотрим, буду ли я рада."
 
 # game/anna1.rpy:354
 translate russiantl _call_skipcheck_7_16f4549a:
@@ -1114,343 +1115,343 @@ translate russiantl wrong1_e34af289:
 translate russiantl wrong1_d0b80300:
 
     # An "Besides, it's not as if it wasn't clear to me from the beginning that I'd win, so no surprises there."
-    An ""
+    An "Кроме того, будто ещё в начале не было понятно, что я выиграю, так что ничего удивительного."
 
 # game/anna1.rpy:849
 translate russiantl cont1_b3f8bf41:
 
     # c "Let's see how you fare with your first question."
-    c ""
+    c "Посмотрим, как там у тебя с первым вопросом." #TODO
 
 # game/anna1.rpy:851
 translate russiantl cont1_c0e353ca:
 
     # An "Bring it."
-    An ""
+    An "Давай."
 
 # game/anna1.rpy:857
 translate russiantl cont1_e7d505dd:
 
     # c "How far can you walk into the woods?"
-    c ""
+    c "Насколько далеко ты можешь зайти в чащу леса?"
 
 # game/anna1.rpy:858
 translate russiantl cont1_f67814b1:
 
     # An "Only until the middle. Anything after that and you're walking out of the woods again."
-    An ""
+    An "Только до середины. Пройти подальше - и ты уже вышел из леса." #TODO
 
 # game/anna1.rpy:859
 translate russiantl cont1_46db7d15:
 
     # c "You're right. That's a rather weird question, though."
-    c ""
+    c "Правильный ответ. Довольно странный, кстати."
 
 # game/anna1.rpy:862
 translate russiantl cont1_9645f5aa:
 
     # An "I suppose I read the right kinds of books growing up. I know most of those trick questions."
-    An ""
+    An "Полагаю, я просто читала хорошие книги в детстве, ибо знаю большинство из этих подвохов."
 
 # game/anna1.rpy:866
 translate russiantl cont1_932eddc4:
 
     # An "Let's see what the second question has in store for you, shall we?"
-    An ""
+    An "Давай лучше посмотрим, каким будет твой второй вопрос."
 
 # game/anna1.rpy:886
 translate russiantl cont1_d66fe21d:
 
     # An "Alright, if there are five apples and you take away three, how many do you have?"
-    An ""
+    An "Так, есть пять яблок, ты забираешь три. Сколько их у тебя будет?" #TODO
 
 # game/anna1.rpy:898
 translate russiantl cont1_bfc11f19:
 
     # An "Guess you also know your trick questions."
-    An ""
+    An "Получается, ты тоже разбираешься в вопросах с подвохом."
 
 # game/anna1.rpy:899
 translate russiantl cont1_5a04b24f:
 
     # c "Apparently so."
-    c ""
+    c "Видимо, именно так."
 
 # game/anna1.rpy:905
 translate russiantl wrong2_7c631ae3:
 
     # An "No. You see, it's a trick question. Three is the correct answer, because that's the number that you took away."
-    An ""
+    An "Не-а. Видишь ли, это такой же вопрос с подвохом. Верный ответ - три, потому что это то количество, которое ты забрал."
 
 # game/anna1.rpy:911
 translate russiantl wrong2_f1b4da89:
 
     # An "Not like mine was any better, but I still knew the answer."
-    An ""
+    An "Непохоже, чтобы мой ответ был хоть чуточку лучше, но я всё равно знаю его."
 
 # game/anna1.rpy:912
 translate russiantl wrong2_6abca927:
 
     # c "Oh well."
-    c ""
+    c "Ох."
 
 # game/anna1.rpy:917
 translate russiantl wrong2_10d76594:
 
     # An "As you wish."
-    An ""
+    An "Как пожелаешь."
 
 # game/anna1.rpy:923
 translate russiantl wrong2_43eb0a75:
 
     # An "Don't be so childish."
-    An ""
+    An "Не веди себя как ребёнок."
 
 # game/anna1.rpy:924
 translate russiantl wrong2_a349b77c:
 
     # c "Alright, alright."
-    c ""
+    c "Ладно, ладно."
 
 # game/anna1.rpy:932
 translate russiantl cont2_65920a5b:
 
     # c "Okay, here's your question: In which year of our timeline did we gain sentience?"
-    c ""
+    c "Хорошо, вот твой следующий вопрос: в каком году нашей временной линии мы обрели разум?" #TODO
 
 # game/anna1.rpy:933
 translate russiantl cont2_5792ac54:
 
     # An "Zero. The beginning of our timeline marks the event when we gained sentience."
-    An ""
+    An "В нулевом. Начало нашей временной линии начинается именно тогда."
 
 # game/anna1.rpy:934
 translate russiantl cont2_735eded7:
 
     # c "Right again. Have you played this game before?"
-    c ""
+    c "Снова безошибочно. Ты раньше играла в это?"
 
 # game/anna1.rpy:938
 translate russiantl cont2_de3d5afd:
 
     # An "It's a children's game. These questions aren't really a challenge."
-    An ""
+    An "Всего лишь детская игра. Все эти вопросы испытанием даже и не являются."
 
 # game/anna1.rpy:942
 translate russiantl cont2_b5ffa71d:
 
     # An "I'll just go ahead and draw the next card, so we can end this."
-    An ""
+    An "Я просто вытяну следующую карту, чтобы мы наконец покончили с этим."
 
 # game/anna1.rpy:962
 translate russiantl cont2_ecaa91ea:
 
     # An "An adventurer who values his life has to choose between three rooms to cross. Which one of the following would be the safest?"
-    An ""
+    An "Искателю приключений, дорожащему своей жизнью, необходимо выбрать между тремя комнатами. Какая из них является самой безопасной?"
 
 # game/anna1.rpy:963
 translate russiantl cont2_ac54beca:
 
     # An "#1: A room filled with poisonous gas. #2: A room filled with one hundred highly trained assassins. #3: A room submerged in water filled with alligators that have not eaten in eight months."
-    An ""
+    An "#1: комната с ядовитым газом. #2: комната с сотней высокообученных убийц. #3: комната, затопленная водой и наполненная аллигаторами, которые не ели уже восемь месяцев."
 
 # game/anna1.rpy:978
 translate russiantl cont2_e0e6802f:
 
     # An "That's right. All the rooms are equally deadly. Alligators can go up to two years or more without food, making room #3 as deadly as the others. The other two rooms should not require any explanation."
-    An ""
+    An "Да. Все комнаты в равной степени смертельны. Аллигаторы могут обходиться без пищи до двух лет и более, поэтому комната 3 так же смертельна, как и остальные. Другие две, полагаю, в объяснениях не нуждаются."
 
 # game/anna1.rpy:982
 translate russiantl cont2_2fe75ba3:
 
     # An "At least according to this card. To be honest, I think the answer is debatable."
-    An ""
+    An "По крайней мере, согласно этой карточке. Мне вообще кажется, что ответ спорный."
 
 # game/anna1.rpy:983
 translate russiantl cont2_eda2a1fe:
 
     # An "Don't worry, I'll still count it as a right answer for you. No need to get your tail caught in a door about it."
-    An ""
+    An "Не волнуйся, я зачту это за верный ответ. Нет нужды прижимать хвост по этому поводу."
 
 # game/anna1.rpy:989
 translate russiantl wrong3_4100da8d:
 
     # An "Nope. In fact, all the rooms are equally deadly. Alligators can go up to two years or more without food, making room #3 as deadly as the others. The other two rooms should not require any explanation."
-    An ""
+    An "А вот и нет. В действительности, все комнаты в равной степени смертельны. Аллигаторы могут обходиться без пищи до двух лет и более, поэтому комната 3 так же смертельна, как и остальные. Другие две, полагаю, в объяснениях не нуждаются."
 
 # game/anna1.rpy:992
 translate russiantl wrong3_76d7a50c:
 
     # An "Don't blame me. I didn't make this game."
-    An ""
+    An "Не вини меня. Не я создавала эту игру."
 
 # game/anna1.rpy:998
 translate russiantl wrong3_a3dabf65:
 
     # An "Guess you don't like this game so much anymore."
-    An ""
+    An "Догадываюсь, тебе эта игра больше не так сильно нравится."
 
 # game/anna1.rpy:1004
 translate russiantl wrong3_a083c857:
 
     # An "I do. I think you're about to lose."
-    An ""
+    An "А я знаю. Думаю, кто-то скоро проиграет."
 
 # game/anna1.rpy:1009
 translate russiantl cont4_cfde30fd:
 
     # c "Looks like this is going to be the last question."
-    c ""
+    c "Похоже, это последний вопрос."
 
 # game/anna1.rpy:1013
 translate russiantl cont4_58cb19cf:
 
     # An "Just get it over with already."
-    An ""
+    An "Давай уже покончим с этим."
 
 # game/anna1.rpy:1018
 translate russiantl cont4_f883752b:
 
     # c "What is the approximate acceleration speed of a nosediving flyer?" a reference to Monty Python where they ask about the airspeed velocity of an unladen swallow
-    c ""
+    c "Какова приблизительная скорость ускорения пикирующего летуна?" #TODO ватвут, не понял, в чём прикол референса
 
 # game/anna1.rpy:1022
 translate russiantl cont4_d35e2a23:
 
     # An "I'll have to think about that one for a minute."
-    An ""
+    An "Мне придётся подумать об этом минутку."
 
 # game/anna1.rpy:1023
 translate russiantl cont4_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/anna1.rpy:1024
 translate russiantl cont4_cf49fd2e:
 
     # c "I was just kidding."
-    c ""
+    c "Шучу."
 
 # game/anna1.rpy:1028
 translate russiantl cont4_a1c6efd2:
 
     # An "I still could have calculated that."
-    An ""
+    An "Я всё равно могла бы рассчитать это."
 
 # game/anna1.rpy:1029
 translate russiantl cont4_5879abc9:
 
     # c "Okay, here's the real question: What is the only substance known to be lighter in its solid form compared to its liquid state?"
-    c ""
+    c "Ладно, вот настоящий вопрос: какое вещество легче в твёрдом состоянии, чем в жидком?"
 
 # game/anna1.rpy:1030
 translate russiantl cont4_f229ea8c:
 
     # An "Water."
-    An ""
+    An "Вода."
 
 # game/anna1.rpy:1031
 translate russiantl cont4_c9ea376e:
 
     # c "That seems to be correct."
-    c ""
+    c "Правильно."
 
 # game/anna1.rpy:1035
 translate russiantl cont4_dccf5e6d:
 
     # An "Of course it is, duh!"
-    An ""
+    An "Ну ещё бы!"
 
 # game/anna1.rpy:1056
 translate russiantl _call_syscheck_36_0bc70d2b:
 
     # s "You answered Anna's questions correctly!"
-    s ""
+    s "Вы ответили на все вопросы Анны без ошибок!"
 
 # game/anna1.rpy:1060
 translate russiantl _call_syscheck_36_181cb589:
 
     # s "You answered Anna's questions correctly. Well done."
-    s ""
+    s "Вы ответили на вопросы Анны без единой ошибки. Так держать."
 
 # game/anna1.rpy:1064
 translate russiantl _call_syscheck_36_69150ed7:
 
     # s "You answered Anna's questions correctly. Feel free to imagine a celebratory rain of confetti pouring down on you, if that makes you feel good."
-    s ""
+    s "Вы ответили на все вопросы Анны безошибочно. Теперь можете представить дождь из конфетти в честь вашей победы, если это принесёт удовольствие."
 
 # game/anna1.rpy:1067
 translate russiantl _call_syscheck_36_24197b9f:
 
     # An "Well, it appears to me that our game has ended in a tie."
-    An ""
+    An "Что ж, кажется, игра окончилась ничьёй."
 
 # game/anna1.rpy:1068
 translate russiantl _call_syscheck_36_a41b1b4e:
 
     # c "What do you propose?"
-    c ""
+    c "И что дальше?" #TODO?
 
 # game/anna1.rpy:1070
 translate russiantl _call_syscheck_36_3e4449d6:
 
     # An "I say we both get our rewards. After all, we each made a good effort to get them."
-    An ""
+    An "Мы вдвоём заслужили награду. В конце концов, каждый приложил немало усилий, чтобы получить их."
 
 # game/anna1.rpy:1071
 translate russiantl _call_syscheck_36_3291805c:
 
     # c "That's fine with me."
-    c ""
+    c "Я не против."
 
 # game/anna1.rpy:1073
 translate russiantl _call_syscheck_36_6238581e:
 
     # An "I won't have a spot in the facility to do the tests for a while, though, so I suppose next time we meet, it'll be a date."
-    An ""
+    An "У меня не найдётся места проводить тесты в предприятии некоторое время, так что следующая встреча точно будет свиданием."
 
 # game/anna1.rpy:1074
 translate russiantl _call_syscheck_36_af0d0955:
 
     # c "Don't forget what I said earlier about what I expect from you on this date. You better be on your best behavior."
-    c ""
+    c "Не забудь, что я сказал раньше о том, что ожидаю от тебя на этом свидании. Тебе лучше быть в хорошем настроении."
 
 # game/anna1.rpy:1076
 translate russiantl _call_syscheck_36_ba35d478:
 
     # An "I'll try."
-    An ""
+    An "Я попытаюсь."
 
 # game/anna1.rpy:1077
 translate russiantl _call_syscheck_36_e897fbb0:
 
     # c "Thank you."
-    c ""
+    c "Спасибо."
 
 # game/anna1.rpy:1079
 translate russiantl _call_syscheck_36_f03c4888:
 
     # An "In any case, I should head back to work. My break is just about over."
-    An ""
+    An "Сейчас мне в любом случае нужно возвращаться к работе. Мой перерыв уже подходит к концу."
 
 # game/anna1.rpy:1080
 translate russiantl _call_syscheck_36_764cb07e:
 
     # c "See you soon, then?"
-    c ""
+    c "Тогда скоро увидимся?"
 
 # game/anna1.rpy:1082
 translate russiantl _call_syscheck_36_20265dca:
 
     # An "Of course. And I'll make sure you deliver your part of the deal."
-    An ""
+    An "Конечно. И будь уверен, что свою часть сделки ты тоже выполнишь."
 
 # game/anna1.rpy:1084
 translate russiantl _call_syscheck_36_46986bde:
 
     # An "See you soon."
-    An ""
+    An "Скоро свидимся."
 
 # game/anna1.rpy:1089
 translate russiantl _call_syscheck_36_76b2fe88:
@@ -1462,121 +1463,121 @@ translate russiantl _call_syscheck_36_76b2fe88:
 translate russiantl _call_syscheck_36_27a8acdb:
 
     # n "Despite all odds, I managed to match her perfect score in the game we played."
-    n ""
+    n "Несмотря ни на что, мне удалось сравниться с ней в этой игре."
 
 # game/anna1.rpy:1093
 translate russiantl _call_syscheck_36_4e513385:
 
     # n "Even though my bet of forcing her to go on a proper date with me was more to get back at her for her earlier rudeness, I had not expected this outcome. I was not even sure what I expected from this meeting in the first place, but now I was locked into going on a date with her and being her own, personal guinea pig."
-    n ""
+    n "Хоть моя ставка, сделанная с целью заставить её пойти со мной на настоящее свидание, и была больше попыткой отомстить ей за её прошлые грубости, я не ожидал такого исхода. Я даже не был уверен, что я в первую очередь ожидал от этого, но теперь ещё и был привязан к походу на свидание с ней и стал её личным подопытным кроликом."
 
 # game/anna1.rpy:1094
 translate russiantl _call_syscheck_36_7f2e72b6:
 
     # n "Whether anything good would come of this, I wasn't sure, either."
-    n ""
+    n "Я не был уверен, получится ли из этого что-то хорошее."
 
 # game/anna1.rpy:1123
 translate russiantl anna1skip_e7d90bc0:
 
     # An "Just look at that, I won."
-    An ""
+    An "Вы только посмотрите, я выиграла."
 
 # game/anna1.rpy:1124
 translate russiantl anna1skip_4a4ac067:
 
     # c "Someone had to."
-    c ""
+    c "Кто-то должен был."
 
 # game/anna1.rpy:1126
 translate russiantl anna1skip_b1004111:
 
     # An "This turned out to be more fun than I expected. Of course, the main reason for that is because I won, but still..."
-    An ""
+    An "Это оказалось куда более забавным, чем я ожидала. Основная причина, конечно, в том, что я выиграла, но всё же..."
 
 # game/anna1.rpy:1127
 translate russiantl anna1skip_f3e7a485:
 
     # c "I get it. You won, you're great, et cetera."
-    c ""
+    c "Ага, я понял. Ты победила, ты молодец, все дела."
 
 # game/anna1.rpy:1129
 translate russiantl anna1skip_e0c94576:
 
     # An "That is true."
-    An ""
+    An "Это правда."
 
 # game/anna1.rpy:1130
 translate russiantl anna1skip_65d81ac2:
 
     # c "So, when should I come in for the tests?"
-    c ""
+    c "Так когда мне приходить для тестов?"
 
 # game/anna1.rpy:1132
 translate russiantl anna1skip_ee815ce8:
 
     # An "Actually, I'm not sure if I'll get a spot for them in the facility anytime soon, but I'll be sure to let you know."
-    An ""
+    An "На самом деле я не совсем уверена, найдётся ли там место проводить тесты ближайшее время, но я дам знать, когда оно будет."
 
 # game/anna1.rpy:1133
 translate russiantl anna1skip_0a6adcc2:
 
     # c "I'm quite sure you will."
-    c ""
+    c "Я в этом уверен."
 
 # game/anna1.rpy:1135
 translate russiantl anna1skip_591c3b68:
 
     # An "But you know what, this wasn't so bad after all. Maybe I'll let you have your date."
-    An ""
+    An "Но знаешь что? Это было не так уж и плохо. Быть может, ты получишь своё свидание."
 
 # game/anna1.rpy:1136
 translate russiantl anna1skip_4e24c2ca:
 
     # c "Really?"
-    c ""
+    c "Правда?"
 
 # game/anna1.rpy:1137
 translate russiantl anna1skip_f5f06e56:
 
     # An "Sure. I mean, you didn't win, but I think you earned it nonetheless. Or maybe I'm just that nice."
-    An ""
+    An "Конечно. Ты не выиграл, но, тем не менее, вполне заслужил. Или, наверное, я просто очень добра."
 
 # game/anna1.rpy:1138
 translate russiantl anna1skip_fe5f3366:
 
     # c "Okay."
-    c ""
+    c "Хорошо."
 
 # game/anna1.rpy:1139
 translate russiantl anna1skip_2318ff16:
 
     # An "Well, it's up to you. Call me if you're interested."
-    An ""
+    An "Ну, выбор по-прежнему за тобой. Позвонишь, если заинтересован."
 
 # game/anna1.rpy:1140
 translate russiantl anna1skip_79abe5b9:
 
     # c "I'll let you know."
-    c ""
+    c "Дам знать."
 
 # game/anna1.rpy:1142
 translate russiantl anna1skip_f8eae38a:
 
     # An "I'm still going to collect my prize, though."
-    An ""
+    An "Я всё равно собираюсь забрать свой приз, если что."
 
 # game/anna1.rpy:1143
 translate russiantl anna1skip_bae7468d:
 
     # c "I'm sure you'll make sure of that."
-    c ""
+    c "Я уверен, ты об этом позаботишься."
 
 # game/anna1.rpy:1145
 translate russiantl anna1skip_b9e3523e:
 
     # An "You bet I will. In any case, I should get going now. My \"break\" is just about to end. Bye!"
-    An ""
+    An "Ты знаешь, что да. Мне в любом случае надо бежать. Мой \"перерыв\" уже подходит к концу. Пока!"
 
 # game/anna1.rpy:1150
 translate russiantl anna1skip_76b2fe88:
@@ -1588,368 +1589,368 @@ translate russiantl anna1skip_76b2fe88:
 translate russiantl anna1skip_4190e1e7:
 
     # n "I was not sure what I had expected out of this encounter, but it certainly wasn't this."
-    n ""
+    n "Я и не знал, что мне ожидать от этой встречи, но однозначно не такого."
 
 # game/anna1.rpy:1154
 translate russiantl anna1skip_6329633b:
 
     # n "After all, proposing a proper date was my way of sticking it to her for being rude."
-    n ""
+    n "В конце концов, таким образом я хотел высмеять её за предыдущие грубости." #TODO
 
 # game/anna1.rpy:1155
 translate russiantl anna1skip_1935d8cf:
 
     # n "Even though I lost the bet, she didn't seem to mind going on a date with me, as long as she got what she wanted. Whether I would follow up on it was up to me, though."
-    n ""
+    n "Хоть я и проиграл, она, кажется, не была против свидания. По крайней мере до тех пор, пока я выполняю свою часть сделки. Сдержу ли я своё слово, однако, зависело лишь от меня." #TODO
 
 # game/anna1.rpy:1182
 translate russiantl anna1skip_5a69d41d:
 
     # An "And in a twist of fate that shocked no one, Anna, the magnificent, won the game."
-    An ""
+    An "И, по иронии судьбы, которая никого не шокировала, Анна непревзойдённая побеждает."
 
 # game/anna1.rpy:1183
 translate russiantl anna1skip_73914479:
 
     # c "Oh, knock it off."
-    c ""
+    c "Ну хватит уже."
 
 # game/anna1.rpy:1185
 translate russiantl anna1skip_840cf566:
 
     # An "What's your problem? I earned this."
-    An ""
+    An "Что не так? Я это заслужила."
 
 # game/anna1.rpy:1186
 translate russiantl anna1skip_51af90a0:
 
     # c "I suppose you did, but you had the home field advantage."
-    c ""
+    c "Может, и так, но у тебя было преимущество."
 
 # game/anna1.rpy:1188
 translate russiantl anna1skip_86f05589:
 
     # An "You didn't mind that when you proposed we play this stupid game. You're such a sore loser, you know that?"
-    An ""
+    An "Ты не был особо против, когда предлагал сыграть. Ты такой неудачник, ты в курсе?"
 
 # game/anna1.rpy:1189
 translate russiantl anna1skip_7eb6d8f6:
 
     # c "And you're about the worst winner I've ever met."
-    c ""
+    c "А ты, похоже, одна из худших победитилей, которых я когда-либо встречал." #TODO?
 
 # game/anna1.rpy:1191
 translate russiantl anna1skip_35135016:
 
     # An "I think you're just experiencing acute posterior pain, because you don't get to go on a date with me now."
-    An ""
+    An "А я думаю, что ты просто испытываешь ноющую боль проигравшего, ибо у тебя уже не получится сходить со мной на свидание." #TODO?
 
 # game/anna1.rpy:1192
 translate russiantl anna1skip_6af3e46d:
 
     # c "I didn't want to go on a date with you in the first place. I just wanted to teach you some manners."
-    c ""
+    c "Моей целью было не пойти с тобой на свидание, а просто научить тебя манерам."
 
 # game/anna1.rpy:1194
 translate russiantl anna1skip_bba286a8:
 
     # An "Mission accomplished."
-    An ""
+    An "Миссия выполнена."
 
 # game/anna1.rpy:1195
 translate russiantl anna1skip_f64a830d:
 
     # c "See, that's what I'm talking about."
-    c ""
+    c "А я о чём." #TODO?
 
 # game/anna1.rpy:1197
 translate russiantl anna1skip_44223133:
 
     # An "Because you'd obviously be such a good teacher, the way you exude virtues such as civility and humbleness, and tried to force someone to go on a date with you on a bet."
-    An ""
+    An "Ты был бы таким хорошим учителем. Ты так сильно излучаешь добродетели по типу вежливости и скромности, что ты силой хотел заставить пойти кого-то с тобой на свидание."
 
 # game/anna1.rpy:1198
 translate russiantl anna1skip_0eabec36:
 
     # c "Maybe you should step down from your high horse for once."
-    c ""
+    c "Может, тебе стоило бы уже сойти с небес на землю, хотя бы разок?"
 
 # game/anna1.rpy:1200
 translate russiantl anna1skip_b7bca3d1:
 
     # An "You criticize me, but you're such a hypocrite. I can't even understand what you're saying. What's a horse?"
-    An ""
+    An "Ты осуждаешь меня, но на самом деле такой лицемер. Я даже не могу понять, что ты хотел донести до меня. С каких ещё небес?" #TODO сложная шутка
 
 # game/anna1.rpy:1201
 translate russiantl anna1skip_089d2a2e:
 
     # c "There's no reasoning with you."
-    c ""
+    c "Нет смысла с тобой спорить."
 
 # game/anna1.rpy:1202
 translate russiantl anna1skip_b8212a9e:
 
     # An "No, not since one of us thought they were somehow better than the other. Where did the sudden superiority complex come from?"
-    An ""
+    An "Нет, не потому, что один из нас думал, что он как-то лучше другого. Откуда взялся комплекс внезапного превосходства?" #TODO!
 
 # game/anna1.rpy:1203
 translate russiantl anna1skip_9ceffd57:
 
     # An "Just because, oh my gosh, you happen to be human and therefore deserve special treatment? You're just like Reza in that regard."
-    An ""
+    An "Просто потому, чёрт возьми, что тебе повезло быть человеком и поэтому ты заслуживаешь особенного обращения? Да ты просто как Реза в этом случае."
 
 # game/anna1.rpy:1204
 translate russiantl anna1skip_fc5368ed:
 
     # c "Reza..."
-    c ""
+    c "Реза..."
 
 # game/anna1.rpy:1206
 translate russiantl anna1skip_fee6d309:
 
     # An "You know what? I'm leaving now, but don't expect for a minute that I won't make sure that you'll deliver on your end of the deal."
-    An ""
+    An "А знаешь что? Я ухожу, но даже и не ожидай, что я забуду про твою часть сделки."
 
 # game/anna1.rpy:1207
 translate russiantl anna1skip_54119fe9:
 
     # c "Whatever."
-    c ""
+    c "Ага." #TODO?
 
 translate russiantl strings:
 
     # anna1.rpy:10
     old "Chapter 4 - Anna 1"
-    new ""
+    new "Глава 4 - Анна 1"
 
     # anna1.rpy:14
     old "Chapter 3 - Anna 1"
-    new ""
+    new "Глава 3 - Анна 1"
 
     # anna1.rpy:18
     old "Chapter 2 - Anna 1"
-    new ""
+    new "Глава 2 - Анна 1"
 
     # anna1.rpy:22
     old "Chapter 1 - Anna 1"
-    new ""
+    new "Глава 1 - Анна 1"
 
     # anna1.rpy:170
     old "What was that all about?"
-    new ""
+    new "О чём вы тут болтали?"
 
     # anna1.rpy:170
     old "Hey, Anna."
-    new ""
+    new "Привет, Анна."
 
     # anna1.rpy:170
     old "Hellooo."
-    new ""
+    new "Приве-е-е-ет."
 
     # anna1.rpy:192
     old "I saw everything."
-    new ""
+    new "Я всё видел."
 
     # anna1.rpy:192
     old "Not very long."
-    new ""
+    new "Да не так уж и долго."
 
     # anna1.rpy:274
     old "Guess you can give me the tour some other time, then."
-    new ""
+    new "Тогда в следующий раз, наверное?"
 
     # anna1.rpy:274
     old "How disappointing."
-    new ""
+    new "Как разочаровывающе."
 
     # anna1.rpy:274
     old "I see."
-    new ""
+    new "Понимаю."
 
     # anna1.rpy:320
     old "What a lucky coincidence."
-    new ""
+    new "Какое удачное стечение обстоятельств."
 
     # anna1.rpy:320
     old "I hope no one notices your unscheduled break."
-    new ""
+    new "Будем надеяться, что никто не заметит твой незапланированный перерыв."
 
     # anna1.rpy:320
     old "I wish I had the ability to make breaks happen at my convenience."
-    new ""
+    new "Хотел бы я тоже устраивать перерывы по своему усмотрению."
 
     # anna1.rpy:344
     old "It would be my pleasure."
-    new ""
+    new "Я был бы только рад."
 
     # anna1.rpy:344
     old "I think I'd rather not."
-    new ""
+    new "Думаю, я не сильно горю желанием."
 
     # anna1.rpy:455
     old "I'll also take a coffee, please."
-    new ""
+    new "Мне тоже кофе, пожалуйста."
 
     # anna1.rpy:455
     old "Just a soda."
-    new ""
+    new "Просто газировку."
 
     # anna1.rpy:455
     old "Bring me a beer."
-    new ""
+    new "Пиво, будьте добры." #TODO?
 
     # anna1.rpy:478
     old "I think she was just trying to be friendly."
-    new ""
+    new "Думаю, она просто пыталась быть дружелюбной."
 
     # anna1.rpy:478
     old "I know her, it's fine."
-    new ""
+    new "Я знаю её, всё нормально."
 
     # anna1.rpy:478
     old "I know, she can be pretty annoying."
-    new ""
+    new "Знаю, она может быть довольно доставучей."
 
     # anna1.rpy:534
     old "I've only seen glimpses, but it already sounds like a fascinating place."
-    new ""
+    new "Видел всего пару раз, но уже звучит захватывающе."
 
     # anna1.rpy:534
     old "It does."
-    new ""
+    new "Ага."
 
     # anna1.rpy:534
     old "Not at all."
-    new ""
+    new "Нисколько."
 
     # anna1.rpy:562
     old "I was just asking a question, that's all."
-    new ""
+    new "Я просто задавал вопрос, ничего больше."
 
     # anna1.rpy:562
     old "Yes, totally. You can call your lawyer if you like."
-    new ""
+    new "Да, абсолютно. Можешь позвонить своему адвокату, если хочешь."
 
     # anna1.rpy:562
     old "I think someone's in a bad mood."
-    new ""
+    new "Кажется, кто-то не в духе."
 
     # anna1.rpy:578
     old "Alright, I'll finish my drink quietly, then, if that's what you'd prefer."
-    new ""
+    new "Так и быть, тогда я допью молча, если тебе так больше понравится."
 
     # anna1.rpy:578
     old "Okay, I guess you don't like questions, then."
-    new ""
+    new "Ладно, наверное, ты просто не любишь вопросы."
 
     # anna1.rpy:578
     old "Excuuuse me, princess."
-    new ""
+    new "Прошу простить меня, принцесса." #TODO
 
     # anna1.rpy:640
     old "Anything to get you to shut up about work already."
-    new ""
+    new "Что-нибудь, что уже наконец заставит тебя прекратить говорить о работе."
 
     # anna1.rpy:640
     old "Just wait and you'll see."
-    new ""
+    new "Просто жди и увидишь."
 
     # anna1.rpy:640
     old "I'm being cute and spontaneous?"
-    new ""
+    new "Быть милым и непредсказуемым?"
 
     # anna1.rpy:714
     old "If that's what you want, so be it."
-    new ""
+    new "Если это то, чего ты хочешь, так и быть."
 
     # anna1.rpy:714
     old "Alright."
-    new ""
+    new "Ладно."
 
     # anna1.rpy:714
     old "I cannot agree to that."
-    new ""
+    new "Не могу согласиться."
 
     # anna1.rpy:727
     old "Sorry, but I can't sell my body for a bet."
-    new ""
+    new "Извини, но я не могу использовать своё тело в качестве ставки."
 
     # anna1.rpy:727
     old "I changed my mind, I'll do it."
-    new ""
+    new "Я передумал, ладно."
 
     # anna1.rpy:803
     old "Haziq Aakil"
-    new ""
+    new "Хазик Аакил" #TODO
 
     # anna1.rpy:803
     old "Otomo Izumi"
-    new ""
+    new "Отомо Идзуми"
 
     # anna1.rpy:803
     old "Damion Dandelion"
-    new ""
+    new "Дэмион Лютик"
 
     # anna1.rpy:809
     old "Maybe you shouldn't underestimate me."
-    new ""
+    new "Быть может, тебе не стоит недооценивать меня."
 
     # anna1.rpy:809
     old "It was a lucky guess."
-    new ""
+    new "Это была удачная догадка."
 
     # anna1.rpy:809
     old "Not a good start for you, is it?"
-    new ""
+    new "Не самое лучшее начало для тебя, м?"
 
     # anna1.rpy:888
     old "One."
-    new ""
+    new "Одно."
 
     # anna1.rpy:888
     old "Two."
-    new ""
+    new "Два."
 
     # anna1.rpy:888
     old "Three."
-    new ""
+    new "Три."
 
     # anna1.rpy:906
     old "What a stupid question."
-    new ""
+    new "Какой глупый вопрос."
 
     # anna1.rpy:906
     old "Let's just move on."
-    new ""
+    new "Ладно, давай продолжать."
 
     # anna1.rpy:906
     old "That doesn't count."
-    new ""
+    new "Это не считается."
 
     # anna1.rpy:965
     old "#1, the room filled with poisonous gas."
-    new ""
+    new "#1, комната с ядовитым газом."
 
     # anna1.rpy:965
     old "#2, the room filled with one hundred highly trained assassins."
-    new ""
+    new "#2, комната с сотней высокообученных убийц."
 
     # anna1.rpy:965
     old "#3, the room submerged in water filled with alligators that have not eaten in eight months."
-    new ""
+    new "#3, комната, затопленная водой и наполненная аллигаторами, которые не ели уже восемь месяцев."
 
     # anna1.rpy:965
     old "None of these."
-    new ""
+    new "Ни одна из них."
 
     # anna1.rpy:990
     old "This question is poorly worded."
-    new ""
+    new "Этот вопрос составлен не лучшим образом."
 
     # anna1.rpy:990
     old "This is ridiculous."
-    new ""
+    new "Это нелепо."
 
     # anna1.rpy:990
     old "I don't even know what to say to that."
-    new ""
+    new "Даже и не знаю, что сказать."

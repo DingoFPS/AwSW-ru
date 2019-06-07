@@ -72,7 +72,7 @@ translate russiantl strings:
 
     # images.rpy:1157
     old "Food Vendor"
-    new "Торговец едой"
+    new "Лоточник"
 
     # images.rpy:1158
     old "Waiter"

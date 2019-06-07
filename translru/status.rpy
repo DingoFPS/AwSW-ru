@@ -12,7 +12,7 @@ translate russiantl strings:
 
     # status.rpy:30
     old "Status: {b}Good{/b}\nScenes played: {b}[remyscenesfinished]{/b}"
-    new "Статус: {b}Хорошо{/b}\nСцен сыграно: {b}[remyscenesfinished]{/b}"
+    new "Статус: {b}хороший{/b}\nЭпизодов сыграно: {b}[remyscenesfinished]{/b}"
 
     # status.rpy:40
     old "Status: {b}Impressed{/b}\nScenes played: {b}[remyscenesfinished]{/b}"

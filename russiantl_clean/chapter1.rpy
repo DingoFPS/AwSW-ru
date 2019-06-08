@@ -11,6 +11,7 @@ translate russiantl nameentryx_058ab5bf:
 
     # s "User profile not found."
     s ""
+    $ player_name = u"Имя"
 
 # game/chapter1.rpy:108
 translate russiantl colormenu1_e933acee:
@@ -64,19 +65,19 @@ translate russiantl detected_bd29307b:
 translate russiantl detected_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    ""
+    "Управление\nИспользуйте [[ЛКМ] или [[Enter] чтобы листать текст и выбирать пункты меню.\nНажмите [[Пробел] чтобы просто листнуть текст. Это поможет вам не выбрать случайно не тот вариант ответа."
 
 # game/chapter1.rpy:384
 translate russiantl detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    ""
+    "[[ESC] или [[ПКМ] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Колесико мыши], или [[Page Up] и [[Page Down] чтобы смотреть прошлые сообщения."
 
 # game/chapter1.rpy:385
 translate russiantl detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    ""
+    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[СКМ] или [[H] скрывает текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы можете попасть сюда из главного меню."
 
 # game/chapter1.rpy:386
 translate russiantl detected_4f5f91c6:
@@ -106,19 +107,19 @@ translate russiantl colorend_bd29307b:
 translate russiantl colorend_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    ""
+    "Управление\nИспользуйте [[ЛКМ] или [[Enter] чтобы листать текст и выбирать пункты меню.\nНажмите [[Пробел] чтобы просто листнуть текст. Это поможет вам не выбрать случайно не тот вариант ответа."
 
 # game/chapter1.rpy:407
 translate russiantl colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    ""
+    "[[ESC] или [[ПКМ] открывает меню.\n[[F] переключает полноэкранный режим.\nИспользуйте [[Колесико мыши], или [[Page Up] и [[Page Down] чтобы смотреть прошлые сообщения."
 
 # game/chapter1.rpy:408
 translate russiantl colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    ""
+    "Зажмите [[Ctrl] или нажмите [[Tab] чтобы промотать просмотренные сообщения.\n[[S] снимает скриншот.\n[[СКМ] или [[H] скрывает текстовое окно.\nЕсли захотите увидеть эту информацию снова, вы можете попасть сюда из главного меню."
 
 # game/chapter1.rpy:409
 translate russiantl colorend_7c214f52:

@@ -376,7 +376,7 @@ translate russiantl _call_skipcheck_31_5456f029:
 translate russiantl _call_skipcheck_31_b221b37d:
 
     # "Resident" "What do you want?"
-    "Resident" ""
+    "Житель" "Что вы хотите?"
 
 # game/xzhong.rpy:273
 translate russiantl _call_skipcheck_31_70f75b45:
@@ -388,7 +388,7 @@ translate russiantl _call_skipcheck_31_70f75b45:
 translate russiantl _call_skipcheck_31_a06f90e0:
 
     # "Resident" "Who wants to know that?"
-    "Resident" ""
+    "Житель" "А кто спрашивает?"
 
 # game/xzhong.rpy:277
 translate russiantl _call_skipcheck_31_60fa7ad8:
@@ -400,13 +400,13 @@ translate russiantl _call_skipcheck_31_60fa7ad8:
 translate russiantl _call_skipcheck_31_06613f18:
 
     # "Resident" "Oh, no."
-    "Resident" ""
+    "Житель" "О, нет."
 
 # game/xzhong.rpy:281
 translate russiantl _call_skipcheck_31_56f87329:
 
     # "Resident" "You know what? I'm not dealing with this right now. We didn't give you away just so you could show up whenever you please."
-    "Resident" ""
+    "Житель" "Знаешь что? Я не собираюсь разбираться c этим сейчас. Мы не для того тебя отдавали, чтобы ты приходил когда тебе захочется."
 
 # game/xzhong.rpy:283
 translate russiantl _call_skipcheck_31_fb9a3bff:
